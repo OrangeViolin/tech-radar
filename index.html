@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>科技雷达日报 — 2026-04-07</title>
+<style>
+  :root {
+    --bg: #0a0e17;
+    --surface: #111827;
+    --surface2: #1a2332;
+    --border: #1e2d3d;
+    --text: #e2e8f0;
+    --text-muted: #94a3b8;
+    --accent: #38bdf8;
+    --accent2: #818cf8;
+    --green: #34d399;
+    --red: #f87171;
+    --orange: #fb923c;
+    --yellow: #fbbf24;
+    --pink: #f472b6;
+    --radius: 12px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans SC', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+  .hero {
+    background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 1.5rem 2.5rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(ellipse at 30% 50%, rgba(56, 189, 248, 0.08) 0%, transparent 60%),
+                radial-gradient(ellipse at 70% 50%, rgba(129, 140, 248, 0.06) 0%, transparent 60%);
+    animation: pulse 8s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 0.6; }
+    50% { opacity: 1; }
+  }
+  .hero-content { position: relative; z-index: 1; max-width: 800px; margin: 0 auto; }
+  .hero h1 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.3rem;
+  }
+  .hero .date { color: var(--text-muted); font-size: 1rem; margin-bottom: 1.2rem; }
+  .hero .sources {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .hero .sources span {
+    background: rgba(56, 189, 248, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    border-radius: 20px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.8rem;
+    color: var(--accent);
+  }
+  .container { max-width: 1200px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+  /* Speed Read */
+  .speed-read {
+    background: linear-gradient(135deg, rgba(56, 189, 248, 0.05), rgba(129, 140, 248, 0.05));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem 2rem;
+    margin-bottom: 2.5rem;
+  }
+  .speed-read h2 {
+    font-size: 1.1rem;
+    color: var(--accent);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .speed-read ol { padding-left: 1.2rem; }
+  .speed-read li {
+    margin-bottom: 0.8rem;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+  }
+  .speed-read li strong { color: var(--text); }
+
+  /* Section */
+  .section {
+    margin-bottom: 2.5rem;
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-header .icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    flex-shrink: 0;
+  }
+  .section-header h2 { font-size: 1.2rem; font-weight: 700; }
+  .section-header .count {
+    background: var(--surface2);
+    border-radius: 12px;
+    padding: 0.15rem 0.6rem;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+
+  /* Cards Grid */
+  .cards { display: grid; gap: 0.75rem; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem 1.25rem;
+    transition: border-color 0.2s, transform 0.15s;
+  }
+  .card:hover {
+    border-color: rgba(56, 189, 248, 0.3);
+    transform: translateY(-1px);
+  }
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.4rem;
+  }
+  .card-rank {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: rgba(56, 189, 248, 0.1);
+    border-radius: 6px;
+    padding: 0.1rem 0.5rem;
+    flex-shrink: 0;
+  }
+  .card-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    flex: 1;
+  }
+  .card-title a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .card-title a:hover { color: var(--accent); }
+  .card-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 0.5rem;
+  }
+  .card-meta {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .tag {
+    font-size: 0.72rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 6px;
+    font-weight: 500;
+  }
+  .tag-lang { background: rgba(129, 140, 248, 0.15); color: var(--accent2); }
+  .tag-stars { background: rgba(251, 191, 36, 0.15); color: var(--yellow); }
+  .tag-growth { background: rgba(52, 211, 153, 0.15); color: var(--green); }
+  .tag-votes { background: rgba(244, 114, 182, 0.15); color: var(--pink); }
+  .tag-pts { background: rgba(248, 113, 113, 0.15); color: var(--red); }
+  .tag-comments { background: rgba(148, 163, 184, 0.1); color: var(--text-muted); }
+  .tag-action { font-weight: 600; }
+  .tag-action.write { background: rgba(52, 211, 153, 0.2); color: var(--green); }
+  .tag-action.use { background: rgba(56, 189, 248, 0.2); color: var(--accent); }
+  .tag-action.watch { background: rgba(251, 191, 36, 0.2); color: var(--yellow); }
+  .tag-action.skip { background: rgba(148, 163, 184, 0.1); color: var(--text-muted); }
+  .tag-action.core { background: rgba(248, 113, 113, 0.2); color: var(--red); }
+
+  /* Signal Section */
+  .signals { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+  .signal-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+    border-left: 3px solid var(--accent);
+  }
+  .signal-card h3 { font-size: 0.95rem; margin-bottom: 0.5rem; color: var(--text); }
+  .signal-card ul {
+    list-style: none;
+    padding: 0;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+  }
+  .signal-card ul li { margin-bottom: 0.3rem; padding-left: 0.8rem; position: relative; }
+  .signal-card ul li::before {
+    content: '›';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-weight: bold;
+  }
+  .signal-card .conclusion {
+    margin-top: 0.6rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.82rem;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  /* Polymarket */
+  .poly-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0.3rem 0;
+  }
+  .poly-fill {
+    height: 6px;
+    border-radius: 3px;
+    flex: 1;
+    background: var(--surface2);
+    position: relative;
+    overflow: hidden;
+  }
+  .poly-fill .inner {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.6s ease;
+  }
+  .poly-pct { font-size: 0.8rem; font-weight: 700; min-width: 4rem; text-align: right; }
+
+  /* Builders */
+  .builder-card {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  .builder-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.9rem;
+    flex-shrink: 0;
+    color: white;
+  }
+  .builder-info { flex: 1; }
+  .builder-name { font-weight: 600; font-size: 0.9rem; }
+  .builder-handle { color: var(--text-muted); font-size: 0.8rem; }
+
+  /* Topics */
+  .topic-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); }
+  .topic-card {
+    background: linear-gradient(135deg, var(--surface), var(--surface2));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .topic-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+  }
+  .topic-card:nth-child(1)::before { background: linear-gradient(90deg, var(--red), var(--orange)); }
+  .topic-card:nth-child(2)::before { background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+  .topic-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green), var(--yellow)); }
+  .topic-card:nth-child(4)::before { background: linear-gradient(90deg, var(--pink), var(--accent2)); }
+  .topic-card:nth-child(5)::before { background: linear-gradient(90deg, var(--orange), var(--yellow)); }
+  .topic-num {
+    font-size: 2rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+  .topic-card h3 { font-size: 1rem; margin-bottom: 0.5rem; line-height: 1.4; }
+  .topic-card p { font-size: 0.82rem; color: var(--text-muted); margin-bottom: 0.5rem; }
+  .topic-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.6rem; }
+  .topic-tag {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    background: rgba(56, 189, 248, 0.1);
+    color: var(--accent);
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+  .footer a { color: var(--accent); text-decoration: none; }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .hero h1 { font-size: 1.6rem; }
+    .container { padding: 1.5rem 1rem; }
+    .signals { grid-template-columns: 1fr; }
+    .topic-grid { grid-template-columns: 1fr; }
+  }
+
+  /* Tabs */
+  .tab-bar {
+    display: flex;
+    gap: 0.25rem;
+    margin-bottom: 1rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .tab-btn {
+    padding: 0.4rem 0.9rem;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.82rem;
+    white-space: nowrap;
+    transition: all 0.2s;
+  }
+  .tab-btn.active {
+    background: rgba(56, 189, 248, 0.1);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-content">
+    <h1>科技雷达日报</h1>
+    <div class="date">2026 年 4 月 7 日 · 星期二</div>
+    <div class="sources">
+      <span>GitHub Trending</span>
+      <span>Hacker News</span>
+      <span>Product Hunt</span>
+      <span>Polymarket</span>
+      <span>Follow Builders</span>
+      <span>张咋啦 AI</span>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- 30s Speed Read -->
+  <div class="speed-read">
+    <h2>&#9889; 30 秒速读</h2>
+    <ol>
+      <li><strong>美伊冲突主导预测市场</strong> — Polymarket 显示美军进入伊朗概率 99.7%（$44M 交易量），4/7 停火概率仅 3%。地缘风险已被完全定价，关注对科技供应链的二阶影响。</li>
+      <li><strong>Claude Code 生态热度不减</strong> — everything-claude-code 14.3 万星（+8 万/月），GitHub 月榜半数以上为 Agent/Skill 项目。但 HN 上 939 分热帖吐槽"复杂任务不可用"，机遇与痛点并存。</li>
+      <li><strong>AI 信任大考来临</strong> — Sam Altman 信任危机登顶 HN（1,191 分）+ "Vibe Coding 是失控的 dogfooding"（517 分）→ 行业从狂热转向冷静审视。</li>
+    </ol>
+  </div>
+
+  <!-- Cross-source Signals -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(248,113,113,0.15);">&#128225;</div>
+      <h2>跨源强信号</h2>
+      <span class="count">4 个信号</span>
+    </div>
+    <div class="signals">
+      <div class="signal-card" style="border-left-color: var(--red);">
+        <h3>AI 信任危机全面爆发</h3>
+        <ul>
+          <li>HN: Sam Altman 信任质疑 1,191 分（全站第一）</li>
+          <li>HN: Vibe Coding 失控批判 517 分</li>
+          <li>HN: Claude Code 复杂任务可用性 939 分</li>
+          <li>Builders: Aaron Levie 讨论 AI 就业影响</li>
+        </ul>
+        <div class="conclusion">行业正从"狂热追捧"转向"冷静审视"</div>
+      </div>
+      <div class="signal-card" style="border-left-color: var(--accent);">
+        <h3>Claude Code 生态依然最强</h3>
+        <ul>
+          <li>GitHub: everything-cc +8 万, superpowers +6.6 万</li>
+          <li>HN: 可用性讨论 939 分 / 531 评论</li>
+          <li>PH: Voice Mode 397v, Cursor 3 竞品 369v</li>
+          <li>GitHub: 月榜 6+ 个 Claude Code 相关项目</li>
+        </ul>
+        <div class="conclusion">生态爆发 + 痛点暴露 = 最佳内容窗口</div>
+      </div>
+      <div class="signal-card" style="border-left-color: var(--green);">
+        <h3>本地 AI / 端侧推理加速</h3>
+        <ul>
+          <li>GitHub: Google AI Edge 两项目同时上榜</li>
+          <li>HN: Ghost Pepper 本地 STT 339 分</li>
+          <li>PH: Walkie 本地语音 199v</li>
+          <li>PH: Ollama v0.19 Apple Silicon 加速 414v</li>
+        </ul>
+        <div class="conclusion">"AI 在本地跑"从极客玩具变主流</div>
+      </div>
+      <div class="signal-card" style="border-left-color: var(--orange);">
+        <h3>太空热潮 × 科技联动</h3>
+        <ul>
+          <li>PH: Moonshot 追踪 Artemis II 394v（日榜第一）</li>
+          <li>Builders: Replit CEO 做 Artemis II 可视化</li>
+          <li>HN: Apollo 计算机修复引发怀旧</li>
+        </ul>
+        <div class="conclusion">Artemis II 是短期热点，科技产品蹭热好时机</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- GitHub Trending -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(129,140,248,0.15);">&#128187;</div>
+      <h2>GitHub Trending</h2>
+    </div>
+    <div class="tab-bar" data-group="gh">
+      <button class="tab-btn active" data-tab="gh-daily">日榜 Top 5</button>
+      <button class="tab-btn" data-tab="gh-monthly">月榜 Top 20</button>
+    </div>
+    <div id="gh-daily" class="tab-panel active">
+      <div class="cards">
+        <div class="card">
+          <div class="card-top">
+            <span class="card-rank">#1</span>
+            <div class="card-title"><a href="https://github.com/aaif-goose/goose" target="_blank">aaif-goose/goose</a></div>
+          </div>
+          <div class="card-desc">开源可扩展 AI Agent — Claude Code 的主要竞品</div>
+          <div class="card-meta">
+            <span class="tag tag-lang">Rust</span>
+            <span class="tag tag-stars">38,331 &#11088;</span>
+            <span class="tag tag-growth">+1,523 today</span>
+            <span class="tag tag-action watch">跟踪</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-top">
+            <span class="card-rank">#2</span>
+            <div class="card-title"><a href="https://github.com/google-ai-edge/gallery" target="_blank">google-ai-edge/gallery</a></div>
+          </div>
+          <div class="card-desc">Google 端侧 ML/GenAI 示例集</div>
+          <div class="card-meta">
+            <span class="tag tag-lang">Kotlin</span>
+            <span class="tag tag-stars">18,132 &#11088;</span>
+            <span class="tag tag-growth">+1,107 today</span>
+            <span class="tag tag-action watch">关注</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-top">
+            <span class="card-rank">#3</span>
+            <div class="card-title"><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">abhigyanpatwari/GitNexus</a></div>
+          </div>
+          <div class="card-desc">零服务器代码智能引擎，客户端知识图谱</div>
+          <div class="card-meta">
+            <span class="tag tag-lang">TypeScript</span>
+            <span class="tag tag-stars">23,762 &#11088;</span>
+            <span class="tag tag-growth">+857 today</span>
+            <span class="tag tag-action watch">关注</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-top">
+            <span class="card-rank">#4</span>
+            <div class="card-title"><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">google-ai-edge/LiteRT-LM</a></div>
+          </div>
+          <div class="card-desc">Google 端侧轻量 LLM 推理引擎</div>
+          <div class="card-meta">
+            <span class="tag tag-lang">C++</span>
+            <span class="tag tag-stars">2,154 &#11088;</span>
+            <span class="tag tag-growth">+483 today</span>
+            <span class="tag tag-action skip">了解</span>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-top">
+            <span class="card-rank">#5</span>
+            <div class="card-title"><a href="https://github.com/immich-app/immich" target="_blank">immich-app/immich</a></div>
+          </div>
+          <div class="card-desc">自托管照片/视频管理方案</div>
+          <div class="card-meta">
+            <span class="tag tag-lang">TypeScript</span>
+            <span class="tag tag-stars">97,009 &#11088;</span>
+            <span class="tag tag-growth">+152 today</span>
+            <span class="tag tag-action skip">忽略</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="gh-monthly" class="tab-panel">
+      <div class="cards">
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#1</span><div class="card-title"><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">everything-claude-code</a></div></div>
+          <div class="card-desc">Claude Code 全套优化系统</div>
+          <div class="card-meta"><span class="tag tag-lang">JS</span><span class="tag tag-stars">143,278 &#11088;</span><span class="tag tag-growth">+80,296 /月</span><span class="tag tag-action core">核心</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#2</span><div class="card-title"><a href="https://github.com/obra/superpowers" target="_blank">obra/superpowers</a></div></div>
+          <div class="card-desc">Agent 技能框架 + 开发方法论</div>
+          <div class="card-meta"><span class="tag tag-lang">Shell</span><span class="tag tag-stars">137,963 &#11088;</span><span class="tag tag-growth">+65,548 /月</span><span class="tag tag-action core">核心</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#3</span><div class="card-title"><a href="https://github.com/msitarzewski/agency-agents" target="_blank">agency-agents</a></div></div>
+          <div class="card-desc">AI 代理机构：专业分工 expert agents</div>
+          <div class="card-meta"><span class="tag tag-lang">Shell</span><span class="tag tag-stars">73,518 &#11088;</span><span class="tag tag-growth">+64,098 /月</span><span class="tag tag-action write">写文章</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#4</span><div class="card-title"><a href="https://github.com/bytedance/deer-flow" target="_blank">bytedance/deer-flow</a></div></div>
+          <div class="card-desc">字节长周期 SuperAgent 框架</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">58,809 &#11088;</span><span class="tag tag-growth">+33,924 /月</span><span class="tag tag-action write">选题</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#5</span><div class="card-title"><a href="https://github.com/666ghj/MiroFish" target="_blank">MiroFish</a></div></div>
+          <div class="card-desc">群体智能预测引擎（已验证星数注水）</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">50,884 &#11088;</span><span class="tag tag-growth">+45,905 /月</span><span class="tag tag-action skip">跳过</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#6</span><div class="card-title"><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">learn-claude-code</a></div></div>
+          <div class="card-desc">从零手搓 mini Claude Code</div>
+          <div class="card-meta"><span class="tag tag-lang">TS</span><span class="tag tag-stars">49,241 &#11088;</span><span class="tag tag-growth">+27,231 /月</span><span class="tag tag-action write">选题</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#7</span><div class="card-title"><a href="https://github.com/NousResearch/hermes-agent" target="_blank">hermes-agent</a></div></div>
+          <div class="card-desc">自进化 Agent</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">28,645 &#11088;</span><span class="tag tag-growth">+25,584 /月</span><span class="tag tag-action watch">储备</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#8</span><div class="card-title"><a href="https://github.com/lightpanda-io/browser" target="_blank">lightpanda/browser</a></div></div>
+          <div class="card-desc">AI 专用无头浏览器</div>
+          <div class="card-meta"><span class="tag tag-lang">Zig</span><span class="tag tag-stars">27,412 &#11088;</span><span class="tag tag-growth">+15,474 /月</span><span class="tag tag-action skip">了解</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#9</span><div class="card-title"><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">openscreen</a></div></div>
+          <div class="card-desc">开源录屏工具</div>
+          <div class="card-meta"><span class="tag tag-lang">TS</span><span class="tag tag-stars">24,421 &#11088;</span><span class="tag tag-growth">+15,791 /月</span><span class="tag tag-action use">直接用</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#10</span><div class="card-title"><a href="https://github.com/volcengine/OpenViking" target="_blank">OpenViking</a></div></div>
+          <div class="card-desc">火山引擎 Agent 上下文数据库</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">21,371 &#11088;</span><span class="tag tag-growth">+16,565 /月</span><span class="tag tag-action watch">储备</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#11</span><div class="card-title"><a href="https://github.com/pbakaus/impeccable" target="_blank">impeccable</a></div></div>
+          <div class="card-desc">AI 设计语言</div>
+          <div class="card-meta"><span class="tag tag-lang">JS</span><span class="tag tag-stars">16,361 &#11088;</span><span class="tag tag-growth">+15,725 /月</span><span class="tag tag-action skip">了解</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#12</span><div class="card-title"><a href="https://github.com/alibaba/page-agent" target="_blank">alibaba/page-agent</a></div></div>
+          <div class="card-desc">页面 GUI Agent，自然语言操控</div>
+          <div class="card-meta"><span class="tag tag-lang">TS</span><span class="tag tag-stars">15,961 &#11088;</span><span class="tag tag-growth">+14,790 /月</span><span class="tag tag-action watch">关注</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#13</span><div class="card-title"><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">last30days-skill</a></div></div>
+          <div class="card-desc">跨平台话题研究 Agent skill</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">19,279 &#11088;</span><span class="tag tag-growth">+15,405 /月</span><span class="tag tag-action use">集成</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#14</span><div class="card-title"><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">claude-hud</a></div></div>
+          <div class="card-desc">Claude Code 可视化插件</div>
+          <div class="card-meta"><span class="tag tag-lang">JS</span><span class="tag tag-stars">17,329 &#11088;</span><span class="tag tag-growth">+13,172 /月</span><span class="tag tag-action write">写文章</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#15</span><div class="card-title"><a href="https://github.com/mattpocock/skills" target="_blank">mattpocock/skills</a></div></div>
+          <div class="card-desc">Claude Code skills 个人合集</div>
+          <div class="card-meta"><span class="tag tag-lang">Shell</span><span class="tag tag-stars">12,672 &#11088;</span><span class="tag tag-growth">+11,493 /月</span><span class="tag tag-action watch">参考</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#16</span><div class="card-title"><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">MoneyPrinterV2</a></div></div>
+          <div class="card-desc">AI 自动生成短视频赚钱（已验证不好用）</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">28,621 &#11088;</span><span class="tag tag-growth">+13,858 /月</span><span class="tag tag-action skip">跳过</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#17</span><div class="card-title"><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">TradingAgents</a></div></div>
+          <div class="card-desc">多 Agent 金融交易框架</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">48,001 &#11088;</span><span class="tag tag-growth">+16,606 /月</span><span class="tag tag-action skip">观察</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#18</span><div class="card-title"><a href="https://github.com/promptfoo/promptfoo" target="_blank">promptfoo</a></div></div>
+          <div class="card-desc">Prompt/Agent 测试框架</div>
+          <div class="card-meta"><span class="tag tag-lang">TS</span><span class="tag tag-stars">19,652 &#11088;</span><span class="tag tag-growth">+8,823 /月</span><span class="tag tag-action watch">进阶</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#19</span><div class="card-title"><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">claude-skills</a></div></div>
+          <div class="card-desc">220+ Claude Code skills 合集</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">9,818 &#11088;</span><span class="tag tag-growth">+7,217 /月</span><span class="tag tag-action watch">参考</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#20</span><div class="card-title"><a href="https://github.com/langchain-ai/open-swe" target="_blank">open-swe</a></div></div>
+          <div class="card-desc">开源异步编程 Agent</div>
+          <div class="card-meta"><span class="tag tag-lang">Python</span><span class="tag tag-stars">9,268 &#11088;</span><span class="tag tag-growth">+4,011 /月</span><span class="tag tag-action skip">了解</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hacker News -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(251,146,60,0.15);">&#128240;</div>
+      <h2>Hacker News</h2>
+      <span class="count">Top 15</span>
+    </div>
+    <div class="cards">
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#1</span><div class="card-title">Sam Altman may control our future — can he be trusted? (New Yorker)</div></div>
+        <div class="card-meta"><span class="tag tag-pts">1,191 pts</span><span class="tag tag-comments">456 comments</span><span class="tag tag-action write">写文章</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#2</span><div class="card-title">Claude Code is unusable for complex engineering tasks</div></div>
+        <div class="card-meta"><span class="tag tag-pts">939 pts</span><span class="tag tag-comments">531 comments</span><span class="tag tag-action core">核心关注</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#3</span><div class="card-title">The cult of vibe coding is dogfooding run amok</div></div>
+        <div class="card-meta"><span class="tag tag-pts">517 pts</span><span class="tag tag-comments">450 comments</span><span class="tag tag-action write">写文章</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#4</span><div class="card-title">Battle for Wesnoth: open-source strategy game</div></div>
+        <div class="card-meta"><span class="tag tag-pts">444 pts</span><span class="tag tag-comments">126 comments</span><span class="tag tag-action skip">忽略</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#5</span><div class="card-title">Cryptography engineer on quantum computing timelines</div></div>
+        <div class="card-meta"><span class="tag tag-pts">418 pts</span><span class="tag tag-comments">172 comments</span><span class="tag tag-action watch">储备</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#6</span><div class="card-title">What being ripped off taught me</div></div>
+        <div class="card-meta"><span class="tag tag-pts">375 pts</span><span class="tag tag-comments">193 comments</span><span class="tag tag-action watch">储备</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#7</span><div class="card-title">Ghost Pepper: local hold-to-talk STT for macOS</div></div>
+        <div class="card-meta"><span class="tag tag-pts">339 pts</span><span class="tag tag-comments">142 comments</span><span class="tag tag-action use">直接用</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#8</span><div class="card-title">German police name GandCrab/REvil ransomware leaders</div></div>
+        <div class="card-meta"><span class="tag tag-pts">285 pts</span><span class="tag tag-comments">139 comments</span><span class="tag tag-action skip">了解</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#9</span><div class="card-title">GovAuctions: browse government auctions</div></div>
+        <div class="card-meta"><span class="tag tag-pts">259 pts</span><span class="tag tag-action skip">忽略</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#10</span><div class="card-title">Freestyle: Sandboxes for Coding Agents</div></div>
+        <div class="card-meta"><span class="tag tag-pts">247 pts</span><span class="tag tag-comments">137 comments</span><span class="tag tag-action watch">关注</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#11</span><div class="card-title">Book review: There Is No Antimemetics Division</div></div>
+        <div class="card-meta"><span class="tag tag-pts">229 pts</span><span class="tag tag-comments">169 comments</span><span class="tag tag-action skip">了解</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#12</span><div class="card-title">Anthropic expands partnership with Google and Broadcom</div></div>
+        <div class="card-meta"><span class="tag tag-pts">210 pts</span><span class="tag tag-comments">94 comments</span><span class="tag tag-action watch">关注</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#13</span><div class="card-title">The Last Quiet Thing</div></div>
+        <div class="card-meta"><span class="tag tag-pts">196 pts</span><span class="tag tag-action skip">了解</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#14</span><div class="card-title">Sky: Elm-inspired language compiling to Go</div></div>
+        <div class="card-meta"><span class="tag tag-pts">151 pts</span><span class="tag tag-action skip">忽略</span></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="card-rank">#15</span><div class="card-title">AI singer occupies 11 spots on iTunes singles chart</div></div>
+        <div class="card-meta"><span class="tag tag-pts">139 pts</span><span class="tag tag-comments">205 comments</span><span class="tag tag-action write">写文章</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Product Hunt -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(244,114,182,0.15);">&#128640;</div>
+      <h2>Product Hunt</h2>
+    </div>
+    <div class="tab-bar" data-group="ph">
+      <button class="tab-btn active" data-tab="ph-daily">日榜 Top 5</button>
+      <button class="tab-btn" data-tab="ph-monthly">月榜亮点</button>
+    </div>
+    <div id="ph-daily" class="tab-panel active">
+      <div class="cards">
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#1</span><div class="card-title">Moonshot — Mac 追踪 Artemis II 登月</div></div>
+          <div class="card-meta"><span class="tag tag-votes">394 votes</span><span class="tag tag-action skip">了解</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#2</span><div class="card-title">AgentPulse — AI Agent 终端可视化</div></div>
+          <div class="card-meta"><span class="tag tag-votes">248 votes</span><span class="tag tag-action watch">关注</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#3</span><div class="card-title">KREV — 电商 AI 创意 Agent</div></div>
+          <div class="card-meta"><span class="tag tag-votes">246 votes</span><span class="tag tag-action skip">观察</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#4</span><div class="card-title">Walkie — 免费本地语音转文字</div></div>
+          <div class="card-meta"><span class="tag tag-votes">199 votes</span><span class="tag tag-action watch">关注</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#5</span><div class="card-title">Predflow AI — 广告投放 AI Agent</div></div>
+          <div class="card-meta"><span class="tag tag-votes">171 votes</span><span class="tag tag-action skip">观察</span></div>
+        </div>
+      </div>
+    </div>
+    <div id="ph-monthly" class="tab-panel">
+      <div class="cards">
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#1</span><div class="card-title">Influcio — AI 达人营销 Agent</div></div>
+          <div class="card-meta"><span class="tag tag-votes">533 votes</span><span class="tag tag-action skip">观察</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#2</span><div class="card-title">Google Gemma 4 — 最强开源模型</div></div>
+          <div class="card-meta"><span class="tag tag-votes">435 votes</span><span class="tag tag-action write">写文章</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#3</span><div class="card-title">Google Vids 2.0 — 免费 AI 视频创作</div></div>
+          <div class="card-meta"><span class="tag tag-votes">429 votes</span><span class="tag tag-action use">实测</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#4</span><div class="card-title">Ollama v0.19 — Apple Silicon 本地模型大提速</div></div>
+          <div class="card-meta"><span class="tag tag-votes">414 votes</span><span class="tag tag-action write">写文章</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#5</span><div class="card-title">Claude Code Voice Mode — 语音驱动编程</div></div>
+          <div class="card-meta"><span class="tag tag-votes">397 votes</span><span class="tag tag-action write">写文章</span></div>
+        </div>
+        <div class="card">
+          <div class="card-top"><span class="card-rank">#6</span><div class="card-title">Cursor 3 — 统一工作区 + 本地/云端 Agent</div></div>
+          <div class="card-meta"><span class="tag tag-votes">369 votes</span><span class="tag tag-action write">写文章</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Polymarket -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(248,113,113,0.15);">&#128200;</div>
+      <h2>Polymarket 预测市场</h2>
+      <span class="count">地缘风险主导</span>
+    </div>
+    <div class="cards">
+      <div class="card">
+        <div class="card-top"><div class="card-title">美军 4/30 前进入伊朗？</div><span class="poly-pct" style="color:var(--red)">99.7% YES</span></div>
+        <div class="poly-bar"><span style="font-size:0.75rem;color:var(--text-muted)">$44.1M 交易量</span><div class="poly-fill"><div class="inner" style="width:99.7%;background:var(--red)"></div></div></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><div class="card-title">美伊 4/7 停火？</div><span class="poly-pct" style="color:var(--green)">3.0% YES</span></div>
+        <div class="poly-bar"><span style="font-size:0.75rem;color:var(--text-muted)">$4.3M 交易量</span><div class="poly-fill"><div class="inner" style="width:3%;background:var(--green)"></div></div></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><div class="card-title">美伊 4/15 停火？</div><span class="poly-pct" style="color:var(--yellow)">13.5% YES</span></div>
+        <div class="poly-bar"><span style="font-size:0.75rem;color:var(--text-muted)">$2.0M 交易量</span><div class="poly-fill"><div class="inner" style="width:13.5%;background:var(--yellow)"></div></div></div>
+      </div>
+      <div class="card">
+        <div class="card-top"><div class="card-title">美伊 4/30 停火？</div><span class="poly-pct" style="color:var(--orange)">26.5% YES</span></div>
+        <div class="poly-bar"><span style="font-size:0.75rem;color:var(--text-muted)">$1.5M 交易量</span><div class="poly-fill"><div class="inner" style="width:26.5%;background:var(--orange)"></div></div></div>
+      </div>
+    </div>
+    <div style="margin-top:0.8rem;padding:0.8rem 1rem;background:rgba(248,113,113,0.05);border:1px solid rgba(248,113,113,0.15);border-radius:8px;font-size:0.82rem;color:var(--text-muted)">
+      <strong style="color:var(--red)">&#9888; 地缘风险信号：</strong>Polymarket 前 5 中 4 条与美伊冲突直接相关。潜在科技影响：芯片供应链、云计算能源成本、网络安全需求上升。
+    </div>
+  </div>
+
+  <!-- Follow Builders -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(52,211,153,0.15);">&#128100;</div>
+      <h2>Follow Builders</h2>
+      <span class="count">AI Builder 动态</span>
+    </div>
+    <div class="cards">
+      <div class="card">
+        <div class="builder-card">
+          <div class="builder-avatar">GT</div>
+          <div class="builder-info">
+            <div class="builder-name">Garry Tan <span class="builder-handle">@garrytan</span></div>
+            <div class="card-desc">"Golden age of open source is here"</div>
+            <div class="card-meta"><span class="tag tag-pts">3,836 &#10084;</span><span class="tag tag-action write">写文章</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="builder-card">
+          <div class="builder-avatar">GR</div>
+          <div class="builder-info">
+            <div class="builder-name">Guillermo Rauch <span class="builder-handle">@rauchg</span></div>
+            <div class="card-desc">Vercel 客户反馈 + v0 月球物理模拟</div>
+            <div class="card-meta"><span class="tag tag-pts">1,537 &#10084;</span><span class="tag tag-action watch">关注</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="builder-card">
+          <div class="builder-avatar">PS</div>
+          <div class="builder-info">
+            <div class="builder-name">Peter Steinberger <span class="builder-handle">@steipete</span></div>
+            <div class="card-desc">"Beat emotions into GPT"</div>
+            <div class="card-meta"><span class="tag tag-pts">625 &#10084;</span><span class="tag tag-action watch">储备</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="builder-card">
+          <div class="builder-avatar">AK</div>
+          <div class="builder-info">
+            <div class="builder-name">Andrej Karpathy <span class="builder-handle">@karpathy</span></div>
+            <div class="card-desc">GitHub gist 评论质量高于 Reddit</div>
+            <div class="card-meta"><span class="tag tag-pts">479 &#10084;</span><span class="tag tag-action skip">了解</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="builder-card">
+          <div class="builder-avatar">AM</div>
+          <div class="builder-info">
+            <div class="builder-name">Amjad Masad <span class="builder-handle">@amasad</span></div>
+            <div class="card-desc">X API + Replit Artemis II 可视化</div>
+            <div class="card-meta"><span class="tag tag-pts">425 &#10084;</span><span class="tag tag-action watch">关注</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="builder-card">
+          <div class="builder-avatar">ZZ</div>
+          <div class="builder-info">
+            <div class="builder-name">Zara Zhang <span class="builder-handle">@zarazhangrui</span></div>
+            <div class="card-desc">深度消费长内容的价值 + AGENTS.md 让用户 Agent 成为你的营销员</div>
+            <div class="card-meta"><span class="tag tag-pts">86 &#10084;</span><span class="tag tag-action write">写文章</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Topic Suggestions -->
+  <div class="section">
+    <div class="section-header">
+      <div class="icon" style="background:rgba(251,191,36,0.15);">&#128161;</div>
+      <h2>选题建议</h2>
+      <span class="count">Top 5</span>
+    </div>
+    <div class="topic-grid">
+      <div class="topic-card">
+        <div class="topic-num">01</div>
+        <h3>Sam Altman 控制了我们的未来吗？1191 个人在 HN 吵翻了</h3>
+        <p>New Yorker 万字长文 + HN 1,191 分 456 评论。AI 权力集中的深度讨论。</p>
+        <div class="topic-tags">
+          <span class="topic-tag">深夜电波</span>
+          <span class="topic-tag">公众号深度文</span>
+          <span class="topic-tag">HN 1191 分</span>
+        </div>
+      </div>
+      <div class="topic-card">
+        <div class="topic-num">02</div>
+        <h3>Vibe Coding 翻车了：517 个程序员说这是"失控的 dogfooding"</h3>
+        <p>HN 517 分 + Claude Code 可用性 939 分，正反两面讲 AI 编程的真实边界。</p>
+        <div class="topic-tags">
+          <span class="topic-tag">Claude Code 拆解</span>
+          <span class="topic-tag">公众号 + 小红书</span>
+          <span class="topic-tag">双帖交叉验证</span>
+        </div>
+      </div>
+      <div class="topic-card">
+        <div class="topic-num">03</div>
+        <h3>YC 掌门人 3836 赞：开源的黄金时代来了</h3>
+        <p>Garry Tan 推文 + GitHub 月榜数据，用数据证明开源 Agent 生态正在爆发。</p>
+        <div class="topic-tags">
+          <span class="topic-tag">行业观察</span>
+          <span class="topic-tag">公众号 + 即刻</span>
+          <span class="topic-tag">权威背书</span>
+        </div>
+      </div>
+      <div class="topic-card">
+        <div class="topic-num">04</div>
+        <h3>AI 歌手一人占了 iTunes 11 个位——音乐行业要完？</h3>
+        <p>HN 139 分/205 评论，AI 生成音乐首次大规模入侵主流音乐榜单。</p>
+        <div class="topic-tags">
+          <span class="topic-tag">人间AI</span>
+          <span class="topic-tag">短视频 + 小红书</span>
+          <span class="topic-tag">标志性事件</span>
+        </div>
+      </div>
+      <div class="topic-card">
+        <div class="topic-num">05</div>
+        <h3>不联网也能跑 AI——2026 年本地 AI 终于好用了</h3>
+        <p>四源数据同时出现本地 AI 信号：Ghost Pepper + Walkie + Ollama + Google AI Edge。</p>
+        <div class="topic-tags">
+          <span class="topic-tag">工具小铺</span>
+          <span class="topic-tag">公众号 + 小红书</span>
+          <span class="topic-tag">四源交叉</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  <p>科技雷达 Tech Radar &mdash; 6 源并行采集，AI 分析师独立研判</p>
+  <p>GitHub Trending &middot; Hacker News &middot; Product Hunt &middot; Polymarket &middot; Follow Builders &middot; 张咋啦 AI</p>
+  <p style="margin-top:0.5rem"><a href="https://github.com/OrangeViolin/tech-radar">OrangeViolin/tech-radar</a></p>
+</div>
+
+<script>
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const group = btn.closest('.section');
+    group.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    group.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById(btn.dataset.tab).classList.add('active');
+  });
+});
+</script>
+
+</body>
+</html>

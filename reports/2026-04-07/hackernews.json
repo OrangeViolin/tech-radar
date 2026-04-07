@@ -1,0 +1,331 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-07T06:19:47.528Z",
+  "count": 29,
+  "metadata": {
+    "topStories": {
+      "count": 29
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47666024,
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "url": "https://github.com/matthartman/ghost-pepper",
+      "hnUrl": "https://news.ycombinator.com/item?id=47666024",
+      "score": 339,
+      "author": "MattHart88",
+      "comments": 142,
+      "time": "2026-04-06T19:50:16.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47669337,
+      "title": "Solod – A Subset of Go That Translates to C",
+      "url": "https://github.com/solod-dev/solod",
+      "hnUrl": "https://news.ycombinator.com/item?id=47669337",
+      "score": 87,
+      "author": "TheWiggles",
+      "comments": 21,
+      "time": "2026-04-07T00:48:01.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47670929,
+      "title": "People Love to Work Hard",
+      "url": "https://www.anildash.com/2026/04/06/people-love-to-work-hard/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47670929",
+      "score": 22,
+      "author": "zdw",
+      "comments": 12,
+      "time": "2026-04-07T04:58:29.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47663147,
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "url": "https://www.freestyle.sh/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47663147",
+      "score": 247,
+      "author": "benswerd",
+      "comments": 137,
+      "time": "2026-04-06T16:32:11.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47660925,
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "hnUrl": "https://news.ycombinator.com/item?id=47660925",
+      "score": 939,
+      "author": "StanAngeloff",
+      "comments": 531,
+      "time": "2026-04-06T13:50:35.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47662234,
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47662234",
+      "score": 418,
+      "author": "thadt",
+      "comments": 172,
+      "time": "2026-04-06T15:31:20.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47641528,
+      "title": "Apollo Guidance Computer Restoration Videos and Press Coverage",
+      "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
+      "hnUrl": "https://news.ycombinator.com/item?id=47641528",
+      "score": 19,
+      "author": "mariuz",
+      "comments": 2,
+      "time": "2026-04-04T17:58:55.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47659135,
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "hnUrl": "https://news.ycombinator.com/item?id=47659135",
+      "score": 1191,
+      "author": "adrianhon",
+      "comments": 456,
+      "time": "2026-04-06T10:36:57.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47660954,
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47660954",
+      "score": 285,
+      "author": "Bender",
+      "comments": 139,
+      "time": "2026-04-06T13:52:37.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47662945,
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "url": "https://www.govauctions.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47662945",
+      "score": 259,
+      "author": "player_piano",
+      "comments": 74,
+      "time": "2026-04-06T16:21:46.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47667321,
+      "title": "Peptides: where to begin?",
+      "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
+      "hnUrl": "https://news.ycombinator.com/item?id=47667321",
+      "score": 99,
+      "author": "A_D_E_P_T",
+      "comments": 131,
+      "time": "2026-04-06T21:22:03.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47627998,
+      "title": "VOID: Video Object and Interaction Deletion",
+      "url": "https://github.com/Netflix/void-model",
+      "hnUrl": "https://news.ycombinator.com/item?id=47627998",
+      "score": 133,
+      "author": "bobsoap",
+      "comments": 42,
+      "time": "2026-04-03T15:38:53.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47667717,
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "hnUrl": "https://news.ycombinator.com/item?id=47667717",
+      "score": 210,
+      "author": "l1n",
+      "comments": 94,
+      "time": "2026-04-06T21:52:08.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47660286,
+      "title": "What being ripped off taught me",
+      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47660286",
+      "score": 375,
+      "author": "doctorhandshake",
+      "comments": 193,
+      "time": "2026-04-06T12:53:41.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47667672,
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "url": "https://github.com/kitfunso/hippo-memory",
+      "hnUrl": "https://news.ycombinator.com/item?id=47667672",
+      "score": 78,
+      "author": "kitfunso",
+      "comments": 17,
+      "time": "2026-04-06T21:49:34.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47636579,
+      "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+      "url": "https://github.com/roscopeco/anos",
+      "hnUrl": "https://news.ycombinator.com/item?id=47636579",
+      "score": 51,
+      "author": "noone_youknow",
+      "comments": 15,
+      "time": "2026-04-04T06:58:03.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47660853,
+      "title": "Book review: There Is No Antimemetics Division",
+      "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47660853",
+      "score": 229,
+      "author": "ibobev",
+      "comments": 169,
+      "time": "2026-04-06T13:44:01.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47662596,
+      "title": "AI singer now occupies eleven spots on iTunes singles chart",
+      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+      "hnUrl": "https://news.ycombinator.com/item?id=47662596",
+      "score": 139,
+      "author": "flinner",
+      "comments": 205,
+      "time": "2026-04-06T15:57:07.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47637010,
+      "title": "The Last Quiet Thing",
+      "url": "https://www.terrygodier.com/the-last-quiet-thing",
+      "hnUrl": "https://news.ycombinator.com/item?id=47637010",
+      "score": 196,
+      "author": "coinfused",
+      "comments": 110,
+      "time": "2026-04-04T08:14:53.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47637828,
+      "title": "Show HN: Tusk for macOS and Gnome",
+      "url": "https://shapemachine.xyz/tusk/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47637828",
+      "score": 72,
+      "author": "factorialboy",
+      "comments": 18,
+      "time": "2026-04-04T10:39:32.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47662116,
+      "title": "Sky – an Elm-inspired language that compiles to Go",
+      "url": "https://github.com/anzellai/sky",
+      "hnUrl": "https://news.ycombinator.com/item?id=47662116",
+      "score": 151,
+      "author": "whalesalad",
+      "comments": 53,
+      "time": "2026-04-06T15:22:53.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47642125,
+      "title": "Linux extreme performance H1 load generator",
+      "url": "https://www.gcannon.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47642125",
+      "score": 11,
+      "author": "MDA2AV",
+      "comments": 4,
+      "time": "2026-04-04T19:00:01.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47627361,
+      "title": "Graph-go – zero config, full visibility",
+      "url": "https://github.com/guilherme-grimm/graph-go",
+      "hnUrl": "https://news.ycombinator.com/item?id=47627361",
+      "score": 16,
+      "author": "devGrimm",
+      "comments": 1,
+      "time": "2026-04-03T14:55:25.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47668727,
+      "title": "After 20 years I turned off Google Adsense for my websites (2025)",
+      "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47668727",
+      "score": 165,
+      "author": "datadrivenangel",
+      "comments": 113,
+      "time": "2026-04-06T23:23:28.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47664186,
+      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+      "url": "https://www.wesnoth.org",
+      "hnUrl": "https://news.ycombinator.com/item?id=47664186",
+      "score": 444,
+      "author": "akyuu",
+      "comments": 126,
+      "time": "2026-04-06T17:37:38.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47665245,
+      "title": "Agent Reading Test",
+      "url": "https://agentreadingtest.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47665245",
+      "score": 61,
+      "author": "kaycebasques",
+      "comments": 18,
+      "time": "2026-04-06T18:56:57.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47664912,
+      "title": "The cult of vibe coding is dogfooding run amok",
+      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "hnUrl": "https://news.ycombinator.com/item?id=47664912",
+      "score": 517,
+      "author": "drob518",
+      "comments": 450,
+      "time": "2026-04-06T18:31:03.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47665685,
+      "title": "Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting",
+      "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
+      "hnUrl": "https://news.ycombinator.com/item?id=47665685",
+      "score": 42,
+      "author": "4RH1T3CT0R",
+      "comments": 9,
+      "time": "2026-04-06T19:25:39.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47661065,
+      "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
+      "hnUrl": "https://news.ycombinator.com/item?id=47661065",
+      "score": 123,
+      "author": "tantalor",
+      "comments": 186,
+      "time": "2026-04-06T14:01:09.000Z"
+    }
+  ]
+}

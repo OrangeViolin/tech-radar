@@ -1,0 +1,653 @@
+{
+  "source": "follow-builders",
+  "timestamp": "2026-04-07T06:19:44.392Z",
+  "count": 14,
+  "metadata": {
+    "generatedAt": "2026-04-06T07:26:35.432Z",
+    "tweets": {
+      "count": 13,
+      "totalTweets": 26,
+      "items": [
+        {
+          "name": "Andrej Karpathy",
+          "handle": "@karpathy",
+          "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+          "topTweets": [
+            {
+              "text": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
+              "likes": 479,
+              "retweets": 15,
+              "replies": 69,
+              "url": "https://x.com/karpathy/status/2040806346556428585",
+              "createdAt": "2026-04-05T14:58:44.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Swyx",
+          "handle": "@swyx",
+          "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+          "topTweets": [
+            {
+              "text": "always wanted to do one of those “is it coachella” announcements - here is our designer’s take on it! https://t.co/Bt0UNqh2ET",
+              "likes": 76,
+              "retweets": 2,
+              "replies": 13,
+              "url": "https://x.com/swyx/status/2040812156728574385",
+              "createdAt": "2026-04-05T15:21:49.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead):\n\n\"At @OpenAI, you either plan near or long-term, but you never plan medium-term. It's just too difficult.\n\nNear-term is up to eight weeks from now. What is a concrete thing you can rally a team to ship? [Lo",
+              "likes": 272,
+              "retweets": 12,
+              "replies": 12,
+              "url": "https://x.com/petergyang/status/2040943889822232790",
+              "createdAt": "2026-04-06T00:05:16.000Z"
+            },
+            {
+              "text": "Looks delicious @steipete 😅 https://t.co/GU35zQvzxr",
+              "likes": 32,
+              "retweets": 0,
+              "replies": 1,
+              "url": "https://x.com/petergyang/status/2040949683569541286",
+              "createdAt": "2026-04-06T00:28:18.000Z"
+            },
+            {
+              "text": "What are some good examples of open source winning vs. proprietary tech?  \n\nIn mobile for example, Android has the most market share but iOS still captures the majority of profits.\n\nSeems like both can win?",
+              "likes": 5,
+              "retweets": 0,
+              "replies": 6,
+              "url": "https://x.com/petergyang/status/2040954866567364758",
+              "createdAt": "2026-04-06T00:48:53.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nan Yu",
+          "handle": "@thenanyu",
+          "bio": "head of product @linear",
+          "topTweets": [
+            {
+              "text": "https://t.co/VHEdyBoTr9",
+              "likes": 31,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/thenanyu/status/2040775144545665061",
+              "createdAt": "2026-04-05T12:54:44.000Z"
+            },
+            {
+              "text": "This is the real purpose of the CA high speed rail. Turn LA and SF into one city, effectively. https://t.co/2xHFc8T79G",
+              "likes": 12,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/thenanyu/status/2040902216085537159",
+              "createdAt": "2026-04-05T21:19:41.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Amjad Masad",
+          "handle": "@amasad",
+          "bio": "ceo @replit. civilizationist",
+          "topTweets": [
+            {
+              "text": "مقال رائع عن عقلية ريادة الأعمال https://t.co/p3ZAzaLFLG",
+              "likes": 425,
+              "retweets": 35,
+              "replies": 10,
+              "url": "https://x.com/amasad/status/2040900493984276804",
+              "createdAt": "2026-04-05T21:12:50.000Z"
+            },
+            {
+              "text": "Happy Easter!",
+              "likes": 382,
+              "retweets": 7,
+              "replies": 31,
+              "url": "https://x.com/amasad/status/2040898886777426241",
+              "createdAt": "2026-04-05T21:06:27.000Z"
+            },
+            {
+              "text": "New @X API + @Replit is lots of fun. \n\n@tannerlbraden built a @NASAArtemis II mission visualization w/ live @X feed &amp; stats.  https://t.co/ptLIf58yCr",
+              "likes": 359,
+              "retweets": 26,
+              "replies": 21,
+              "url": "https://x.com/amasad/status/2040918650245578906",
+              "createdAt": "2026-04-05T22:24:59.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Guillermo Rauch",
+          "handle": "@rauchg",
+          "bio": "@vercel CEO",
+          "topTweets": [
+            {
+              "text": "The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.\n\nVercel gives us the velocity to ship, X gives us a nonstop stream of user feedback. Thanks @simhskal &amp; @riyvir! https://t.co/8FxoT66mfv",
+              "likes": 1537,
+              "retweets": 44,
+              "replies": 118,
+              "url": "https://x.com/rauchg/status/2040879055990632715",
+              "createdAt": "2026-04-05T19:47:39.000Z"
+            },
+            {
+              "text": "Created a flag on the moon based with hyper-realistic physics with @v0: https://t.co/XyE8a2xBEB.\n\nThe flag is simulated as a grid of particles connected by springs (cloth simulation). It's influenced by gravity, wind, air resistance.\n\nThe initial approach v0 one-shotted was quite",
+              "likes": 410,
+              "retweets": 13,
+              "replies": 76,
+              "url": "https://x.com/rauchg/status/2040822340532236565",
+              "createdAt": "2026-04-05T16:02:17.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "There are far more categories where AI agents making things more efficient will induce demand for that skill than spaces where agents eliminate the work. This is why the AI jobs predictions will not play out as advertised. \n\nAI making it easy to produce more code will mean we sta",
+              "likes": 169,
+              "retweets": 29,
+              "replies": 30,
+              "url": "https://x.com/levie/status/2040967947275948357",
+              "createdAt": "2026-04-06T01:40:52.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+          "topTweets": [
+            {
+              "text": "Golden age of open source is here https://t.co/RX5H5gDcO1",
+              "likes": 3836,
+              "retweets": 288,
+              "replies": 63,
+              "url": "https://x.com/garrytan/status/2040891664617848993",
+              "createdAt": "2026-04-05T20:37:45.000Z"
+            },
+            {
+              "text": "Legalize self driving cars https://t.co/WhLvkxxl07",
+              "likes": 331,
+              "retweets": 14,
+              "replies": 15,
+              "url": "https://x.com/garrytan/status/2040888948952912243",
+              "createdAt": "2026-04-05T20:26:57.000Z"
+            },
+            {
+              "text": "It’s so true https://t.co/4Gk6wtMAno https://t.co/AD2DUWsRwS",
+              "likes": 236,
+              "retweets": 4,
+              "replies": 29,
+              "url": "https://x.com/garrytan/status/2040981159233134793",
+              "createdAt": "2026-04-06T02:33:22.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Zara Zhang",
+          "handle": "@zarazhangrui",
+          "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+          "topTweets": [
+            {
+              "text": "In an age where everyone is summarizing everything with AI, there's a lot of value in spending time &amp; effort to consume long-form content deeply\n\nFor content that I actually wanna engage with, I always read the original version word by word without taking any shortcuts",
+              "likes": 86,
+              "retweets": 8,
+              "replies": 20,
+              "url": "https://x.com/zarazhangrui/status/2041031588000252279",
+              "createdAt": "2026-04-06T05:53:45.000Z"
+            },
+            {
+              "text": "Turn the user's agent into your marketer:\n\nNow when I make a new skill/app, I include this line in the prompt for my agent when it's writing the AGENTS.md file:\n\n\"We want the agent to introduce the product's features and benefits for the user and walk them through how to use it. ",
+              "likes": 79,
+              "retweets": 5,
+              "replies": 8,
+              "url": "https://x.com/zarazhangrui/status/2040956069699297314",
+              "createdAt": "2026-04-06T00:53:40.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "Brother in town from India, cousins chasing each other, flowers everywhere, term sheet accepted with a team I’m SO thrilled about, didn’t touch AI for 4 days (!!), sun is shining, amazing food, walks everywhere.. \n\nWeek of the year might have already been achieved. \n\nGrateful 🙏",
+              "likes": 337,
+              "retweets": 0,
+              "replies": 13,
+              "url": "https://x.com/nikunj/status/2040947391608828019",
+              "createdAt": "2026-04-06T00:19:11.000Z"
+            },
+            {
+              "text": "&gt; wake up\n&gt; open X\n&gt; see new skill (or feature)\n&gt; give it to Claude Code to see if worth implementing \n&gt; ask Codex to review Claude Code plan\n&gt; code\n&gt; iterate\n&gt; repeat",
+              "likes": 68,
+              "retweets": 4,
+              "replies": 9,
+              "url": "https://x.com/nikunj/status/2040910000990920752",
+              "createdAt": "2026-04-05T21:50:37.000Z"
+            },
+            {
+              "text": "Who’s looking for a stellar product engineer / designer? Hire @ramintahbaz 🙏 https://t.co/bXmaDpQnE1 https://t.co/owduhXCSoI",
+              "likes": 17,
+              "retweets": 0,
+              "replies": 1,
+              "url": "https://x.com/nikunj/status/2040953390356889646",
+              "createdAt": "2026-04-06T00:43:01.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "it took a hammer, but i managed to beat emotions into GPT. https://t.co/wlKJnwRgiL",
+              "likes": 625,
+              "retweets": 18,
+              "replies": 59,
+              "url": "https://x.com/steipete/status/2040982273193869671",
+              "createdAt": "2026-04-06T02:37:48.000Z"
+            },
+            {
+              "text": "GPTEESUS HAS RISEN https://t.co/J2lAR2wLGL https://t.co/KmmvxnnUCN https://t.co/co0GdknGhf",
+              "likes": 311,
+              "retweets": 16,
+              "replies": 35,
+              "url": "https://x.com/steipete/status/2040998797921145272",
+              "createdAt": "2026-04-06T03:43:28.000Z"
+            },
+            {
+              "text": "🚢 https://t.co/hdVkY6cZLq",
+              "likes": 73,
+              "retweets": 1,
+              "replies": 4,
+              "url": "https://x.com/steipete/status/2040983293626048717",
+              "createdAt": "2026-04-06T02:41:51.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Dan Shipper",
+          "handle": "@danshipper",
+          "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+          "topTweets": [
+            {
+              "text": "if you're seeing this, make sure you turn thinking on\n\nclaws are actually pretty great in gpt-5.4, but they seem really stupid unless this gets turned on https://t.co/4yZxv2878S",
+              "likes": 131,
+              "retweets": 4,
+              "replies": 30,
+              "url": "https://x.com/danshipper/status/2040901103483490753",
+              "createdAt": "2026-04-05T21:15:15.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aditya Agarwal",
+          "handle": "@adityaag",
+          "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+          "topTweets": [
+            {
+              "text": "Emergency rooms are not allowed to turn away patients…..\n\nWhy is an LLM allowed to deny me medical advice?",
+              "likes": 18,
+              "retweets": 0,
+              "replies": 9,
+              "url": "https://x.com/adityaag/status/2041016861027193239",
+              "createdAt": "2026-04-06T04:55:14.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 1,
+      "items": [
+        {
+          "name": "Latent Space",
+          "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
+          "url": "https://www.youtube.com/@LatentSpacePod",
+          "publishedAt": "2026-04-02T17:55:29.000Z",
+          "transcriptLength": 72740,
+          "transcriptPreview": "Speaker 1 | 00:00 - 00:20\nI think this whole space is extremely difficult as things are emerging now. And, I mean, it's not only for world models. I think it's for everything, including text based models. Right? Because, you know, in the early days, it seemed very easy to have good benchmarks because we could do things like question answering benchmarks.\n\nSpeaker 1 | 00:20 - 00:43\nBut, you know, these days, so much of what people are wanting to do is nothing like that. Right? You're wanting to g"
+        }
+      ]
+    },
+    "blogs": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "items": [
+    {
+      "name": "Andrej Karpathy",
+      "handle": "@karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "topTweets": [
+        {
+          "text": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
+          "likes": 479,
+          "retweets": 15,
+          "replies": 69,
+          "url": "https://x.com/karpathy/status/2040806346556428585",
+          "createdAt": "2026-04-05T14:58:44.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Swyx",
+      "handle": "@swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "topTweets": [
+        {
+          "text": "always wanted to do one of those “is it coachella” announcements - here is our designer’s take on it! https://t.co/Bt0UNqh2ET",
+          "likes": 76,
+          "retweets": 2,
+          "replies": 13,
+          "url": "https://x.com/swyx/status/2040812156728574385",
+          "createdAt": "2026-04-05T15:21:49.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "@petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "topTweets": [
+        {
+          "text": "Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead):\n\n\"At @OpenAI, you either plan near or long-term, but you never plan medium-term. It's just too difficult.\n\nNear-term is up to eight weeks from now. What is a concrete thing you can rally a team to ship? [Lo",
+          "likes": 272,
+          "retweets": 12,
+          "replies": 12,
+          "url": "https://x.com/petergyang/status/2040943889822232790",
+          "createdAt": "2026-04-06T00:05:16.000Z"
+        },
+        {
+          "text": "Looks delicious @steipete 😅 https://t.co/GU35zQvzxr",
+          "likes": 32,
+          "retweets": 0,
+          "replies": 1,
+          "url": "https://x.com/petergyang/status/2040949683569541286",
+          "createdAt": "2026-04-06T00:28:18.000Z"
+        },
+        {
+          "text": "What are some good examples of open source winning vs. proprietary tech?  \n\nIn mobile for example, Android has the most market share but iOS still captures the majority of profits.\n\nSeems like both can win?",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 6,
+          "url": "https://x.com/petergyang/status/2040954866567364758",
+          "createdAt": "2026-04-06T00:48:53.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nan Yu",
+      "handle": "@thenanyu",
+      "bio": "head of product @linear",
+      "topTweets": [
+        {
+          "text": "https://t.co/VHEdyBoTr9",
+          "likes": 31,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/thenanyu/status/2040775144545665061",
+          "createdAt": "2026-04-05T12:54:44.000Z"
+        },
+        {
+          "text": "This is the real purpose of the CA high speed rail. Turn LA and SF into one city, effectively. https://t.co/2xHFc8T79G",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/thenanyu/status/2040902216085537159",
+          "createdAt": "2026-04-05T21:19:41.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Amjad Masad",
+      "handle": "@amasad",
+      "bio": "ceo @replit. civilizationist",
+      "topTweets": [
+        {
+          "text": "مقال رائع عن عقلية ريادة الأعمال https://t.co/p3ZAzaLFLG",
+          "likes": 425,
+          "retweets": 35,
+          "replies": 10,
+          "url": "https://x.com/amasad/status/2040900493984276804",
+          "createdAt": "2026-04-05T21:12:50.000Z"
+        },
+        {
+          "text": "Happy Easter!",
+          "likes": 382,
+          "retweets": 7,
+          "replies": 31,
+          "url": "https://x.com/amasad/status/2040898886777426241",
+          "createdAt": "2026-04-05T21:06:27.000Z"
+        },
+        {
+          "text": "New @X API + @Replit is lots of fun. \n\n@tannerlbraden built a @NASAArtemis II mission visualization w/ live @X feed &amp; stats.  https://t.co/ptLIf58yCr",
+          "likes": 359,
+          "retweets": 26,
+          "replies": 21,
+          "url": "https://x.com/amasad/status/2040918650245578906",
+          "createdAt": "2026-04-05T22:24:59.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "bio": "@vercel CEO",
+      "topTweets": [
+        {
+          "text": "The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.\n\nVercel gives us the velocity to ship, X gives us a nonstop stream of user feedback. Thanks @simhskal &amp; @riyvir! https://t.co/8FxoT66mfv",
+          "likes": 1537,
+          "retweets": 44,
+          "replies": 118,
+          "url": "https://x.com/rauchg/status/2040879055990632715",
+          "createdAt": "2026-04-05T19:47:39.000Z"
+        },
+        {
+          "text": "Created a flag on the moon based with hyper-realistic physics with @v0: https://t.co/XyE8a2xBEB.\n\nThe flag is simulated as a grid of particles connected by springs (cloth simulation). It's influenced by gravity, wind, air resistance.\n\nThe initial approach v0 one-shotted was quite",
+          "likes": 410,
+          "retweets": 13,
+          "replies": 76,
+          "url": "https://x.com/rauchg/status/2040822340532236565",
+          "createdAt": "2026-04-05T16:02:17.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aaron Levie",
+      "handle": "@levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "topTweets": [
+        {
+          "text": "There are far more categories where AI agents making things more efficient will induce demand for that skill than spaces where agents eliminate the work. This is why the AI jobs predictions will not play out as advertised. \n\nAI making it easy to produce more code will mean we sta",
+          "likes": 169,
+          "retweets": 29,
+          "replies": 30,
+          "url": "https://x.com/levie/status/2040967947275948357",
+          "createdAt": "2026-04-06T01:40:52.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "@garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+      "topTweets": [
+        {
+          "text": "Golden age of open source is here https://t.co/RX5H5gDcO1",
+          "likes": 3836,
+          "retweets": 288,
+          "replies": 63,
+          "url": "https://x.com/garrytan/status/2040891664617848993",
+          "createdAt": "2026-04-05T20:37:45.000Z"
+        },
+        {
+          "text": "Legalize self driving cars https://t.co/WhLvkxxl07",
+          "likes": 331,
+          "retweets": 14,
+          "replies": 15,
+          "url": "https://x.com/garrytan/status/2040888948952912243",
+          "createdAt": "2026-04-05T20:26:57.000Z"
+        },
+        {
+          "text": "It’s so true https://t.co/4Gk6wtMAno https://t.co/AD2DUWsRwS",
+          "likes": 236,
+          "retweets": 4,
+          "replies": 29,
+          "url": "https://x.com/garrytan/status/2040981159233134793",
+          "createdAt": "2026-04-06T02:33:22.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Zara Zhang",
+      "handle": "@zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "topTweets": [
+        {
+          "text": "In an age where everyone is summarizing everything with AI, there's a lot of value in spending time &amp; effort to consume long-form content deeply\n\nFor content that I actually wanna engage with, I always read the original version word by word without taking any shortcuts",
+          "likes": 86,
+          "retweets": 8,
+          "replies": 20,
+          "url": "https://x.com/zarazhangrui/status/2041031588000252279",
+          "createdAt": "2026-04-06T05:53:45.000Z"
+        },
+        {
+          "text": "Turn the user's agent into your marketer:\n\nNow when I make a new skill/app, I include this line in the prompt for my agent when it's writing the AGENTS.md file:\n\n\"We want the agent to introduce the product's features and benefits for the user and walk them through how to use it. ",
+          "likes": 79,
+          "retweets": 5,
+          "replies": 8,
+          "url": "https://x.com/zarazhangrui/status/2040956069699297314",
+          "createdAt": "2026-04-06T00:53:40.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nikunj Kothari",
+      "handle": "@nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "topTweets": [
+        {
+          "text": "Brother in town from India, cousins chasing each other, flowers everywhere, term sheet accepted with a team I’m SO thrilled about, didn’t touch AI for 4 days (!!), sun is shining, amazing food, walks everywhere.. \n\nWeek of the year might have already been achieved. \n\nGrateful 🙏",
+          "likes": 337,
+          "retweets": 0,
+          "replies": 13,
+          "url": "https://x.com/nikunj/status/2040947391608828019",
+          "createdAt": "2026-04-06T00:19:11.000Z"
+        },
+        {
+          "text": "&gt; wake up\n&gt; open X\n&gt; see new skill (or feature)\n&gt; give it to Claude Code to see if worth implementing \n&gt; ask Codex to review Claude Code plan\n&gt; code\n&gt; iterate\n&gt; repeat",
+          "likes": 68,
+          "retweets": 4,
+          "replies": 9,
+          "url": "https://x.com/nikunj/status/2040910000990920752",
+          "createdAt": "2026-04-05T21:50:37.000Z"
+        },
+        {
+          "text": "Who’s looking for a stellar product engineer / designer? Hire @ramintahbaz 🙏 https://t.co/bXmaDpQnE1 https://t.co/owduhXCSoI",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 1,
+          "url": "https://x.com/nikunj/status/2040953390356889646",
+          "createdAt": "2026-04-06T00:43:01.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "topTweets": [
+        {
+          "text": "it took a hammer, but i managed to beat emotions into GPT. https://t.co/wlKJnwRgiL",
+          "likes": 625,
+          "retweets": 18,
+          "replies": 59,
+          "url": "https://x.com/steipete/status/2040982273193869671",
+          "createdAt": "2026-04-06T02:37:48.000Z"
+        },
+        {
+          "text": "GPTEESUS HAS RISEN https://t.co/J2lAR2wLGL https://t.co/KmmvxnnUCN https://t.co/co0GdknGhf",
+          "likes": 311,
+          "retweets": 16,
+          "replies": 35,
+          "url": "https://x.com/steipete/status/2040998797921145272",
+          "createdAt": "2026-04-06T03:43:28.000Z"
+        },
+        {
+          "text": "🚢 https://t.co/hdVkY6cZLq",
+          "likes": 73,
+          "retweets": 1,
+          "replies": 4,
+          "url": "https://x.com/steipete/status/2040983293626048717",
+          "createdAt": "2026-04-06T02:41:51.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Dan Shipper",
+      "handle": "@danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "topTweets": [
+        {
+          "text": "if you're seeing this, make sure you turn thinking on\n\nclaws are actually pretty great in gpt-5.4, but they seem really stupid unless this gets turned on https://t.co/4yZxv2878S",
+          "likes": 131,
+          "retweets": 4,
+          "replies": 30,
+          "url": "https://x.com/danshipper/status/2040901103483490753",
+          "createdAt": "2026-04-05T21:15:15.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aditya Agarwal",
+      "handle": "@adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "topTweets": [
+        {
+          "text": "Emergency rooms are not allowed to turn away patients…..\n\nWhy is an LLM allowed to deny me medical advice?",
+          "likes": 18,
+          "retweets": 0,
+          "replies": 9,
+          "url": "https://x.com/adityaag/status/2041016861027193239",
+          "createdAt": "2026-04-06T04:55:14.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Latent Space",
+      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-04-02T17:55:29.000Z",
+      "transcriptLength": 72740,
+      "transcriptPreview": "Speaker 1 | 00:00 - 00:20\nI think this whole space is extremely difficult as things are emerging now. And, I mean, it's not only for world models. I think it's for everything, including text based models. Right? Because, you know, in the early days, it seemed very easy to have good benchmarks because we could do things like question answering benchmarks.\n\nSpeaker 1 | 00:20 - 00:43\nBut, you know, these days, so much of what people are wanting to do is nothing like that. Right? You're wanting to g",
+      "category": "播客"
+    }
+  ]
+}

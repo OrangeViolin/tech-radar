@@ -1,0 +1,124 @@
+{
+  "source": "polymarket-trending",
+  "timestamp": "2026-04-07T06:19:45.350Z",
+  "count": 10,
+  "metadata": {
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "totalUnique": 20
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "1640919",
+      "question": "US forces enter Iran by April 30?",
+      "volume24hr": 44115678.51351602,
+      "liquidity": 7911702.40497,
+      "yes_probability": "99.7%",
+      "no_probability": "0.4%",
+      "slug": "us-forces-enter-iran-by-april-30-899",
+      "url": "https://polymarket.com/event/us-forces-enter-iran-by-april-30-899"
+    },
+    {
+      "rank": 2,
+      "id": "1706788",
+      "question": "US x Iran ceasefire by April 7?",
+      "volume24hr": 4277399.818555005,
+      "liquidity": 433930.98805,
+      "yes_probability": "3.0%",
+      "no_probability": "97.0%",
+      "slug": "us-x-iran-ceasefire-by-april-7-278",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-by-april-7-278"
+    },
+    {
+      "rank": 3,
+      "id": "559689",
+      "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
+      "volume24hr": 2229809.756036,
+      "liquidity": 1413435.16982,
+      "yes_probability": "0.7%",
+      "no_probability": "99.4%",
+      "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
+      "url": "https://polymarket.com/event/will-beto-orourke-win-the-2028-democratic-presidential-nomination"
+    },
+    {
+      "rank": 4,
+      "id": "1569627",
+      "question": "US x Iran ceasefire by April 15?",
+      "volume24hr": 2016018.4688019983,
+      "liquidity": 459785.2967,
+      "yes_probability": "13.5%",
+      "no_probability": "86.5%",
+      "slug": "us-x-iran-ceasefire-by-april-15-182-528-637",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-by-april-15-182-528-637"
+    },
+    {
+      "rank": 5,
+      "id": "1394299",
+      "question": "US forces enter Iran by December 31?",
+      "volume24hr": 1739938.170117,
+      "liquidity": 1457409.08154,
+      "yes_probability": "99.9%",
+      "no_probability": "0.1%",
+      "slug": "us-forces-enter-iran-by-december-31-573-642-385-371-179-425-262",
+      "url": "https://polymarket.com/event/us-forces-enter-iran-by-december-31-573-642-385-371-179-425-262"
+    },
+    {
+      "rank": 6,
+      "id": "1878175",
+      "question": "Spread: Michigan Wolverines (-6.5)",
+      "volume24hr": 1702648.7042849958,
+      "liquidity": 514206.87038,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "cbb-uconn-mich-2026-04-06-spread-home-6pt5",
+      "url": "https://polymarket.com/event/cbb-uconn-mich-2026-04-06-spread-home-6pt5"
+    },
+    {
+      "rank": 7,
+      "id": "1552116",
+      "question": "Blackhawks vs. Sharks",
+      "volume24hr": 1552028.740702999,
+      "liquidity": 758334.75847,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "nhl-chi-sj-2026-04-06",
+      "url": "https://polymarket.com/event/nhl-chi-sj-2026-04-06"
+    },
+    {
+      "rank": 8,
+      "id": "1552121",
+      "question": "Predators vs. Kings",
+      "volume24hr": 1526079.7958779964,
+      "liquidity": 1747687.47418,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "nhl-nsh-lak-2026-04-06",
+      "url": "https://polymarket.com/event/nhl-nsh-lak-2026-04-06"
+    },
+    {
+      "rank": 9,
+      "id": "559680",
+      "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+      "volume24hr": 1482849.8258270002,
+      "liquidity": 2183143.02958,
+      "yes_probability": "0.7%",
+      "no_probability": "99.4%",
+      "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
+      "url": "https://polymarket.com/event/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611"
+    },
+    {
+      "rank": 10,
+      "id": "1466016",
+      "question": "US x Iran ceasefire by April 30?",
+      "volume24hr": 1460904.5016589973,
+      "liquidity": 516161.8174,
+      "yes_probability": "26.5%",
+      "no_probability": "73.5%",
+      "slug": "us-x-iran-ceasefire-by-april-30-194-679-389",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-by-april-30-194-679-389"
+    }
+  ]
+}
