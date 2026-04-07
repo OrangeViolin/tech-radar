@@ -1,0 +1,216 @@
+{
+  "source": "producthunt",
+  "timestamp": "2026-04-03T06:17:50.076Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Claude Code Voice Mode",
+          "tagline": "Speak your prompts into Claude Code",
+          "votesCount": 327,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/claude-code-voice-mode",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "Lightning V3",
+          "tagline": "Text-to-Speech built for Voice Agents",
+          "votesCount": 301,
+          "commentsCount": 22,
+          "url": "https://www.producthunt.com/posts/lightning-v3",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "Denovo",
+          "tagline": "Build and run your business while you sleep.",
+          "votesCount": 273,
+          "commentsCount": 83,
+          "url": "https://www.producthunt.com/posts/denovo",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "GLM-5V-Turbo",
+          "tagline": "Vision-to-code foundation model for real GUI automation",
+          "votesCount": 197,
+          "commentsCount": 5,
+          "url": "https://www.producthunt.com/posts/glm-5v-turbo",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "Cosyra",
+          "tagline": "Run AI coding agents from your phone",
+          "votesCount": 169,
+          "commentsCount": 36,
+          "url": "https://www.producthunt.com/posts/cosyra",
+          "topics": []
+        }
+      ]
+    },
+    "monthly": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Noiz Easter Voice",
+          "tagline": "Crack an Easter egg to generate an AI voice",
+          "votesCount": 417,
+          "commentsCount": 71,
+          "url": "https://www.producthunt.com/posts/noiz-easter-voice",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "Ollama v0.19",
+          "tagline": "Massive local model speedup on Apple Silicon with MLX",
+          "votesCount": 393,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/ollama-v0-19",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "traceAI",
+          "tagline": "Open-source LLM tracing that speaks GenAI, not HTTP.",
+          "votesCount": 271,
+          "commentsCount": 32,
+          "url": "https://www.producthunt.com/posts/traceai",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "Zzzappy",
+          "tagline": "Science-backed breaks to protect your vision \\u0026 prevent RSI",
+          "votesCount": 243,
+          "commentsCount": 24,
+          "url": "https://www.producthunt.com/posts/zzzappy",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "ClawMetry for NVIDIA NemoClaw",
+          "tagline": "Know what's happening inside your NemoClaw sandboxes",
+          "votesCount": 229,
+          "commentsCount": 15,
+          "url": "https://www.producthunt.com/posts/clawmetry-for-nvidia-nemoclaw",
+          "topics": []
+        },
+        {
+          "rank": 6,
+          "name": "Remodex",
+          "tagline": "Control Codex on your iPhone",
+          "votesCount": 177,
+          "commentsCount": 16,
+          "url": "https://www.producthunt.com/posts/remodex-2",
+          "topics": []
+        },
+        {
+          "rank": 7,
+          "name": "Google Veo 3.1 Lite",
+          "tagline": "Google's most cost-effective video generation model",
+          "votesCount": 160,
+          "commentsCount": 3,
+          "url": "https://www.producthunt.com/posts/google-veo-3-1-lite",
+          "topics": []
+        },
+        {
+          "rank": 8,
+          "name": "Prospecting by Clarify",
+          "tagline": "Source leads, send outbound, grow pipeline. All in your CRM.",
+          "votesCount": 155,
+          "commentsCount": 14,
+          "url": "https://www.producthunt.com/posts/prospecting-by-clarify",
+          "topics": []
+        },
+        {
+          "rank": 9,
+          "name": "OpenBox",
+          "tagline": "See, verify, and govern every agent action.",
+          "votesCount": 153,
+          "commentsCount": 36,
+          "url": "https://www.producthunt.com/posts/openbox",
+          "topics": []
+        },
+        {
+          "rank": 10,
+          "name": "Snapstick",
+          "tagline": "Turn your camera roll into group chat chaos",
+          "votesCount": 135,
+          "commentsCount": 5,
+          "url": "https://www.producthunt.com/posts/snapstick",
+          "topics": []
+        },
+        {
+          "rank": 11,
+          "name": "Slackbot",
+          "tagline": "Team up with your AI teammate in the all-new Slack",
+          "votesCount": 116,
+          "commentsCount": 6,
+          "url": "https://www.producthunt.com/posts/slackbot-2",
+          "topics": []
+        },
+        {
+          "rank": 12,
+          "name": "Ray-Ban Meta G2 Blayzer \\u0026 Scriber Optics",
+          "tagline": "Meta's first AI glasses built for prescriptions",
+          "votesCount": 114,
+          "commentsCount": 4,
+          "url": "https://www.producthunt.com/posts/ray-ban-meta-g2-blayzer-scriber-optics",
+          "topics": []
+        },
+        {
+          "rank": 13,
+          "name": "Claras",
+          "tagline": "Skip ahead \\u0026 chat with any YouTube video using AI",
+          "votesCount": 112,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/claras",
+          "topics": []
+        },
+        {
+          "rank": 14,
+          "name": "Keplars",
+          "tagline": "Email Infrastructure for Modern Product Teams",
+          "votesCount": 112,
+          "commentsCount": 8,
+          "url": "https://www.producthunt.com/posts/keplars",
+          "topics": []
+        },
+        {
+          "rank": 15,
+          "name": "Baton",
+          "tagline": "Orchestrate your AI coding agents",
+          "votesCount": 109,
+          "commentsCount": 11,
+          "url": "https://www.producthunt.com/posts/baton-2",
+          "topics": []
+        },
+        {
+          "rank": 16,
+          "name": "Stiinks.co",
+          "tagline": "Link-in-bio, but worse.",
+          "votesCount": 102,
+          "commentsCount": 5,
+          "url": "https://www.producthunt.com/posts/stiinks-co",
+          "topics": []
+        },
+        {
+          "rank": 17,
+          "name": "Claudoscope",
+          "tagline": "Browse, search \\u0026 track costs across Claude Code sessions",
+          "votesCount": 101,
+          "commentsCount": 7,
+          "url": "https://www.producthunt.com/posts/claudoscope",
+          "topics": []
+        }
+      ]
+    }
+  },
+  "items": []
+}

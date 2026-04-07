@@ -1,0 +1,234 @@
+{
+  "source": "github-trending",
+  "timestamp": "2026-04-05T17:29:18.259Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "language": "Kotlin",
+          "stars": 16666,
+          "starsGained": 495,
+          "url": "https://github.com/google-ai-edge/gallery"
+        },
+        {
+          "rank": 2,
+          "name": "Blaizzy/mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+          "language": "Python",
+          "stars": 3840,
+          "starsGained": 408,
+          "url": "https://github.com/Blaizzy/mlx-vlm"
+        },
+        {
+          "rank": 3,
+          "name": "siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "language": "TypeScript",
+          "stars": 22085,
+          "starsGained": 2692,
+          "url": "https://github.com/siddharthvaddem/openscreen"
+        },
+        {
+          "rank": 4,
+          "name": "block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+          "language": "Rust",
+          "stars": 36573,
+          "starsGained": 866,
+          "url": "https://github.com/block/goose"
+        },
+        {
+          "rank": 5,
+          "name": "onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 24819,
+          "starsGained": 960,
+          "url": "https://github.com/onyx-dot-app/onyx"
+        }
+      ]
+    },
+    "monthly": {
+      "count": 19,
+      "items": [
+        {
+          "rank": 1,
+          "name": "666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 49824,
+          "starsGained": 45023,
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars": 71838,
+          "starsGained": 66274,
+          "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 25947,
+          "starsGained": 22900,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 4,
+          "name": "bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars": 58183,
+          "starsGained": 33651,
+          "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "description": "My personal directory of skills, straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 12135,
+          "starsGained": 10972,
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "rank": 6,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 28417,
+          "starsGained": 14451,
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+        },
+        {
+          "rank": 7,
+          "name": "lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "language": "Zig",
+          "stars": 27217,
+          "starsGained": 15218,
+          "url": "https://github.com/lightpanda-io/browser"
+        },
+        {
+          "rank": 8,
+          "name": "affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 139888,
+          "starsGained": 78062,
+          "url": "https://github.com/affaan-m/everything-claude-code"
+        },
+        {
+          "rank": 9,
+          "name": "shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 48563,
+          "starsGained": 27301,
+          "url": "https://github.com/shareAI-lab/learn-claude-code"
+        },
+        {
+          "rank": 10,
+          "name": "mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars": 18661,
+          "starsGained": 14994,
+          "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "rank": 11,
+          "name": "obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 135981,
+          "starsGained": 65377,
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "rank": 12,
+          "name": "TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 47382,
+          "starsGained": 15924,
+          "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+          "rank": 13,
+          "name": "langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 9187,
+          "starsGained": 3908,
+          "url": "https://github.com/langchain-ai/open-swe"
+        },
+        {
+          "rank": 14,
+          "name": "volcengine/OpenViking",
+          "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+          "language": "Python",
+          "stars": 21118,
+          "starsGained": 16417,
+          "url": "https://github.com/volcengine/OpenViking"
+        },
+        {
+          "rank": 15,
+          "name": "alirezarezvani/claude-skills",
+          "description": "220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+          "language": "Python",
+          "stars": 9511,
+          "starsGained": 7028,
+          "url": "https://github.com/alirezarezvani/claude-skills"
+        },
+        {
+          "rank": 16,
+          "name": "siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "language": "TypeScript",
+          "stars": 22085,
+          "starsGained": 11571,
+          "url": "https://github.com/siddharthvaddem/openscreen"
+        },
+        {
+          "rank": 17,
+          "name": "promptfoo/promptfoo",
+          "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+          "language": "TypeScript",
+          "stars": 19472,
+          "starsGained": 8622,
+          "url": "https://github.com/promptfoo/promptfoo"
+        },
+        {
+          "rank": 18,
+          "name": "microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 37190,
+          "starsGained": 8657,
+          "url": "https://github.com/microsoft/BitNet"
+        },
+        {
+          "rank": 19,
+          "name": "langchain-ai/deepagents",
+          "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+          "language": "Python",
+          "stars": 19297,
+          "starsGained": 9288,
+          "url": "https://github.com/langchain-ai/deepagents"
+        }
+      ]
+    }
+  },
+  "items": []
+}

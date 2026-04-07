@@ -1,0 +1,331 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-05T17:29:16.948Z",
+  "count": 29,
+  "metadata": {
+    "topStories": {
+      "count": 29
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47649721,
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649721",
+      "score": 170,
+      "author": "mooreds",
+      "comments": 125,
+      "time": "2026-04-05T14:18:12.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47650726,
+      "title": "Codex is switching to API pricing based usage for all users",
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650726",
+      "score": 91,
+      "author": "ccmcarey",
+      "comments": 47,
+      "time": "2026-04-05T15:58:08.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47648828,
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47648828",
+      "score": 236,
+      "author": "brilee",
+      "comments": 49,
+      "time": "2026-04-05T12:43:47.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47650312,
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650312",
+      "score": 41,
+      "author": "g0xA52A2A",
+      "comments": 1,
+      "time": "2026-04-05T15:18:01.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47647455,
+      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "hnUrl": "https://news.ycombinator.com/item?id=47647455",
+      "score": 419,
+      "author": "tosh",
+      "comments": 244,
+      "time": "2026-04-05T08:56:18.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47650502,
+      "title": "Computational Physics (2nd Edition)",
+      "url": "https://websites.umich.edu/~mejn/cp2/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650502",
+      "score": 17,
+      "author": "teleforce",
+      "comments": 1,
+      "time": "2026-04-05T15:38:18.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47649742,
+      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649742",
+      "score": 32,
+      "author": "desideratum",
+      "comments": 5,
+      "time": "2026-04-05T14:21:17.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47649113,
+      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649113",
+      "score": 178,
+      "author": "Growtika",
+      "comments": 96,
+      "time": "2026-04-05T13:14:36.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47646843,
+      "title": "Lisette a little language inspired by Rust that compiles to Go",
+      "url": "https://lisette.run/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47646843",
+      "score": 200,
+      "author": "jspdown",
+      "comments": 101,
+      "time": "2026-04-05T06:57:19.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47612331,
+      "title": "Baby's Second Garbage Collector",
+      "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+      "hnUrl": "https://news.ycombinator.com/item?id=47612331",
+      "score": 19,
+      "author": "matheusmoreira",
+      "comments": 2,
+      "time": "2026-04-02T10:11:16.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47647788,
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47647788",
+      "score": 591,
+      "author": "zaikunzhang",
+      "comments": 418,
+      "time": "2026-04-05T09:57:25.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47644406,
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47644406",
+      "score": 476,
+      "author": "DyslexicAtheist",
+      "comments": 435,
+      "time": "2026-04-04T22:57:44.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47648048,
+      "title": "Friendica – A Decentralized Social Network",
+      "url": "https://friendi.ca/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47648048",
+      "score": 71,
+      "author": "janandonly",
+      "comments": 29,
+      "time": "2026-04-05T10:41:06.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47648404,
+      "title": "My Google Workspace account suspension",
+      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+      "hnUrl": "https://news.ycombinator.com/item?id=47648404",
+      "score": 225,
+      "author": "zenincognito",
+      "comments": 114,
+      "time": "2026-04-05T11:48:13.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47651401,
+      "title": "With one million displaced, Lebanon turns to digital wallets for aid",
+      "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47651401",
+      "score": 9,
+      "author": "joozio",
+      "comments": 1,
+      "time": "2026-04-05T17:02:38.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47595695,
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "hnUrl": "https://news.ycombinator.com/item?id=47595695",
+      "score": 402,
+      "author": "jskopek",
+      "comments": 68,
+      "time": "2026-04-01T01:31:46.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47650172,
+      "title": "Phone-free bars and restaurants on the rise across the U.S.",
+      "url": "https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650172",
+      "score": 48,
+      "author": "Brajeshwar",
+      "comments": 30,
+      "time": "2026-04-05T15:04:00.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47649117,
+      "title": "Someone at BrowserStack is leaking users' email addresses",
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649117",
+      "score": 307,
+      "author": "m_km",
+      "comments": 81,
+      "time": "2026-04-05T13:14:38.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47649148,
+      "title": "Iguanaworks has closed and our products are no longer sold",
+      "url": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649148",
+      "score": 73,
+      "author": "ripe",
+      "comments": 12,
+      "time": "2026-04-05T13:18:05.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47645432,
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=47645432",
+      "score": 201,
+      "author": "luu",
+      "comments": 63,
+      "time": "2026-04-05T01:54:29.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47649701,
+      "title": "Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI",
+      "url": "https://github.com/sumant1122/Perfmon",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649701",
+      "score": 12,
+      "author": "paperplaneflyr",
+      "comments": 3,
+      "time": "2026-04-05T14:16:28.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47613272,
+      "title": "Tracing Goroutines in Realtime with eBPF",
+      "url": "https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31",
+      "hnUrl": "https://news.ycombinator.com/item?id=47613272",
+      "score": 20,
+      "author": "darccio",
+      "comments": 4,
+      "time": "2026-04-02T12:01:27.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47650962,
+      "title": "The Melanesian: Dark-skinned people with blonde hair region of Oceania",
+      "url": "https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650962",
+      "score": 8,
+      "author": "thunderbong",
+      "comments": 0,
+      "time": "2026-04-05T16:21:51.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47608040,
+      "title": "Shared mutable state in Rust (2022)",
+      "url": "https://draft.ryhl.io/blog/shared-mutable-state/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47608040",
+      "score": 29,
+      "author": "vinhnx",
+      "comments": 6,
+      "time": "2026-04-01T23:33:41.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47646472,
+      "title": "Aegis – open-source FPGA silicon",
+      "url": "https://github.com/MidstallSoftware/aegis",
+      "hnUrl": "https://news.ycombinator.com/item?id=47646472",
+      "score": 90,
+      "author": "rosscomputerguy",
+      "comments": 8,
+      "time": "2026-04-05T05:50:04.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47650401,
+      "title": "StackOverflow: Retiring the Beta Site",
+      "url": "https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650401",
+      "score": 30,
+      "author": "stefankuehnel",
+      "comments": 19,
+      "time": "2026-04-05T15:27:17.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47646504,
+      "title": "Show HN: OsintRadar – Curated directory for osint tools",
+      "url": "https://osintradar.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47646504",
+      "score": 54,
+      "author": "lexalizer",
+      "comments": 5,
+      "time": "2026-04-05T05:58:22.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47607408,
+      "title": "Scientists Figured Out How Eels Reproduce (2022)",
+      "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47607408",
+      "score": 75,
+      "author": "thunderbong",
+      "comments": 16,
+      "time": "2026-04-01T22:33:54.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47649917,
+      "title": "SPF/PC v4 for MS-DOS, FreeDOS, x86",
+      "url": "https://github.com/moshix/SPFPC",
+      "hnUrl": "https://news.ycombinator.com/item?id=47649917",
+      "score": 19,
+      "author": "hggh",
+      "comments": 4,
+      "time": "2026-04-05T14:37:20.000Z"
+    }
+  ]
+}

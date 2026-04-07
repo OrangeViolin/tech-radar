@@ -1,0 +1,2171 @@
+{
+  "timestamp": "2026-04-05T17:29:18.267Z",
+  "collectors": 5,
+  "success": 5,
+  "failed": 0,
+  "results": {
+    "follow-builders": {
+      "source": "follow-builders",
+      "timestamp": "2026-04-05T17:29:14.637Z",
+      "count": 10,
+      "metadata": {
+        "generatedAt": "2026-04-05T07:03:04.434Z",
+        "tweets": {
+          "count": 9,
+          "totalTweets": 18,
+          "items": [
+            {
+              "name": "Andrej Karpathy",
+              "handle": "@karpathy",
+              "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+              "topTweets": [
+                {
+                  "text": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the oth",
+                  "likes": 17282,
+                  "retweets": 1659,
+                  "replies": 621,
+                  "url": "https://x.com/karpathy/status/2040470801506541998",
+                  "createdAt": "2026-04-04T16:45:23.000Z"
+                },
+                {
+                  "text": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact",
+                  "likes": 4186,
+                  "retweets": 392,
+                  "replies": 189,
+                  "url": "https://x.com/karpathy/status/2040572272944324650",
+                  "createdAt": "2026-04-04T23:28:36.000Z"
+                },
+                {
+                  "text": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference),",
+                  "likes": 3029,
+                  "retweets": 364,
+                  "replies": 249,
+                  "url": "https://x.com/karpathy/status/2040549459193704852",
+                  "createdAt": "2026-04-04T21:57:57.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Peter Yang",
+              "handle": "@petergyang",
+              "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+              "topTweets": [
+                {
+                  "text": "Can someone share a screenshot of what OpenClaw with GPT looks like - how much personality is there?",
+                  "likes": 63,
+                  "retweets": 0,
+                  "replies": 85,
+                  "url": "https://x.com/petergyang/status/2040414021091037685",
+                  "createdAt": "2026-04-04T12:59:46.000Z"
+                },
+                {
+                  "text": "An incredible deep dive on Disneyland from my friend @TrungTPhan  https://t.co/yHMHnOBbJ6",
+                  "likes": 18,
+                  "retweets": 2,
+                  "replies": 2,
+                  "url": "https://x.com/petergyang/status/2040416994789613713",
+                  "createdAt": "2026-04-04T13:11:35.000Z"
+                },
+                {
+                  "text": "Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go for the Mac Studio to vibe code and also run local models?",
+                  "likes": 14,
+                  "retweets": 1,
+                  "replies": 30,
+                  "url": "https://x.com/petergyang/status/2040501833899364494",
+                  "createdAt": "2026-04-04T18:48:42.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Nan Yu",
+              "handle": "@thenanyu",
+              "bio": "head of product @linear",
+              "topTweets": [
+                {
+                  "text": "https://t.co/kv205MYqCC https://t.co/fvee5JZe9i",
+                  "likes": 9,
+                  "retweets": 0,
+                  "replies": 2,
+                  "url": "https://x.com/thenanyu/status/2040597900502135059",
+                  "createdAt": "2026-04-05T01:10:26.000Z"
+                },
+                {
+                  "text": "Design engineers https://t.co/dZeLybBMJq",
+                  "likes": 3,
+                  "retweets": 0,
+                  "replies": 0,
+                  "url": "https://x.com/thenanyu/status/2040659521337504215",
+                  "createdAt": "2026-04-05T05:15:18.000Z"
+                },
+                {
+                  "text": "https://t.co/zzfwvC3401",
+                  "likes": 0,
+                  "retweets": 0,
+                  "replies": 0,
+                  "url": "https://x.com/thenanyu/status/2040602311148404890",
+                  "createdAt": "2026-04-05T01:27:58.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Thariq",
+              "handle": "@trq212",
+              "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+              "topTweets": [
+                {
+                  "text": "POV: you're cooking https://t.co/Aw546zNBq7",
+                  "likes": 722,
+                  "retweets": 10,
+                  "replies": 68,
+                  "url": "https://x.com/trq212/status/2040557561464885382",
+                  "createdAt": "2026-04-04T22:30:09.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Aaron Levie",
+              "handle": "@levie",
+              "bio": "ceo @box - your business lives in content. unleash it with AI",
+              "topTweets": [
+                {
+                  "text": "One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word can’t have all the relevant knowledge needed to be useful, because everyone has different use-cases and ways they’ve designed their workflows. \n\nPerhaps most importa",
+                  "likes": 99,
+                  "retweets": 12,
+                  "replies": 21,
+                  "url": "https://x.com/levie/status/2040650799550722243",
+                  "createdAt": "2026-04-05T04:40:38.000Z"
+                },
+                {
+                  "text": "As AI models get better at handling tools, and as context windows get bigger without as much rot, you can start to design agents more similar to how people work instead of having to mitigate the model limitations with weird hacks.\n\nFor instance, even a year ago, if you were to bu",
+                  "likes": 98,
+                  "retweets": 12,
+                  "replies": 15,
+                  "url": "https://x.com/levie/status/2040528801386361128",
+                  "createdAt": "2026-04-04T20:35:52.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Garry Tan",
+              "handle": "@garrytan",
+              "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+              "topTweets": [
+                {
+                  "text": "We are fighting to stop this\n\nJoin @garryslist if you want to help us https://t.co/2iKxFtZbtE",
+                  "likes": 61,
+                  "retweets": 5,
+                  "replies": 6,
+                  "url": "https://x.com/garrytan/status/2040581964156342768",
+                  "createdAt": "2026-04-05T00:07:07.000Z"
+                },
+                {
+                  "text": "14 security bug fixes just landed for GStack, half of which were community PR's. https://t.co/98jmCzQ38i",
+                  "likes": 61,
+                  "retweets": 1,
+                  "replies": 11,
+                  "url": "https://x.com/garrytan/status/2040658880586522783",
+                  "createdAt": "2026-04-05T05:12:45.000Z"
+                },
+                {
+                  "text": "Also trying to make reviews adaptive and smarter. More work towards L8 software factory. Slow and steady. https://t.co/k8VR3v497U",
+                  "likes": 5,
+                  "retweets": 2,
+                  "replies": 1,
+                  "url": "https://x.com/garrytan/status/2040667535490863254",
+                  "createdAt": "2026-04-05T05:47:08.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Zara Zhang",
+              "handle": "@zarazhangrui",
+              "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+              "topTweets": [
+                {
+                  "text": "Prompting tip from @steipete:\n\nI always ask the model, \"Do you have any questions?\"",
+                  "likes": 71,
+                  "retweets": 2,
+                  "replies": 14,
+                  "url": "https://x.com/zarazhangrui/status/2040565939100676382",
+                  "createdAt": "2026-04-04T23:03:26.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Nikunj Kothari",
+              "handle": "@nikunj",
+              "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+              "topTweets": [
+                {
+                  "text": "Don’t forget to smell the flowers 💐 https://t.co/p8qjJhOcQQ",
+                  "likes": 30,
+                  "retweets": 0,
+                  "replies": 4,
+                  "url": "https://x.com/nikunj/status/2040513012440895664",
+                  "createdAt": "2026-04-04T19:33:07.000Z"
+                }
+              ]
+            },
+            {
+              "name": "Peter Steinberger",
+              "handle": "@steipete",
+              "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+              "topTweets": [
+                {
+                  "text": "\"There’s a big wave coming\" https://t.co/sbGnugb3Hz",
+                  "likes": 1043,
+                  "retweets": 83,
+                  "replies": 93,
+                  "url": "https://x.com/steipete/status/2040492573819904026",
+                  "createdAt": "2026-04-04T18:11:54.000Z"
+                }
+              ]
+            }
+          ]
+        },
+        "podcasts": {
+          "count": 1,
+          "items": [
+            {
+              "name": "No Priors",
+              "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+              "url": "https://www.youtube.com/@NoPriorsPodcast",
+              "publishedAt": "2026-04-03T10:00:00.000Z",
+              "transcriptLength": 34745,
+              "transcriptPreview": "Speaker 1 | 00:05 - 00:32\nToday, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie"
+            }
+          ]
+        },
+        "blogs": {
+          "count": 0,
+          "items": []
+        }
+      },
+      "items": [
+        {
+          "name": "Andrej Karpathy",
+          "handle": "@karpathy",
+          "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+          "topTweets": [
+            {
+              "text": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the oth",
+              "likes": 17282,
+              "retweets": 1659,
+              "replies": 621,
+              "url": "https://x.com/karpathy/status/2040470801506541998",
+              "createdAt": "2026-04-04T16:45:23.000Z"
+            },
+            {
+              "text": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact",
+              "likes": 4186,
+              "retweets": 392,
+              "replies": 189,
+              "url": "https://x.com/karpathy/status/2040572272944324650",
+              "createdAt": "2026-04-04T23:28:36.000Z"
+            },
+            {
+              "text": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference),",
+              "likes": 3029,
+              "retweets": 364,
+              "replies": 249,
+              "url": "https://x.com/karpathy/status/2040549459193704852",
+              "createdAt": "2026-04-04T21:57:57.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "Can someone share a screenshot of what OpenClaw with GPT looks like - how much personality is there?",
+              "likes": 63,
+              "retweets": 0,
+              "replies": 85,
+              "url": "https://x.com/petergyang/status/2040414021091037685",
+              "createdAt": "2026-04-04T12:59:46.000Z"
+            },
+            {
+              "text": "An incredible deep dive on Disneyland from my friend @TrungTPhan  https://t.co/yHMHnOBbJ6",
+              "likes": 18,
+              "retweets": 2,
+              "replies": 2,
+              "url": "https://x.com/petergyang/status/2040416994789613713",
+              "createdAt": "2026-04-04T13:11:35.000Z"
+            },
+            {
+              "text": "Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go for the Mac Studio to vibe code and also run local models?",
+              "likes": 14,
+              "retweets": 1,
+              "replies": 30,
+              "url": "https://x.com/petergyang/status/2040501833899364494",
+              "createdAt": "2026-04-04T18:48:42.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Nan Yu",
+          "handle": "@thenanyu",
+          "bio": "head of product @linear",
+          "topTweets": [
+            {
+              "text": "https://t.co/kv205MYqCC https://t.co/fvee5JZe9i",
+              "likes": 9,
+              "retweets": 0,
+              "replies": 2,
+              "url": "https://x.com/thenanyu/status/2040597900502135059",
+              "createdAt": "2026-04-05T01:10:26.000Z"
+            },
+            {
+              "text": "Design engineers https://t.co/dZeLybBMJq",
+              "likes": 3,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/thenanyu/status/2040659521337504215",
+              "createdAt": "2026-04-05T05:15:18.000Z"
+            },
+            {
+              "text": "https://t.co/zzfwvC3401",
+              "likes": 0,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/thenanyu/status/2040602311148404890",
+              "createdAt": "2026-04-05T01:27:58.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Thariq",
+          "handle": "@trq212",
+          "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "topTweets": [
+            {
+              "text": "POV: you're cooking https://t.co/Aw546zNBq7",
+              "likes": 722,
+              "retweets": 10,
+              "replies": 68,
+              "url": "https://x.com/trq212/status/2040557561464885382",
+              "createdAt": "2026-04-04T22:30:09.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word can’t have all the relevant knowledge needed to be useful, because everyone has different use-cases and ways they’ve designed their workflows. \n\nPerhaps most importa",
+              "likes": 99,
+              "retweets": 12,
+              "replies": 21,
+              "url": "https://x.com/levie/status/2040650799550722243",
+              "createdAt": "2026-04-05T04:40:38.000Z"
+            },
+            {
+              "text": "As AI models get better at handling tools, and as context windows get bigger without as much rot, you can start to design agents more similar to how people work instead of having to mitigate the model limitations with weird hacks.\n\nFor instance, even a year ago, if you were to bu",
+              "likes": 98,
+              "retweets": 12,
+              "replies": 15,
+              "url": "https://x.com/levie/status/2040528801386361128",
+              "createdAt": "2026-04-04T20:35:52.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+          "topTweets": [
+            {
+              "text": "We are fighting to stop this\n\nJoin @garryslist if you want to help us https://t.co/2iKxFtZbtE",
+              "likes": 61,
+              "retweets": 5,
+              "replies": 6,
+              "url": "https://x.com/garrytan/status/2040581964156342768",
+              "createdAt": "2026-04-05T00:07:07.000Z"
+            },
+            {
+              "text": "14 security bug fixes just landed for GStack, half of which were community PR's. https://t.co/98jmCzQ38i",
+              "likes": 61,
+              "retweets": 1,
+              "replies": 11,
+              "url": "https://x.com/garrytan/status/2040658880586522783",
+              "createdAt": "2026-04-05T05:12:45.000Z"
+            },
+            {
+              "text": "Also trying to make reviews adaptive and smarter. More work towards L8 software factory. Slow and steady. https://t.co/k8VR3v497U",
+              "likes": 5,
+              "retweets": 2,
+              "replies": 1,
+              "url": "https://x.com/garrytan/status/2040667535490863254",
+              "createdAt": "2026-04-05T05:47:08.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Zara Zhang",
+          "handle": "@zarazhangrui",
+          "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+          "topTweets": [
+            {
+              "text": "Prompting tip from @steipete:\n\nI always ask the model, \"Do you have any questions?\"",
+              "likes": 71,
+              "retweets": 2,
+              "replies": 14,
+              "url": "https://x.com/zarazhangrui/status/2040565939100676382",
+              "createdAt": "2026-04-04T23:03:26.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "Don’t forget to smell the flowers 💐 https://t.co/p8qjJhOcQQ",
+              "likes": 30,
+              "retweets": 0,
+              "replies": 4,
+              "url": "https://x.com/nikunj/status/2040513012440895664",
+              "createdAt": "2026-04-04T19:33:07.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "\"There’s a big wave coming\" https://t.co/sbGnugb3Hz",
+              "likes": 1043,
+              "retweets": 83,
+              "replies": 93,
+              "url": "https://x.com/steipete/status/2040492573819904026",
+              "createdAt": "2026-04-04T18:11:54.000Z"
+            }
+          ],
+          "category": "推文"
+        },
+        {
+          "name": "No Priors",
+          "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+          "url": "https://www.youtube.com/@NoPriorsPodcast",
+          "publishedAt": "2026-04-03T10:00:00.000Z",
+          "transcriptLength": 34745,
+          "transcriptPreview": "Speaker 1 | 00:05 - 00:32\nToday, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie",
+          "category": "播客"
+        }
+      ]
+    },
+    "gh-trending": {
+      "source": "github-trending",
+      "timestamp": "2026-04-05T17:29:18.259Z",
+      "count": 0,
+      "metadata": {
+        "daily": {
+          "count": 5,
+          "items": [
+            {
+              "rank": 1,
+              "name": "google-ai-edge/gallery",
+              "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+              "language": "Kotlin",
+              "stars": 16666,
+              "starsGained": 495,
+              "url": "https://github.com/google-ai-edge/gallery"
+            },
+            {
+              "rank": 2,
+              "name": "Blaizzy/mlx-vlm",
+              "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+              "language": "Python",
+              "stars": 3840,
+              "starsGained": 408,
+              "url": "https://github.com/Blaizzy/mlx-vlm"
+            },
+            {
+              "rank": 3,
+              "name": "siddharthvaddem/openscreen",
+              "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+              "language": "TypeScript",
+              "stars": 22085,
+              "starsGained": 2692,
+              "url": "https://github.com/siddharthvaddem/openscreen"
+            },
+            {
+              "rank": 4,
+              "name": "block/goose",
+              "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+              "language": "Rust",
+              "stars": 36573,
+              "starsGained": 866,
+              "url": "https://github.com/block/goose"
+            },
+            {
+              "rank": 5,
+              "name": "onyx-dot-app/onyx",
+              "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+              "language": "Python",
+              "stars": 24819,
+              "starsGained": 960,
+              "url": "https://github.com/onyx-dot-app/onyx"
+            }
+          ]
+        },
+        "monthly": {
+          "count": 19,
+          "items": [
+            {
+              "rank": 1,
+              "name": "666ghj/MiroFish",
+              "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+              "language": "Python",
+              "stars": 49824,
+              "starsGained": 45023,
+              "url": "https://github.com/666ghj/MiroFish"
+            },
+            {
+              "rank": 2,
+              "name": "msitarzewski/agency-agents",
+              "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+              "language": "Shell",
+              "stars": 71838,
+              "starsGained": 66274,
+              "url": "https://github.com/msitarzewski/agency-agents"
+            },
+            {
+              "rank": 3,
+              "name": "NousResearch/hermes-agent",
+              "description": "The agent that grows with you",
+              "language": "Python",
+              "stars": 25947,
+              "starsGained": 22900,
+              "url": "https://github.com/NousResearch/hermes-agent"
+            },
+            {
+              "rank": 4,
+              "name": "bytedance/deer-flow",
+              "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+              "language": "Python",
+              "stars": 58183,
+              "starsGained": 33651,
+              "url": "https://github.com/bytedance/deer-flow"
+            },
+            {
+              "rank": 5,
+              "name": "mattpocock/skills",
+              "description": "My personal directory of skills, straight from my .claude directory.",
+              "language": "Shell",
+              "stars": 12135,
+              "starsGained": 10972,
+              "url": "https://github.com/mattpocock/skills"
+            },
+            {
+              "rank": 6,
+              "name": "FujiwaraChoki/MoneyPrinterV2",
+              "description": "Automate the process of making money online.",
+              "language": "Python",
+              "stars": 28417,
+              "starsGained": 14451,
+              "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+            },
+            {
+              "rank": 7,
+              "name": "lightpanda-io/browser",
+              "description": "Lightpanda: the headless browser designed for AI and automation",
+              "language": "Zig",
+              "stars": 27217,
+              "starsGained": 15218,
+              "url": "https://github.com/lightpanda-io/browser"
+            },
+            {
+              "rank": 8,
+              "name": "affaan-m/everything-claude-code",
+              "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+              "language": "JavaScript",
+              "stars": 139888,
+              "starsGained": 78062,
+              "url": "https://github.com/affaan-m/everything-claude-code"
+            },
+            {
+              "rank": 9,
+              "name": "shareAI-lab/learn-claude-code",
+              "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+              "language": "TypeScript",
+              "stars": 48563,
+              "starsGained": 27301,
+              "url": "https://github.com/shareAI-lab/learn-claude-code"
+            },
+            {
+              "rank": 10,
+              "name": "mvanhorn/last30days-skill",
+              "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+              "language": "Python",
+              "stars": 18661,
+              "starsGained": 14994,
+              "url": "https://github.com/mvanhorn/last30days-skill"
+            },
+            {
+              "rank": 11,
+              "name": "obra/superpowers",
+              "description": "An agentic skills framework & software development methodology that works.",
+              "language": "Shell",
+              "stars": 135981,
+              "starsGained": 65377,
+              "url": "https://github.com/obra/superpowers"
+            },
+            {
+              "rank": 12,
+              "name": "TauricResearch/TradingAgents",
+              "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+              "language": "Python",
+              "stars": 47382,
+              "starsGained": 15924,
+              "url": "https://github.com/TauricResearch/TradingAgents"
+            },
+            {
+              "rank": 13,
+              "name": "langchain-ai/open-swe",
+              "description": "An Open-Source Asynchronous Coding Agent",
+              "language": "Python",
+              "stars": 9187,
+              "starsGained": 3908,
+              "url": "https://github.com/langchain-ai/open-swe"
+            },
+            {
+              "rank": 14,
+              "name": "volcengine/OpenViking",
+              "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+              "language": "Python",
+              "stars": 21118,
+              "starsGained": 16417,
+              "url": "https://github.com/volcengine/OpenViking"
+            },
+            {
+              "rank": 15,
+              "name": "alirezarezvani/claude-skills",
+              "description": "220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+              "language": "Python",
+              "stars": 9511,
+              "starsGained": 7028,
+              "url": "https://github.com/alirezarezvani/claude-skills"
+            },
+            {
+              "rank": 16,
+              "name": "siddharthvaddem/openscreen",
+              "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+              "language": "TypeScript",
+              "stars": 22085,
+              "starsGained": 11571,
+              "url": "https://github.com/siddharthvaddem/openscreen"
+            },
+            {
+              "rank": 17,
+              "name": "promptfoo/promptfoo",
+              "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+              "language": "TypeScript",
+              "stars": 19472,
+              "starsGained": 8622,
+              "url": "https://github.com/promptfoo/promptfoo"
+            },
+            {
+              "rank": 18,
+              "name": "microsoft/BitNet",
+              "description": "Official inference framework for 1-bit LLMs",
+              "language": "Python",
+              "stars": 37190,
+              "starsGained": 8657,
+              "url": "https://github.com/microsoft/BitNet"
+            },
+            {
+              "rank": 19,
+              "name": "langchain-ai/deepagents",
+              "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+              "language": "Python",
+              "stars": 19297,
+              "starsGained": 9288,
+              "url": "https://github.com/langchain-ai/deepagents"
+            }
+          ]
+        }
+      },
+      "items": []
+    },
+    "hackernews": {
+      "source": "hackernews",
+      "timestamp": "2026-04-05T17:29:16.948Z",
+      "count": 29,
+      "metadata": {
+        "topStories": {
+          "count": 29
+        }
+      },
+      "items": [
+        {
+          "rank": 1,
+          "id": 47649721,
+          "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+          "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649721",
+          "score": 170,
+          "author": "mooreds",
+          "comments": 125,
+          "time": "2026-04-05T14:18:12.000Z"
+        },
+        {
+          "rank": 2,
+          "id": 47650726,
+          "title": "Codex is switching to API pricing based usage for all users",
+          "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+          "hnUrl": "https://news.ycombinator.com/item?id=47650726",
+          "score": 91,
+          "author": "ccmcarey",
+          "comments": 47,
+          "time": "2026-04-05T15:58:08.000Z"
+        },
+        {
+          "rank": 3,
+          "id": 47648828,
+          "title": "Eight years of wanting, three months of building with AI",
+          "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47648828",
+          "score": 236,
+          "author": "brilee",
+          "comments": 49,
+          "time": "2026-04-05T12:43:47.000Z"
+        },
+        {
+          "rank": 4,
+          "id": 47650312,
+          "title": "A tail-call interpreter in (nightly) Rust",
+          "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47650312",
+          "score": 41,
+          "author": "g0xA52A2A",
+          "comments": 1,
+          "time": "2026-04-05T15:18:01.000Z"
+        },
+        {
+          "rank": 5,
+          "id": 47647455,
+          "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "hnUrl": "https://news.ycombinator.com/item?id=47647455",
+          "score": 419,
+          "author": "tosh",
+          "comments": 244,
+          "time": "2026-04-05T08:56:18.000Z"
+        },
+        {
+          "rank": 6,
+          "id": 47650502,
+          "title": "Computational Physics (2nd Edition)",
+          "url": "https://websites.umich.edu/~mejn/cp2/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47650502",
+          "score": 17,
+          "author": "teleforce",
+          "comments": 1,
+          "time": "2026-04-05T15:38:18.000Z"
+        },
+        {
+          "rank": 7,
+          "id": 47649742,
+          "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+          "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649742",
+          "score": 32,
+          "author": "desideratum",
+          "comments": 5,
+          "time": "2026-04-05T14:21:17.000Z"
+        },
+        {
+          "rank": 8,
+          "id": 47649113,
+          "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649113",
+          "score": 178,
+          "author": "Growtika",
+          "comments": 96,
+          "time": "2026-04-05T13:14:36.000Z"
+        },
+        {
+          "rank": 9,
+          "id": 47646843,
+          "title": "Lisette a little language inspired by Rust that compiles to Go",
+          "url": "https://lisette.run/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47646843",
+          "score": 200,
+          "author": "jspdown",
+          "comments": 101,
+          "time": "2026-04-05T06:57:19.000Z"
+        },
+        {
+          "rank": 10,
+          "id": 47612331,
+          "title": "Baby's Second Garbage Collector",
+          "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+          "hnUrl": "https://news.ycombinator.com/item?id=47612331",
+          "score": 19,
+          "author": "matheusmoreira",
+          "comments": 2,
+          "time": "2026-04-02T10:11:16.000Z"
+        },
+        {
+          "rank": 11,
+          "id": 47647788,
+          "title": "The threat is comfortable drift toward not understanding what you're doing",
+          "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47647788",
+          "score": 591,
+          "author": "zaikunzhang",
+          "comments": 418,
+          "time": "2026-04-05T09:57:25.000Z"
+        },
+        {
+          "rank": 12,
+          "id": 47644406,
+          "title": "German implementation of eIDAS will require an Apple/Google account to function",
+          "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47644406",
+          "score": 476,
+          "author": "DyslexicAtheist",
+          "comments": 435,
+          "time": "2026-04-04T22:57:44.000Z"
+        },
+        {
+          "rank": 13,
+          "id": 47648048,
+          "title": "Friendica – A Decentralized Social Network",
+          "url": "https://friendi.ca/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47648048",
+          "score": 71,
+          "author": "janandonly",
+          "comments": 29,
+          "time": "2026-04-05T10:41:06.000Z"
+        },
+        {
+          "rank": 14,
+          "id": 47648404,
+          "title": "My Google Workspace account suspension",
+          "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+          "hnUrl": "https://news.ycombinator.com/item?id=47648404",
+          "score": 225,
+          "author": "zenincognito",
+          "comments": 114,
+          "time": "2026-04-05T11:48:13.000Z"
+        },
+        {
+          "rank": 15,
+          "id": 47651401,
+          "title": "With one million displaced, Lebanon turns to digital wallets for aid",
+          "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47651401",
+          "score": 9,
+          "author": "joozio",
+          "comments": 1,
+          "time": "2026-04-05T17:02:38.000Z"
+        },
+        {
+          "rank": 16,
+          "id": 47595695,
+          "title": "OpenScreen is an open-source alternative to Screen Studio",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "hnUrl": "https://news.ycombinator.com/item?id=47595695",
+          "score": 402,
+          "author": "jskopek",
+          "comments": 68,
+          "time": "2026-04-01T01:31:46.000Z"
+        },
+        {
+          "rank": 17,
+          "id": 47650172,
+          "title": "Phone-free bars and restaurants on the rise across the U.S.",
+          "url": "https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline",
+          "hnUrl": "https://news.ycombinator.com/item?id=47650172",
+          "score": 48,
+          "author": "Brajeshwar",
+          "comments": 30,
+          "time": "2026-04-05T15:04:00.000Z"
+        },
+        {
+          "rank": 18,
+          "id": 47649117,
+          "title": "Someone at BrowserStack is leaking users' email addresses",
+          "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649117",
+          "score": 307,
+          "author": "m_km",
+          "comments": 81,
+          "time": "2026-04-05T13:14:38.000Z"
+        },
+        {
+          "rank": 19,
+          "id": 47649148,
+          "title": "Iguanaworks has closed and our products are no longer sold",
+          "url": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649148",
+          "score": 73,
+          "author": "ripe",
+          "comments": 12,
+          "time": "2026-04-05T13:18:05.000Z"
+        },
+        {
+          "rank": 20,
+          "id": 47645432,
+          "title": "Introduction to Computer Music (2009) [pdf]",
+          "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+          "hnUrl": "https://news.ycombinator.com/item?id=47645432",
+          "score": 201,
+          "author": "luu",
+          "comments": 63,
+          "time": "2026-04-05T01:54:29.000Z"
+        },
+        {
+          "rank": 21,
+          "id": 47649701,
+          "title": "Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI",
+          "url": "https://github.com/sumant1122/Perfmon",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649701",
+          "score": 12,
+          "author": "paperplaneflyr",
+          "comments": 3,
+          "time": "2026-04-05T14:16:28.000Z"
+        },
+        {
+          "rank": 22,
+          "id": 47613272,
+          "title": "Tracing Goroutines in Realtime with eBPF",
+          "url": "https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31",
+          "hnUrl": "https://news.ycombinator.com/item?id=47613272",
+          "score": 20,
+          "author": "darccio",
+          "comments": 4,
+          "time": "2026-04-02T12:01:27.000Z"
+        },
+        {
+          "rank": 23,
+          "id": 47650962,
+          "title": "The Melanesian: Dark-skinned people with blonde hair region of Oceania",
+          "url": "https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47650962",
+          "score": 8,
+          "author": "thunderbong",
+          "comments": 0,
+          "time": "2026-04-05T16:21:51.000Z"
+        },
+        {
+          "rank": 24,
+          "id": 47608040,
+          "title": "Shared mutable state in Rust (2022)",
+          "url": "https://draft.ryhl.io/blog/shared-mutable-state/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47608040",
+          "score": 29,
+          "author": "vinhnx",
+          "comments": 6,
+          "time": "2026-04-01T23:33:41.000Z"
+        },
+        {
+          "rank": 25,
+          "id": 47646472,
+          "title": "Aegis – open-source FPGA silicon",
+          "url": "https://github.com/MidstallSoftware/aegis",
+          "hnUrl": "https://news.ycombinator.com/item?id=47646472",
+          "score": 90,
+          "author": "rosscomputerguy",
+          "comments": 8,
+          "time": "2026-04-05T05:50:04.000Z"
+        },
+        {
+          "rank": 26,
+          "id": 47650401,
+          "title": "StackOverflow: Retiring the Beta Site",
+          "url": "https://meta.stackoverflow.com/questions/438628/retiring-the-beta-site",
+          "hnUrl": "https://news.ycombinator.com/item?id=47650401",
+          "score": 30,
+          "author": "stefankuehnel",
+          "comments": 19,
+          "time": "2026-04-05T15:27:17.000Z"
+        },
+        {
+          "rank": 27,
+          "id": 47646504,
+          "title": "Show HN: OsintRadar – Curated directory for osint tools",
+          "url": "https://osintradar.com/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47646504",
+          "score": 54,
+          "author": "lexalizer",
+          "comments": 5,
+          "time": "2026-04-05T05:58:22.000Z"
+        },
+        {
+          "rank": 28,
+          "id": 47607408,
+          "title": "Scientists Figured Out How Eels Reproduce (2022)",
+          "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
+          "hnUrl": "https://news.ycombinator.com/item?id=47607408",
+          "score": 75,
+          "author": "thunderbong",
+          "comments": 16,
+          "time": "2026-04-01T22:33:54.000Z"
+        },
+        {
+          "rank": 29,
+          "id": 47649917,
+          "title": "SPF/PC v4 for MS-DOS, FreeDOS, x86",
+          "url": "https://github.com/moshix/SPFPC",
+          "hnUrl": "https://news.ycombinator.com/item?id=47649917",
+          "score": 19,
+          "author": "hggh",
+          "comments": 4,
+          "time": "2026-04-05T14:37:20.000Z"
+        }
+      ]
+    },
+    "producthunt": {
+      "source": "producthunt",
+      "timestamp": "2026-04-05T17:29:16.665Z",
+      "count": 0,
+      "metadata": {
+        "daily": {
+          "count": 5,
+          "items": [
+            {
+              "rank": 1,
+              "name": "Influcio",
+              "tagline": "AI marketing Agent for result-driven influencer campaign",
+              "votesCount": 297,
+              "commentsCount": 21,
+              "url": "https://www.producthunt.com/posts/influcio-2",
+              "topics": []
+            },
+            {
+              "rank": 2,
+              "name": "Panorama",
+              "tagline": "AI that finds your team’s workflows and hidden structures",
+              "votesCount": 220,
+              "commentsCount": 40,
+              "url": "https://www.producthunt.com/posts/panorama",
+              "topics": []
+            },
+            {
+              "rank": 3,
+              "name": "Tiny Aya",
+              "tagline": "Local, open-weight AI designed for real-world languages",
+              "votesCount": 168,
+              "commentsCount": 4,
+              "url": "https://www.producthunt.com/posts/tiny-aya",
+              "topics": []
+            },
+            {
+              "rank": 4,
+              "name": "Shotwell",
+              "tagline": "The screenshot editor for iPhone.",
+              "votesCount": 154,
+              "commentsCount": 8,
+              "url": "https://www.producthunt.com/posts/shotwell",
+              "topics": []
+            },
+            {
+              "rank": 5,
+              "name": "Ember",
+              "tagline": "Meal scan, macros \\u0026 AI coach",
+              "votesCount": 130,
+              "commentsCount": 11,
+              "url": "https://www.producthunt.com/posts/ember-109",
+              "topics": []
+            }
+          ]
+        },
+        "monthly": {
+          "count": 17,
+          "items": [
+            {
+              "rank": 1,
+              "name": "Noiz Easter Voice",
+              "tagline": "Crack an Easter egg to generate an AI voice",
+              "votesCount": 479,
+              "commentsCount": 75,
+              "url": "https://www.producthunt.com/posts/noiz-easter-voice",
+              "topics": []
+            },
+            {
+              "rank": 2,
+              "name": "Google Gemma 4",
+              "tagline": "Google's most intelligent open models to date",
+              "votesCount": 418,
+              "commentsCount": 8,
+              "url": "https://www.producthunt.com/posts/google-gemma-4",
+              "topics": []
+            },
+            {
+              "rank": 3,
+              "name": "Ollama v0.19",
+              "tagline": "Massive local model speedup on Apple Silicon with MLX",
+              "votesCount": 408,
+              "commentsCount": 10,
+              "url": "https://www.producthunt.com/posts/ollama-v0-19",
+              "topics": []
+            },
+            {
+              "rank": 4,
+              "name": "Google Vids 2.0",
+              "tagline": "Create, edit and share videos at no cost w/ new AI features",
+              "votesCount": 401,
+              "commentsCount": 9,
+              "url": "https://www.producthunt.com/posts/google-vids-2-0",
+              "topics": []
+            },
+            {
+              "rank": 5,
+              "name": "Claude Code Voice Mode",
+              "tagline": "Speak your prompts into Claude Code",
+              "votesCount": 396,
+              "commentsCount": 13,
+              "url": "https://www.producthunt.com/posts/claude-code-voice-mode",
+              "topics": []
+            },
+            {
+              "rank": 6,
+              "name": "ZooClaw",
+              "tagline": "Your proactive team of AI specialists in one place",
+              "votesCount": 380,
+              "commentsCount": 43,
+              "url": "https://www.producthunt.com/posts/zooclaw",
+              "topics": []
+            },
+            {
+              "rank": 7,
+              "name": "Cursor 3",
+              "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
+              "votesCount": 364,
+              "commentsCount": 15,
+              "url": "https://www.producthunt.com/posts/cursor-3-4",
+              "topics": []
+            },
+            {
+              "rank": 8,
+              "name": "Lightning V3",
+              "tagline": "Text-to-Speech built for Voice Agents",
+              "votesCount": 348,
+              "commentsCount": 23,
+              "url": "https://www.producthunt.com/posts/lightning-v3",
+              "topics": []
+            },
+            {
+              "rank": 9,
+              "name": "Denovo",
+              "tagline": "Build and run your business while you sleep.",
+              "votesCount": 286,
+              "commentsCount": 95,
+              "url": "https://www.producthunt.com/posts/denovo",
+              "topics": []
+            },
+            {
+              "rank": 10,
+              "name": "traceAI",
+              "tagline": "Open-source LLM tracing that speaks GenAI, not HTTP.",
+              "votesCount": 279,
+              "commentsCount": 32,
+              "url": "https://www.producthunt.com/posts/traceai",
+              "topics": []
+            },
+            {
+              "rank": 11,
+              "name": "Sleek Analytics",
+              "tagline": "See who's on your site. Right now.",
+              "votesCount": 268,
+              "commentsCount": 48,
+              "url": "https://www.producthunt.com/posts/sleek-analytics",
+              "topics": []
+            },
+            {
+              "rank": 12,
+              "name": "Zzzappy",
+              "tagline": "Science-backed breaks to protect your vision \\u0026 prevent RSI",
+              "votesCount": 253,
+              "commentsCount": 24,
+              "url": "https://www.producthunt.com/posts/zzzappy",
+              "topics": []
+            },
+            {
+              "rank": 13,
+              "name": "ClawMetry for NVIDIA NemoClaw",
+              "tagline": "Know what's happening inside your NemoClaw sandboxes",
+              "votesCount": 235,
+              "commentsCount": 23,
+              "url": "https://www.producthunt.com/posts/clawmetry-for-nvidia-nemoclaw",
+              "topics": []
+            },
+            {
+              "rank": 14,
+              "name": "Surf Social Websites",
+              "tagline": "Bring together people and content on the social web",
+              "votesCount": 224,
+              "commentsCount": 21,
+              "url": "https://www.producthunt.com/posts/surf-social-websites",
+              "topics": []
+            },
+            {
+              "rank": 15,
+              "name": "GLM-5V-Turbo",
+              "tagline": "Vision-to-code foundation model for real GUI automation",
+              "votesCount": 222,
+              "commentsCount": 6,
+              "url": "https://www.producthunt.com/posts/glm-5v-turbo",
+              "topics": []
+            },
+            {
+              "rank": 16,
+              "name": "Cosyra",
+              "tagline": "Run AI coding agents from your phone",
+              "votesCount": 186,
+              "commentsCount": 39,
+              "url": "https://www.producthunt.com/posts/cosyra",
+              "topics": []
+            },
+            {
+              "rank": 17,
+              "name": "VoiceOS",
+              "tagline": "Say it and it's done. Work 10x faster with your voice.",
+              "votesCount": 0,
+              "commentsCount": 0,
+              "url": "https://www.producthunt.com/posts/voiceos-3",
+              "topics": []
+            }
+          ]
+        }
+      },
+      "items": []
+    },
+    "zara-ai": {
+      "source": "zara-ai",
+      "timestamp": "2026-04-05T17:29:15.292Z",
+      "count": 37,
+      "metadata": {
+        "videos": {
+          "count": 25,
+          "items": [
+            {
+              "id": "vid1",
+              "title": "Deep Dive into LLMs like ChatGPT",
+              "description": "The best introduction into LLMs on the Internet",
+              "channel": "Andrej Karpathy",
+              "tags": [
+                "Fundamentals"
+              ],
+              "videoId": "7xTGNNLPyMI",
+              "duration": "3:31:23",
+              "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+              "isFeatured": true
+            },
+            {
+              "id": "vid2",
+              "title": "How to Build a Beloved AI Product - Granola CEO Chris Pedregal",
+              "description": "Learn from the founder of Granola, the AI PM that I admire the most",
+              "channel": "The MAD Podcast with Matt Turck",
+              "tags": [
+                "Product",
+                "Founder interview"
+              ],
+              "videoId": "IcbuTTVUY7M",
+              "duration": "1:08:35",
+              "url": "https://www.youtube.com/watch?v=IcbuTTVUY7M",
+              "isFeatured": true
+            },
+            {
+              "id": "vid3",
+              "title": "Inside NotebookLM with Raiza Martin and Steven Johnson",
+              "description": "Behind the scenes look at Google's NotebookLM, one of my favorite AI products",
+              "channel": "Google",
+              "tags": [
+                "Product"
+              ],
+              "videoId": "mccQdu5afZw",
+              "duration": "46:11",
+              "url": "https://www.youtube.com/watch?v=mccQdu5afZw",
+              "isFeatured": true
+            },
+            {
+              "id": "vid4",
+              "title": "Inside Claude Code: How an AI Native Team Actually Works | Cat Wu",
+              "description": "Behind the scenes at Anthropic's Claude development team",
+              "channel": "Peter Yang",
+              "tags": [
+                "Product",
+                "Vibe coding"
+              ],
+              "videoId": "jmHBMtpR36M",
+              "duration": "40:36",
+              "url": "https://www.youtube.com/watch?v=jmHBMtpR36M",
+              "isFeatured": false
+            },
+            {
+              "id": "vid6",
+              "title": "The Master Prompt Method: Unlock AI's Full Potential",
+              "description": "A serial entrepreneur shares a powerful way to train your AI with full context about you and your business",
+              "channel": "Tiago Forte",
+              "tags": [
+                "Demo",
+                "Prompting",
+                "Practical tutorial"
+              ],
+              "videoId": "_K_F_icxtrI",
+              "duration": "38:53",
+              "url": "https://www.youtube.com/watch?v=_K_F_icxtrI",
+              "isFeatured": false
+            },
+            {
+              "id": "vid7",
+              "title": "Going Direct | Lulu Cheng Meservey",
+              "description": "Lulu Cheng Meservey is the leading voice in the new age of PR and comms. Learn how to make your AI product stand out in a sea of slop. Hosted by Sam Altman's brother",
+              "channel": "Uncapped with Jack Altman",
+              "tags": [
+                "Marketing and growth"
+              ],
+              "videoId": "GRoU1T4E9rQ",
+              "duration": "50:18",
+              "url": "https://www.youtube.com/watch?v=GRoU1T4E9rQ",
+              "isFeatured": false
+            },
+            {
+              "id": "vid8",
+              "title": "Snipd: The AI Podcast App for Learning \\— with CEO Kevin Ben-Smith",
+              "description": "Interview with the founder of Snipd, the AI podcast app that I use every day",
+              "channel": "Latent Space",
+              "tags": [
+                "Product",
+                "Founder interview"
+              ],
+              "videoId": "FNRO_SYx68Q",
+              "duration": "1:17:45",
+              "url": "https://www.youtube.com/watch?v=FNRO_SYx68Q",
+              "isFeatured": false
+            },
+            {
+              "id": "vid9",
+              "title": "Mark Zuckerberg on AI Glasses, Superintelligence, Neural Control, and More",
+              "description": "Zuck discusses Meta's latest AI glasses",
+              "channel": "Rowan Cheung",
+              "tags": [
+                "Founder interview"
+              ],
+              "videoId": "WuTJkFvw70o",
+              "duration": "45:28",
+              "url": "https://www.youtube.com/watch?v=WuTJkFvw70o",
+              "isFeatured": false
+            },
+            {
+              "id": "vid10",
+              "title": "Prompting 101 | Code w/ Claude",
+              "description": "Hands-on guidance on prompting from the Anthropic team",
+              "channel": "Anthropic",
+              "tags": [
+                "Prompting",
+                "Product",
+                "Practical tutorial"
+              ],
+              "videoId": "ysPbXH0LpIE",
+              "duration": "24:52",
+              "url": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+              "isFeatured": true
+            },
+            {
+              "id": "vid11",
+              "title": "The 19-year-old Making Millions with His Ai Mobile App",
+              "description": "Eye-opening insights on growth and making a consumer app in the AI age",
+              "channel": "Brett Malinowski",
+              "tags": [
+                "Product",
+                "Marketing and growth"
+              ],
+              "videoId": "AY4R2p2i8nM",
+              "duration": "1:03:42",
+              "url": "https://www.youtube.com/watch?v=AY4R2p2i8nM",
+              "isFeatured": false
+            },
+            {
+              "id": "vid12",
+              "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+              "description": "Dan Shipper is the co-founder and CEO of Every",
+              "channel": "Lenny's Podcast",
+              "tags": [
+                "Founder interview"
+              ],
+              "videoId": "crMrVozp_h8",
+              "duration": "1:34:56",
+              "url": "https://www.youtube.com/watch?v=crMrVozp_h8",
+              "isFeatured": false
+            },
+            {
+              "id": "vid13",
+              "title": "Andrew Ng: Building Faster with AI",
+              "description": "Andrew Ng's talk at YC reshaped how I think about product development in the AI era",
+              "channel": "Y Combinator",
+              "tags": [
+                "Product",
+                "Vibe coding"
+              ],
+              "videoId": "RNJCfif1dPY",
+              "duration": "43:57",
+              "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+              "isFeatured": true
+            },
+            {
+              "id": "vid15",
+              "title": "Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)",
+              "description": "Insider stories behind ChatGPT's growth",
+              "channel": "Lenny's Podcast",
+              "tags": [
+                "Product",
+                "Marketing and growth"
+              ],
+              "videoId": "ixY2PvQJ0To",
+              "duration": "1:35:37",
+              "url": "https://www.youtube.com/watch?v=ixY2PvQJ0To",
+              "isFeatured": true
+            },
+            {
+              "id": "vid16",
+              "title": "Complete Beginner's Course on AI Evaluations in 50 Minutes (2025) | Aman Khan",
+              "description": "The best free resource on AI evaluations, for complete beginners",
+              "channel": "Peter Yang",
+              "tags": [
+                "Practical tutorial",
+                "Product"
+              ],
+              "videoId": "TL527yTpxlk",
+              "duration": "51:47",
+              "url": "https://www.youtube.com/watch?v=TL527yTpxlk",
+              "isFeatured": false
+            },
+            {
+              "id": "vid17",
+              "title": "Chris Pedregal + Sam Stephenson: Making Meetings More Effective with Granola",
+              "description": "Masterclass on building an AI product in the application layer",
+              "channel": "Lightspeed Venture Partners",
+              "tags": [
+                "Product",
+                "Founder interview"
+              ],
+              "videoId": "2eajeT9WU4k",
+              "duration": "38:05",
+              "url": "https://www.youtube.com/watch?v=2eajeT9WU4k",
+              "isFeatured": false
+            },
+            {
+              "id": "vid18",
+              "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast",
+              "description": "Behind-the-scenes with the Cursor team; good introduction to AI coding",
+              "channel": "Lex Fridman",
+              "tags": [
+                "Vibe coding",
+                "Founder interview"
+              ],
+              "videoId": "oFfVt3S51T4",
+              "duration": "2:29:04",
+              "url": "https://www.youtube.com/watch?v=oFfVt3S51T4",
+              "isFeatured": false
+            },
+            {
+              "id": "vid19",
+              "title": "How To 10x Your Notes: Obsidian + Claude AI Agents",
+              "description": "How to connect Obsidian with Claude Code; easy to follow for non-technical people",
+              "channel": "Mckay Wrigley",
+              "tags": [
+                "Practical tutorial",
+                "Vibe coding"
+              ],
+              "videoId": "d7Pb73dbcIM",
+              "duration": "1:01:26",
+              "url": "https://www.youtube.com/watch?v=d7Pb73dbcIM",
+              "isFeatured": false
+            },
+            {
+              "id": "vid20",
+              "title": "Arc Had Millions of Users. Why They Left It Behind for Dia.",
+              "description": "Behind-the-scenes stories of Dia",
+              "channel": "Every",
+              "tags": [
+                "Founder interview"
+              ],
+              "videoId": "210zavw00y4",
+              "duration": "1:24:52",
+              "url": "https://www.youtube.com/watch?v=210zavw00y4",
+              "isFeatured": false
+            },
+            {
+              "id": "3qliut",
+              "title": "OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+              "description": "Interview with OpenAI's head of product",
+              "channel": "Lenny's Podcast",
+              "tags": [
+                "Product"
+              ],
+              "videoId": "scsW6_2SPC4",
+              "duration": "1:31:40",
+              "url": "https://www.youtube.com/watch?v=scsW6_2SPC4",
+              "isFeatured": false
+            },
+            {
+              "id": "s0ohah",
+              "title": "View From The Top with Aravind Srinivas, Cofounder and CEO of Perplexity",
+              "description": "Aravind offers advice to prospective founders, and dives into what makes Perplexity unique.",
+              "channel": "Stanford Graduate School of Business",
+              "tags": [
+                "Founder interview"
+              ],
+              "videoId": "r1Bi10Xt0fc",
+              "duration": "52:09",
+              "url": "https://www.youtube.com/watch?v=r1Bi10Xt0fc",
+              "isFeatured": false
+            },
+            {
+              "id": "k109f6",
+              "title": "NotebookLM with Steven Johnson and Raiza Martin",
+              "description": "Behind the scenes of NotebookLM's development",
+              "channel": "Google for Developers",
+              "tags": [
+                "Product"
+              ],
+              "videoId": "7w_ARTj-mvM",
+              "duration": "1:01:48",
+              "url": "https://www.youtube.com/watch?v=7w_ARTj-mvM",
+              "isFeatured": false
+            },
+            {
+              "id": "r295rr",
+              "title": "How I use LLMs",
+              "description": "Beginner-friendly guide to using LLMs",
+              "channel": "Andrej Karpathy",
+              "tags": [
+                "Fundamentals",
+                "Practical tutorial"
+              ],
+              "videoId": "EWvNQjAaOHw",
+              "duration": "2:11:11",
+              "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+              "isFeatured": false
+            },
+            {
+              "id": "l42gy8",
+              "title": "Alexandr Wang, Scale AI, & the Startup Hunger Games",
+              "description": "Memorable interview with Alexandr Wang (when he was still CEO of Scale)",
+              "channel": "South Park Commons",
+              "tags": [
+                "Founder interview"
+              ],
+              "videoId": "CEebe451GZs",
+              "duration": "55:35",
+              "url": "https://www.youtube.com/watch?v=CEebe451GZs",
+              "isFeatured": false
+            },
+            {
+              "id": "1u3qyg",
+              "title": "Personalized AI Language Education \\— with Andrew Hsu, Speak",
+              "description": "AI for language learning",
+              "channel": "Latent Space",
+              "tags": [
+                "Founder interview"
+              ],
+              "videoId": "tIVKgztDaYQ",
+              "duration": "1:04:09",
+              "url": "https://www.youtube.com/watch?v=tIVKgztDaYQ",
+              "isFeatured": false
+            },
+            {
+              "id": "35rpe0",
+              "title": "We Were Going to Shut Down Our Company\\\\u2026Now We're Worth $700M | Eric Simons (Bolt)",
+              "description": "Interview with the founder of Bolt; a lesson on resilience",
+              "channel": "Peter Yang",
+              "tags": [
+                "Founder interview",
+                "Vibe coding"
+              ],
+              "videoId": "moaX7CsqZjc",
+              "duration": "48:22",
+              "url": "https://www.youtube.com/watch?v=moaX7CsqZjc",
+              "isFeatured": false
+            }
+          ]
+        },
+        "podcasts": {
+          "count": 12,
+          "items": [
+            {
+              "id": "podcast2",
+              "title": "Latent Space",
+              "description": "The podcast by and for AI Engineers",
+              "url": "https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L",
+              "recommended": true
+            },
+            {
+              "id": "podcast3",
+              "title": "AI & I",
+              "description": "Learn how the smartest people in the world are using AI to think, create, and relate",
+              "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+              "recommended": true
+            },
+            {
+              "id": "podcast4",
+              "title": "Google DeepMind: The Podcast",
+              "description": "Interview with Google's AI leaders, by the wonderful host Hannah Fry",
+              "url": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+              "recommended": false
+            },
+            {
+              "id": "podcast5",
+              "title": "The AI Daily Brief",
+              "description": "AI news with an opinion; saves Twitter scrolls",
+              "url": "https://www.youtube.com/playlist?list=PLRYSuzHGhXPmKnOpd-f588cNNmTe2S9FP",
+              "recommended": true
+            },
+            {
+              "id": "podcast6",
+              "title": "TBPN",
+              "description": "Technology's daily show",
+              "url": "https://www.youtube.com/@TBPNLive",
+              "recommended": false
+            },
+            {
+              "id": "kqfz5a",
+              "title": "Training Data",
+              "description": "Sequoia Capital partners host conversations with leading AI builders and researchers",
+              "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+              "recommended": false
+            },
+            {
+              "id": "xzo7n1",
+              "title": "Lenny's Podcast",
+              "description": "Interviews with world-class product leaders and growth experts",
+              "url": "https://www.youtube.com/@LennysPodcast",
+              "recommended": false
+            },
+            {
+              "id": "9uoxnl",
+              "title": "Behind the Craft",
+              "description": "Interviews with top product leaders and creators to help you craft great products and creator businesses",
+              "url": "https://www.youtube.com/playlist?list=PLIWHjbvRtljj4RewVNv_znkUe-3E-NKd2",
+              "recommended": true
+            },
+            {
+              "id": "bawlab",
+              "title": "No Priors",
+              "description": "Elad Gil and Sarah Guo talk to the world's leading engineers, researchers and founders",
+              "url": "https://www.youtube.com/@NoPriorsPodcast",
+              "recommended": false
+            },
+            {
+              "id": "wmj8an",
+              "title": "Unsupervised Learning",
+              "description": "Repoint partners interview the sharpest minds in AI",
+              "url": "https://www.youtube.com/@RedpointAI",
+              "recommended": false
+            },
+            {
+              "id": "ocsmvh",
+              "title": "Minus One",
+              "description": "Podcast by South Park Commons",
+              "url": "https://www.youtube.com/playlist?list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7",
+              "recommended": false
+            },
+            {
+              "id": "pjj4s2",
+              "title": "Lightcone Podcast",
+              "description": "YC's podcast",
+              "url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK",
+              "recommended": false
+            }
+          ]
+        },
+        "diff": {
+          "hasChanges": false,
+          "videos": {
+            "added": [],
+            "removed": []
+          },
+          "podcasts": {
+            "added": [],
+            "removed": []
+          }
+        }
+      },
+      "items": [
+        {
+          "id": "vid1",
+          "title": "Deep Dive into LLMs like ChatGPT",
+          "description": "The best introduction into LLMs on the Internet",
+          "channel": "Andrej Karpathy",
+          "tags": [
+            "Fundamentals"
+          ],
+          "videoId": "7xTGNNLPyMI",
+          "duration": "3:31:23",
+          "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "isFeatured": true,
+          "category": "视频"
+        },
+        {
+          "id": "vid2",
+          "title": "How to Build a Beloved AI Product - Granola CEO Chris Pedregal",
+          "description": "Learn from the founder of Granola, the AI PM that I admire the most",
+          "channel": "The MAD Podcast with Matt Turck",
+          "tags": [
+            "Product",
+            "Founder interview"
+          ],
+          "videoId": "IcbuTTVUY7M",
+          "duration": "1:08:35",
+          "url": "https://www.youtube.com/watch?v=IcbuTTVUY7M",
+          "isFeatured": true,
+          "category": "视频"
+        },
+        {
+          "id": "vid3",
+          "title": "Inside NotebookLM with Raiza Martin and Steven Johnson",
+          "description": "Behind the scenes look at Google's NotebookLM, one of my favorite AI products",
+          "channel": "Google",
+          "tags": [
+            "Product"
+          ],
+          "videoId": "mccQdu5afZw",
+          "duration": "46:11",
+          "url": "https://www.youtube.com/watch?v=mccQdu5afZw",
+          "isFeatured": true,
+          "category": "视频"
+        },
+        {
+          "id": "vid4",
+          "title": "Inside Claude Code: How an AI Native Team Actually Works | Cat Wu",
+          "description": "Behind the scenes at Anthropic's Claude development team",
+          "channel": "Peter Yang",
+          "tags": [
+            "Product",
+            "Vibe coding"
+          ],
+          "videoId": "jmHBMtpR36M",
+          "duration": "40:36",
+          "url": "https://www.youtube.com/watch?v=jmHBMtpR36M",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid6",
+          "title": "The Master Prompt Method: Unlock AI's Full Potential",
+          "description": "A serial entrepreneur shares a powerful way to train your AI with full context about you and your business",
+          "channel": "Tiago Forte",
+          "tags": [
+            "Demo",
+            "Prompting",
+            "Practical tutorial"
+          ],
+          "videoId": "_K_F_icxtrI",
+          "duration": "38:53",
+          "url": "https://www.youtube.com/watch?v=_K_F_icxtrI",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid7",
+          "title": "Going Direct | Lulu Cheng Meservey",
+          "description": "Lulu Cheng Meservey is the leading voice in the new age of PR and comms. Learn how to make your AI product stand out in a sea of slop. Hosted by Sam Altman's brother",
+          "channel": "Uncapped with Jack Altman",
+          "tags": [
+            "Marketing and growth"
+          ],
+          "videoId": "GRoU1T4E9rQ",
+          "duration": "50:18",
+          "url": "https://www.youtube.com/watch?v=GRoU1T4E9rQ",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid8",
+          "title": "Snipd: The AI Podcast App for Learning \\— with CEO Kevin Ben-Smith",
+          "description": "Interview with the founder of Snipd, the AI podcast app that I use every day",
+          "channel": "Latent Space",
+          "tags": [
+            "Product",
+            "Founder interview"
+          ],
+          "videoId": "FNRO_SYx68Q",
+          "duration": "1:17:45",
+          "url": "https://www.youtube.com/watch?v=FNRO_SYx68Q",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid9",
+          "title": "Mark Zuckerberg on AI Glasses, Superintelligence, Neural Control, and More",
+          "description": "Zuck discusses Meta's latest AI glasses",
+          "channel": "Rowan Cheung",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "WuTJkFvw70o",
+          "duration": "45:28",
+          "url": "https://www.youtube.com/watch?v=WuTJkFvw70o",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid10",
+          "title": "Prompting 101 | Code w/ Claude",
+          "description": "Hands-on guidance on prompting from the Anthropic team",
+          "channel": "Anthropic",
+          "tags": [
+            "Prompting",
+            "Product",
+            "Practical tutorial"
+          ],
+          "videoId": "ysPbXH0LpIE",
+          "duration": "24:52",
+          "url": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+          "isFeatured": true,
+          "category": "视频"
+        },
+        {
+          "id": "vid11",
+          "title": "The 19-year-old Making Millions with His Ai Mobile App",
+          "description": "Eye-opening insights on growth and making a consumer app in the AI age",
+          "channel": "Brett Malinowski",
+          "tags": [
+            "Product",
+            "Marketing and growth"
+          ],
+          "videoId": "AY4R2p2i8nM",
+          "duration": "1:03:42",
+          "url": "https://www.youtube.com/watch?v=AY4R2p2i8nM",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid12",
+          "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+          "description": "Dan Shipper is the co-founder and CEO of Every",
+          "channel": "Lenny's Podcast",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "crMrVozp_h8",
+          "duration": "1:34:56",
+          "url": "https://www.youtube.com/watch?v=crMrVozp_h8",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid13",
+          "title": "Andrew Ng: Building Faster with AI",
+          "description": "Andrew Ng's talk at YC reshaped how I think about product development in the AI era",
+          "channel": "Y Combinator",
+          "tags": [
+            "Product",
+            "Vibe coding"
+          ],
+          "videoId": "RNJCfif1dPY",
+          "duration": "43:57",
+          "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+          "isFeatured": true,
+          "category": "视频"
+        },
+        {
+          "id": "vid15",
+          "title": "Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)",
+          "description": "Insider stories behind ChatGPT's growth",
+          "channel": "Lenny's Podcast",
+          "tags": [
+            "Product",
+            "Marketing and growth"
+          ],
+          "videoId": "ixY2PvQJ0To",
+          "duration": "1:35:37",
+          "url": "https://www.youtube.com/watch?v=ixY2PvQJ0To",
+          "isFeatured": true,
+          "category": "视频"
+        },
+        {
+          "id": "vid16",
+          "title": "Complete Beginner's Course on AI Evaluations in 50 Minutes (2025) | Aman Khan",
+          "description": "The best free resource on AI evaluations, for complete beginners",
+          "channel": "Peter Yang",
+          "tags": [
+            "Practical tutorial",
+            "Product"
+          ],
+          "videoId": "TL527yTpxlk",
+          "duration": "51:47",
+          "url": "https://www.youtube.com/watch?v=TL527yTpxlk",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid17",
+          "title": "Chris Pedregal + Sam Stephenson: Making Meetings More Effective with Granola",
+          "description": "Masterclass on building an AI product in the application layer",
+          "channel": "Lightspeed Venture Partners",
+          "tags": [
+            "Product",
+            "Founder interview"
+          ],
+          "videoId": "2eajeT9WU4k",
+          "duration": "38:05",
+          "url": "https://www.youtube.com/watch?v=2eajeT9WU4k",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid18",
+          "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast",
+          "description": "Behind-the-scenes with the Cursor team; good introduction to AI coding",
+          "channel": "Lex Fridman",
+          "tags": [
+            "Vibe coding",
+            "Founder interview"
+          ],
+          "videoId": "oFfVt3S51T4",
+          "duration": "2:29:04",
+          "url": "https://www.youtube.com/watch?v=oFfVt3S51T4",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid19",
+          "title": "How To 10x Your Notes: Obsidian + Claude AI Agents",
+          "description": "How to connect Obsidian with Claude Code; easy to follow for non-technical people",
+          "channel": "Mckay Wrigley",
+          "tags": [
+            "Practical tutorial",
+            "Vibe coding"
+          ],
+          "videoId": "d7Pb73dbcIM",
+          "duration": "1:01:26",
+          "url": "https://www.youtube.com/watch?v=d7Pb73dbcIM",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "vid20",
+          "title": "Arc Had Millions of Users. Why They Left It Behind for Dia.",
+          "description": "Behind-the-scenes stories of Dia",
+          "channel": "Every",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "210zavw00y4",
+          "duration": "1:24:52",
+          "url": "https://www.youtube.com/watch?v=210zavw00y4",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "3qliut",
+          "title": "OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+          "description": "Interview with OpenAI's head of product",
+          "channel": "Lenny's Podcast",
+          "tags": [
+            "Product"
+          ],
+          "videoId": "scsW6_2SPC4",
+          "duration": "1:31:40",
+          "url": "https://www.youtube.com/watch?v=scsW6_2SPC4",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "s0ohah",
+          "title": "View From The Top with Aravind Srinivas, Cofounder and CEO of Perplexity",
+          "description": "Aravind offers advice to prospective founders, and dives into what makes Perplexity unique.",
+          "channel": "Stanford Graduate School of Business",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "r1Bi10Xt0fc",
+          "duration": "52:09",
+          "url": "https://www.youtube.com/watch?v=r1Bi10Xt0fc",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "k109f6",
+          "title": "NotebookLM with Steven Johnson and Raiza Martin",
+          "description": "Behind the scenes of NotebookLM's development",
+          "channel": "Google for Developers",
+          "tags": [
+            "Product"
+          ],
+          "videoId": "7w_ARTj-mvM",
+          "duration": "1:01:48",
+          "url": "https://www.youtube.com/watch?v=7w_ARTj-mvM",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "r295rr",
+          "title": "How I use LLMs",
+          "description": "Beginner-friendly guide to using LLMs",
+          "channel": "Andrej Karpathy",
+          "tags": [
+            "Fundamentals",
+            "Practical tutorial"
+          ],
+          "videoId": "EWvNQjAaOHw",
+          "duration": "2:11:11",
+          "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "l42gy8",
+          "title": "Alexandr Wang, Scale AI, & the Startup Hunger Games",
+          "description": "Memorable interview with Alexandr Wang (when he was still CEO of Scale)",
+          "channel": "South Park Commons",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "CEebe451GZs",
+          "duration": "55:35",
+          "url": "https://www.youtube.com/watch?v=CEebe451GZs",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "1u3qyg",
+          "title": "Personalized AI Language Education \\— with Andrew Hsu, Speak",
+          "description": "AI for language learning",
+          "channel": "Latent Space",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "tIVKgztDaYQ",
+          "duration": "1:04:09",
+          "url": "https://www.youtube.com/watch?v=tIVKgztDaYQ",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "35rpe0",
+          "title": "We Were Going to Shut Down Our Company\\\\u2026Now We're Worth $700M | Eric Simons (Bolt)",
+          "description": "Interview with the founder of Bolt; a lesson on resilience",
+          "channel": "Peter Yang",
+          "tags": [
+            "Founder interview",
+            "Vibe coding"
+          ],
+          "videoId": "moaX7CsqZjc",
+          "duration": "48:22",
+          "url": "https://www.youtube.com/watch?v=moaX7CsqZjc",
+          "isFeatured": false,
+          "category": "视频"
+        },
+        {
+          "id": "podcast2",
+          "title": "Latent Space",
+          "description": "The podcast by and for AI Engineers",
+          "url": "https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L",
+          "recommended": true,
+          "category": "播客"
+        },
+        {
+          "id": "podcast3",
+          "title": "AI & I",
+          "description": "Learn how the smartest people in the world are using AI to think, create, and relate",
+          "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+          "recommended": true,
+          "category": "播客"
+        },
+        {
+          "id": "podcast4",
+          "title": "Google DeepMind: The Podcast",
+          "description": "Interview with Google's AI leaders, by the wonderful host Hannah Fry",
+          "url": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "podcast5",
+          "title": "The AI Daily Brief",
+          "description": "AI news with an opinion; saves Twitter scrolls",
+          "url": "https://www.youtube.com/playlist?list=PLRYSuzHGhXPmKnOpd-f588cNNmTe2S9FP",
+          "recommended": true,
+          "category": "播客"
+        },
+        {
+          "id": "podcast6",
+          "title": "TBPN",
+          "description": "Technology's daily show",
+          "url": "https://www.youtube.com/@TBPNLive",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "kqfz5a",
+          "title": "Training Data",
+          "description": "Sequoia Capital partners host conversations with leading AI builders and researchers",
+          "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "xzo7n1",
+          "title": "Lenny's Podcast",
+          "description": "Interviews with world-class product leaders and growth experts",
+          "url": "https://www.youtube.com/@LennysPodcast",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "9uoxnl",
+          "title": "Behind the Craft",
+          "description": "Interviews with top product leaders and creators to help you craft great products and creator businesses",
+          "url": "https://www.youtube.com/playlist?list=PLIWHjbvRtljj4RewVNv_znkUe-3E-NKd2",
+          "recommended": true,
+          "category": "播客"
+        },
+        {
+          "id": "bawlab",
+          "title": "No Priors",
+          "description": "Elad Gil and Sarah Guo talk to the world's leading engineers, researchers and founders",
+          "url": "https://www.youtube.com/@NoPriorsPodcast",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "wmj8an",
+          "title": "Unsupervised Learning",
+          "description": "Repoint partners interview the sharpest minds in AI",
+          "url": "https://www.youtube.com/@RedpointAI",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "ocsmvh",
+          "title": "Minus One",
+          "description": "Podcast by South Park Commons",
+          "url": "https://www.youtube.com/playlist?list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7",
+          "recommended": false,
+          "category": "播客"
+        },
+        {
+          "id": "pjj4s2",
+          "title": "Lightcone Podcast",
+          "description": "YC's podcast",
+          "url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK",
+          "recommended": false,
+          "category": "播客"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-03T06:17:51.104Z",
+  "count": 29,
+  "metadata": {
+    "topStories": {
+      "count": 29
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47616361,
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47616361",
+      "score": 1322,
+      "author": "jeffmcjunkin",
+      "comments": 385,
+      "time": "2026-04-02T16:10:54.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47616242,
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "hnUrl": "https://news.ycombinator.com/item?id=47616242",
+      "score": 572,
+      "author": "axelriet",
+      "comments": 211,
+      "time": "2026-04-02T16:00:27.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47618189,
+      "title": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "hnUrl": "https://news.ycombinator.com/item?id=47618189",
+      "score": 405,
+      "author": "tosh",
+      "comments": 196,
+      "time": "2026-04-02T18:22:03.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47598413,
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "hnUrl": "https://news.ycombinator.com/item?id=47598413",
+      "score": 95,
+      "author": "gaigalas",
+      "comments": 14,
+      "time": "2026-04-01T08:41:49.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47562214,
+      "title": "Free stuff makes us irrational",
+      "url": "https://thehustle.co/why-free-stuff-makes-us-irrational",
+      "hnUrl": "https://news.ycombinator.com/item?id=47562214",
+      "score": 40,
+      "author": "Anon84",
+      "comments": 36,
+      "time": "2026-03-29T11:25:18.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47618084,
+      "title": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "hnUrl": "https://news.ycombinator.com/item?id=47618084",
+      "score": 363,
+      "author": "adamfeldman",
+      "comments": 296,
+      "time": "2026-04-02T18:13:41.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47609356,
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47609356",
+      "score": 202,
+      "author": "1659447091",
+      "comments": 80,
+      "time": "2026-04-02T02:37:12.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47615002,
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "hnUrl": "https://news.ycombinator.com/item?id=47615002",
+      "score": 484,
+      "author": "pretext",
+      "comments": 173,
+      "time": "2026-04-02T14:28:52.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47617415,
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47617415",
+      "score": 218,
+      "author": "sedev",
+      "comments": 87,
+      "time": "2026-04-02T17:29:03.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47560959,
+      "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
+      "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47560959",
+      "score": 23,
+      "author": "sthottingal",
+      "comments": 12,
+      "time": "2026-03-29T06:56:04.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47613981,
+      "title": "LinkedIn is searching your browser extensions",
+      "url": "https://browsergate.eu/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47613981",
+      "score": 1646,
+      "author": "digitalWestie",
+      "comments": 693,
+      "time": "2026-04-02T13:09:09.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47551847,
+      "title": "The Joy of Numbered Streets",
+      "url": "https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47551847",
+      "score": 34,
+      "author": "dmit",
+      "comments": 13,
+      "time": "2026-03-28T05:13:42.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47618176,
+      "title": "George Goble has died",
+      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "hnUrl": "https://news.ycombinator.com/item?id=47618176",
+      "score": 136,
+      "author": "finaard",
+      "comments": 25,
+      "time": "2026-04-02T18:21:08.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47561913,
+      "title": "Vector Meson Dominance",
+      "url": "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47561913",
+      "score": 9,
+      "author": "chmaynard",
+      "comments": 0,
+      "time": "2026-03-29T10:28:04.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47562762,
+      "title": "Significant progress made on Xbox 360 recompilation",
+      "url": "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47562762",
+      "score": 100,
+      "author": "tetrisgm",
+      "comments": 22,
+      "time": "2026-03-29T12:53:03.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47621448,
+      "title": "A Few Good Magazines From the 70s and 80s",
+      "url": "https://www.bi6.us/CO/MG.HTML",
+      "hnUrl": "https://news.ycombinator.com/item?id=47621448",
+      "score": 50,
+      "author": "OhMeadhbh",
+      "comments": 14,
+      "time": "2026-04-02T23:17:26.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47621438,
+      "title": "Show HN: Made a little Artemis II tracker",
+      "url": "https://artemis-ii-tracker.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47621438",
+      "score": 75,
+      "author": "codingmoh",
+      "comments": 29,
+      "time": "2026-04-02T23:16:05.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47572288,
+      "title": "JSON Canvas Spec (2024)",
+      "url": "https://jsoncanvas.org/spec/1.0/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47572288",
+      "score": 100,
+      "author": "tobr",
+      "comments": 31,
+      "time": "2026-03-30T09:38:38.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47613078,
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "hnUrl": "https://news.ycombinator.com/item?id=47613078",
+      "score": 277,
+      "author": "lode",
+      "comments": 118,
+      "time": "2026-04-02T11:40:41.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47617376,
+      "title": "OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47617376",
+      "score": 190,
+      "author": "surprisetalk",
+      "comments": 154,
+      "time": "2026-04-02T17:26:49.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47620933,
+      "title": "Memo: A language that remembers only the last 12 lines of code",
+      "url": "https://danieltemkin.com/Esolangs/Memo/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47620933",
+      "score": 42,
+      "author": "notem",
+      "comments": 17,
+      "time": "2026-04-02T22:21:24.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47593861,
+      "title": "Maze Algorithms (1997)",
+      "url": "https://www.astrolog.org/labyrnth/algrithm.htm",
+      "hnUrl": "https://news.ycombinator.com/item?id=47593861",
+      "score": 34,
+      "author": "marukodo",
+      "comments": 5,
+      "time": "2026-03-31T21:43:15.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47615490,
+      "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "hnUrl": "https://news.ycombinator.com/item?id=47615490",
+      "score": 371,
+      "author": "mooreds",
+      "comments": 282,
+      "time": "2026-04-02T15:08:45.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47621792,
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "hnUrl": "https://news.ycombinator.com/item?id=47621792",
+      "score": 75,
+      "author": "Kyro38",
+      "comments": 42,
+      "time": "2026-04-03T00:00:19.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47612601,
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47612601",
+      "score": 801,
+      "author": "novaRom",
+      "comments": 393,
+      "time": "2026-04-02T10:50:00.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47592614,
+      "title": "Prefer do notation over Applicative operators when assembling records (2024)",
+      "url": "https://haskellforall.com/2024/05/prefer-do-notation-over-applicative",
+      "hnUrl": "https://news.ycombinator.com/item?id=47592614",
+      "score": 38,
+      "author": "wazHFsRy",
+      "comments": 5,
+      "time": "2026-03-31T19:57:05.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47575557,
+      "title": "Magic the Gathering Deck Shuffler",
+      "url": "https://mtg.jessitron.honeydemo.io/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47575557",
+      "score": 54,
+      "author": "mooreds",
+      "comments": 15,
+      "time": "2026-03-30T15:28:45.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47612724,
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "hnUrl": "https://news.ycombinator.com/item?id=47612724",
+      "score": 485,
+      "author": "AbuAssar",
+      "comments": 107,
+      "time": "2026-04-02T11:04:51.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47621518,
+      "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
+      "url": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47621518",
+      "score": 23,
+      "author": "sohkamyung",
+      "comments": 4,
+      "time": "2026-04-02T23:26:01.000Z"
+    }
+  ]
+}

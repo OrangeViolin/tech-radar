@@ -1,0 +1,465 @@
+{
+  "source": "follow-builders",
+  "timestamp": "2026-04-05T17:29:14.637Z",
+  "count": 10,
+  "metadata": {
+    "generatedAt": "2026-04-05T07:03:04.434Z",
+    "tweets": {
+      "count": 9,
+      "totalTweets": 18,
+      "items": [
+        {
+          "name": "Andrej Karpathy",
+          "handle": "@karpathy",
+          "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+          "topTweets": [
+            {
+              "text": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the oth",
+              "likes": 17282,
+              "retweets": 1659,
+              "replies": 621,
+              "url": "https://x.com/karpathy/status/2040470801506541998",
+              "createdAt": "2026-04-04T16:45:23.000Z"
+            },
+            {
+              "text": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact",
+              "likes": 4186,
+              "retweets": 392,
+              "replies": 189,
+              "url": "https://x.com/karpathy/status/2040572272944324650",
+              "createdAt": "2026-04-04T23:28:36.000Z"
+            },
+            {
+              "text": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference),",
+              "likes": 3029,
+              "retweets": 364,
+              "replies": 249,
+              "url": "https://x.com/karpathy/status/2040549459193704852",
+              "createdAt": "2026-04-04T21:57:57.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "Can someone share a screenshot of what OpenClaw with GPT looks like - how much personality is there?",
+              "likes": 63,
+              "retweets": 0,
+              "replies": 85,
+              "url": "https://x.com/petergyang/status/2040414021091037685",
+              "createdAt": "2026-04-04T12:59:46.000Z"
+            },
+            {
+              "text": "An incredible deep dive on Disneyland from my friend @TrungTPhan  https://t.co/yHMHnOBbJ6",
+              "likes": 18,
+              "retweets": 2,
+              "replies": 2,
+              "url": "https://x.com/petergyang/status/2040416994789613713",
+              "createdAt": "2026-04-04T13:11:35.000Z"
+            },
+            {
+              "text": "Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go for the Mac Studio to vibe code and also run local models?",
+              "likes": 14,
+              "retweets": 1,
+              "replies": 30,
+              "url": "https://x.com/petergyang/status/2040501833899364494",
+              "createdAt": "2026-04-04T18:48:42.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nan Yu",
+          "handle": "@thenanyu",
+          "bio": "head of product @linear",
+          "topTweets": [
+            {
+              "text": "https://t.co/kv205MYqCC https://t.co/fvee5JZe9i",
+              "likes": 9,
+              "retweets": 0,
+              "replies": 2,
+              "url": "https://x.com/thenanyu/status/2040597900502135059",
+              "createdAt": "2026-04-05T01:10:26.000Z"
+            },
+            {
+              "text": "Design engineers https://t.co/dZeLybBMJq",
+              "likes": 3,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/thenanyu/status/2040659521337504215",
+              "createdAt": "2026-04-05T05:15:18.000Z"
+            },
+            {
+              "text": "https://t.co/zzfwvC3401",
+              "likes": 0,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/thenanyu/status/2040602311148404890",
+              "createdAt": "2026-04-05T01:27:58.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Thariq",
+          "handle": "@trq212",
+          "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "topTweets": [
+            {
+              "text": "POV: you're cooking https://t.co/Aw546zNBq7",
+              "likes": 722,
+              "retweets": 10,
+              "replies": 68,
+              "url": "https://x.com/trq212/status/2040557561464885382",
+              "createdAt": "2026-04-04T22:30:09.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word can’t have all the relevant knowledge needed to be useful, because everyone has different use-cases and ways they’ve designed their workflows. \n\nPerhaps most importa",
+              "likes": 99,
+              "retweets": 12,
+              "replies": 21,
+              "url": "https://x.com/levie/status/2040650799550722243",
+              "createdAt": "2026-04-05T04:40:38.000Z"
+            },
+            {
+              "text": "As AI models get better at handling tools, and as context windows get bigger without as much rot, you can start to design agents more similar to how people work instead of having to mitigate the model limitations with weird hacks.\n\nFor instance, even a year ago, if you were to bu",
+              "likes": 98,
+              "retweets": 12,
+              "replies": 15,
+              "url": "https://x.com/levie/status/2040528801386361128",
+              "createdAt": "2026-04-04T20:35:52.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+          "topTweets": [
+            {
+              "text": "We are fighting to stop this\n\nJoin @garryslist if you want to help us https://t.co/2iKxFtZbtE",
+              "likes": 61,
+              "retweets": 5,
+              "replies": 6,
+              "url": "https://x.com/garrytan/status/2040581964156342768",
+              "createdAt": "2026-04-05T00:07:07.000Z"
+            },
+            {
+              "text": "14 security bug fixes just landed for GStack, half of which were community PR's. https://t.co/98jmCzQ38i",
+              "likes": 61,
+              "retweets": 1,
+              "replies": 11,
+              "url": "https://x.com/garrytan/status/2040658880586522783",
+              "createdAt": "2026-04-05T05:12:45.000Z"
+            },
+            {
+              "text": "Also trying to make reviews adaptive and smarter. More work towards L8 software factory. Slow and steady. https://t.co/k8VR3v497U",
+              "likes": 5,
+              "retweets": 2,
+              "replies": 1,
+              "url": "https://x.com/garrytan/status/2040667535490863254",
+              "createdAt": "2026-04-05T05:47:08.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Zara Zhang",
+          "handle": "@zarazhangrui",
+          "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+          "topTweets": [
+            {
+              "text": "Prompting tip from @steipete:\n\nI always ask the model, \"Do you have any questions?\"",
+              "likes": 71,
+              "retweets": 2,
+              "replies": 14,
+              "url": "https://x.com/zarazhangrui/status/2040565939100676382",
+              "createdAt": "2026-04-04T23:03:26.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "Don’t forget to smell the flowers 💐 https://t.co/p8qjJhOcQQ",
+              "likes": 30,
+              "retweets": 0,
+              "replies": 4,
+              "url": "https://x.com/nikunj/status/2040513012440895664",
+              "createdAt": "2026-04-04T19:33:07.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "\"There’s a big wave coming\" https://t.co/sbGnugb3Hz",
+              "likes": 1043,
+              "retweets": 83,
+              "replies": 93,
+              "url": "https://x.com/steipete/status/2040492573819904026",
+              "createdAt": "2026-04-04T18:11:54.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 1,
+      "items": [
+        {
+          "name": "No Priors",
+          "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+          "url": "https://www.youtube.com/@NoPriorsPodcast",
+          "publishedAt": "2026-04-03T10:00:00.000Z",
+          "transcriptLength": 34745,
+          "transcriptPreview": "Speaker 1 | 00:05 - 00:32\nToday, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie"
+        }
+      ]
+    },
+    "blogs": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "items": [
+    {
+      "name": "Andrej Karpathy",
+      "handle": "@karpathy",
+      "bio": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+      "topTweets": [
+        {
+          "text": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the oth",
+          "likes": 17282,
+          "retweets": 1659,
+          "replies": 621,
+          "url": "https://x.com/karpathy/status/2040470801506541998",
+          "createdAt": "2026-04-04T16:45:23.000Z"
+        },
+        {
+          "text": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact",
+          "likes": 4186,
+          "retweets": 392,
+          "replies": 189,
+          "url": "https://x.com/karpathy/status/2040572272944324650",
+          "createdAt": "2026-04-04T23:28:36.000Z"
+        },
+        {
+          "text": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference),",
+          "likes": 3029,
+          "retweets": 364,
+          "replies": 249,
+          "url": "https://x.com/karpathy/status/2040549459193704852",
+          "createdAt": "2026-04-04T21:57:57.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "@petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "topTweets": [
+        {
+          "text": "Can someone share a screenshot of what OpenClaw with GPT looks like - how much personality is there?",
+          "likes": 63,
+          "retweets": 0,
+          "replies": 85,
+          "url": "https://x.com/petergyang/status/2040414021091037685",
+          "createdAt": "2026-04-04T12:59:46.000Z"
+        },
+        {
+          "text": "An incredible deep dive on Disneyland from my friend @TrungTPhan  https://t.co/yHMHnOBbJ6",
+          "likes": 18,
+          "retweets": 2,
+          "replies": 2,
+          "url": "https://x.com/petergyang/status/2040416994789613713",
+          "createdAt": "2026-04-04T13:11:35.000Z"
+        },
+        {
+          "text": "Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go for the Mac Studio to vibe code and also run local models?",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 30,
+          "url": "https://x.com/petergyang/status/2040501833899364494",
+          "createdAt": "2026-04-04T18:48:42.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nan Yu",
+      "handle": "@thenanyu",
+      "bio": "head of product @linear",
+      "topTweets": [
+        {
+          "text": "https://t.co/kv205MYqCC https://t.co/fvee5JZe9i",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 2,
+          "url": "https://x.com/thenanyu/status/2040597900502135059",
+          "createdAt": "2026-04-05T01:10:26.000Z"
+        },
+        {
+          "text": "Design engineers https://t.co/dZeLybBMJq",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/thenanyu/status/2040659521337504215",
+          "createdAt": "2026-04-05T05:15:18.000Z"
+        },
+        {
+          "text": "https://t.co/zzfwvC3401",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/thenanyu/status/2040602311148404890",
+          "createdAt": "2026-04-05T01:27:58.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Thariq",
+      "handle": "@trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "topTweets": [
+        {
+          "text": "POV: you're cooking https://t.co/Aw546zNBq7",
+          "likes": 722,
+          "retweets": 10,
+          "replies": 68,
+          "url": "https://x.com/trq212/status/2040557561464885382",
+          "createdAt": "2026-04-04T22:30:09.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aaron Levie",
+      "handle": "@levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "topTweets": [
+        {
+          "text": "One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word can’t have all the relevant knowledge needed to be useful, because everyone has different use-cases and ways they’ve designed their workflows. \n\nPerhaps most importa",
+          "likes": 99,
+          "retweets": 12,
+          "replies": 21,
+          "url": "https://x.com/levie/status/2040650799550722243",
+          "createdAt": "2026-04-05T04:40:38.000Z"
+        },
+        {
+          "text": "As AI models get better at handling tools, and as context windows get bigger without as much rot, you can start to design agents more similar to how people work instead of having to mitigate the model limitations with weird hacks.\n\nFor instance, even a year ago, if you were to bu",
+          "likes": 98,
+          "retweets": 12,
+          "replies": 15,
+          "url": "https://x.com/levie/status/2040528801386361128",
+          "createdAt": "2026-04-04T20:35:52.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "@garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+      "topTweets": [
+        {
+          "text": "We are fighting to stop this\n\nJoin @garryslist if you want to help us https://t.co/2iKxFtZbtE",
+          "likes": 61,
+          "retweets": 5,
+          "replies": 6,
+          "url": "https://x.com/garrytan/status/2040581964156342768",
+          "createdAt": "2026-04-05T00:07:07.000Z"
+        },
+        {
+          "text": "14 security bug fixes just landed for GStack, half of which were community PR's. https://t.co/98jmCzQ38i",
+          "likes": 61,
+          "retweets": 1,
+          "replies": 11,
+          "url": "https://x.com/garrytan/status/2040658880586522783",
+          "createdAt": "2026-04-05T05:12:45.000Z"
+        },
+        {
+          "text": "Also trying to make reviews adaptive and smarter. More work towards L8 software factory. Slow and steady. https://t.co/k8VR3v497U",
+          "likes": 5,
+          "retweets": 2,
+          "replies": 1,
+          "url": "https://x.com/garrytan/status/2040667535490863254",
+          "createdAt": "2026-04-05T05:47:08.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Zara Zhang",
+      "handle": "@zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "topTweets": [
+        {
+          "text": "Prompting tip from @steipete:\n\nI always ask the model, \"Do you have any questions?\"",
+          "likes": 71,
+          "retweets": 2,
+          "replies": 14,
+          "url": "https://x.com/zarazhangrui/status/2040565939100676382",
+          "createdAt": "2026-04-04T23:03:26.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nikunj Kothari",
+      "handle": "@nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "topTweets": [
+        {
+          "text": "Don’t forget to smell the flowers 💐 https://t.co/p8qjJhOcQQ",
+          "likes": 30,
+          "retweets": 0,
+          "replies": 4,
+          "url": "https://x.com/nikunj/status/2040513012440895664",
+          "createdAt": "2026-04-04T19:33:07.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "topTweets": [
+        {
+          "text": "\"There’s a big wave coming\" https://t.co/sbGnugb3Hz",
+          "likes": 1043,
+          "retweets": 83,
+          "replies": 93,
+          "url": "https://x.com/steipete/status/2040492573819904026",
+          "createdAt": "2026-04-04T18:11:54.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "No Priors",
+      "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-04-03T10:00:00.000Z",
+      "transcriptLength": 34745,
+      "transcriptPreview": "Speaker 1 | 00:05 - 00:32\nToday, know Priors were talking with Liam Fetis. Liam is one of the co creators of ChatGPT, which I think almost everybody uses at this point. He was the VP of post training at OpenAI, and before that was at Google Brain, where he worked on a variety of really early AI innovations. Liam will be telling us a bit about Periodic Labs, his company, which is focused on building an AI foundation lab for atoms. In other words, how do we impact the physical world, material scie",
+      "category": "播客"
+    }
+  ]
+}

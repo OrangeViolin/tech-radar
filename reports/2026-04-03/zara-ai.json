@@ -1,0 +1,917 @@
+{
+  "source": "zara-ai",
+  "timestamp": "2026-04-03T06:17:42.811Z",
+  "count": 37,
+  "metadata": {
+    "videos": {
+      "count": 25,
+      "items": [
+        {
+          "id": "vid1",
+          "title": "Deep Dive into LLMs like ChatGPT",
+          "description": "The best introduction into LLMs on the Internet",
+          "channel": "Andrej Karpathy",
+          "tags": [
+            "Fundamentals"
+          ],
+          "videoId": "7xTGNNLPyMI",
+          "duration": "3:31:23",
+          "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "isFeatured": true
+        },
+        {
+          "id": "vid2",
+          "title": "How to Build a Beloved AI Product - Granola CEO Chris Pedregal",
+          "description": "Learn from the founder of Granola, the AI PM that I admire the most",
+          "channel": "The MAD Podcast with Matt Turck",
+          "tags": [
+            "Product",
+            "Founder interview"
+          ],
+          "videoId": "IcbuTTVUY7M",
+          "duration": "1:08:35",
+          "url": "https://www.youtube.com/watch?v=IcbuTTVUY7M",
+          "isFeatured": true
+        },
+        {
+          "id": "vid3",
+          "title": "Inside NotebookLM with Raiza Martin and Steven Johnson",
+          "description": "Behind the scenes look at Google's NotebookLM, one of my favorite AI products",
+          "channel": "Google",
+          "tags": [
+            "Product"
+          ],
+          "videoId": "mccQdu5afZw",
+          "duration": "46:11",
+          "url": "https://www.youtube.com/watch?v=mccQdu5afZw",
+          "isFeatured": true
+        },
+        {
+          "id": "vid4",
+          "title": "Inside Claude Code: How an AI Native Team Actually Works | Cat Wu",
+          "description": "Behind the scenes at Anthropic's Claude development team",
+          "channel": "Peter Yang",
+          "tags": [
+            "Product",
+            "Vibe coding"
+          ],
+          "videoId": "jmHBMtpR36M",
+          "duration": "40:36",
+          "url": "https://www.youtube.com/watch?v=jmHBMtpR36M",
+          "isFeatured": false
+        },
+        {
+          "id": "vid6",
+          "title": "The Master Prompt Method: Unlock AI's Full Potential",
+          "description": "A serial entrepreneur shares a powerful way to train your AI with full context about you and your business",
+          "channel": "Tiago Forte",
+          "tags": [
+            "Demo",
+            "Prompting",
+            "Practical tutorial"
+          ],
+          "videoId": "_K_F_icxtrI",
+          "duration": "38:53",
+          "url": "https://www.youtube.com/watch?v=_K_F_icxtrI",
+          "isFeatured": false
+        },
+        {
+          "id": "vid7",
+          "title": "Going Direct | Lulu Cheng Meservey",
+          "description": "Lulu Cheng Meservey is the leading voice in the new age of PR and comms. Learn how to make your AI product stand out in a sea of slop. Hosted by Sam Altman's brother",
+          "channel": "Uncapped with Jack Altman",
+          "tags": [
+            "Marketing and growth"
+          ],
+          "videoId": "GRoU1T4E9rQ",
+          "duration": "50:18",
+          "url": "https://www.youtube.com/watch?v=GRoU1T4E9rQ",
+          "isFeatured": false
+        },
+        {
+          "id": "vid8",
+          "title": "Snipd: The AI Podcast App for Learning \\— with CEO Kevin Ben-Smith",
+          "description": "Interview with the founder of Snipd, the AI podcast app that I use every day",
+          "channel": "Latent Space",
+          "tags": [
+            "Product",
+            "Founder interview"
+          ],
+          "videoId": "FNRO_SYx68Q",
+          "duration": "1:17:45",
+          "url": "https://www.youtube.com/watch?v=FNRO_SYx68Q",
+          "isFeatured": false
+        },
+        {
+          "id": "vid9",
+          "title": "Mark Zuckerberg on AI Glasses, Superintelligence, Neural Control, and More",
+          "description": "Zuck discusses Meta's latest AI glasses",
+          "channel": "Rowan Cheung",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "WuTJkFvw70o",
+          "duration": "45:28",
+          "url": "https://www.youtube.com/watch?v=WuTJkFvw70o",
+          "isFeatured": false
+        },
+        {
+          "id": "vid10",
+          "title": "Prompting 101 | Code w/ Claude",
+          "description": "Hands-on guidance on prompting from the Anthropic team",
+          "channel": "Anthropic",
+          "tags": [
+            "Prompting",
+            "Product",
+            "Practical tutorial"
+          ],
+          "videoId": "ysPbXH0LpIE",
+          "duration": "24:52",
+          "url": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+          "isFeatured": true
+        },
+        {
+          "id": "vid11",
+          "title": "The 19-year-old Making Millions with His Ai Mobile App",
+          "description": "Eye-opening insights on growth and making a consumer app in the AI age",
+          "channel": "Brett Malinowski",
+          "tags": [
+            "Product",
+            "Marketing and growth"
+          ],
+          "videoId": "AY4R2p2i8nM",
+          "duration": "1:03:42",
+          "url": "https://www.youtube.com/watch?v=AY4R2p2i8nM",
+          "isFeatured": false
+        },
+        {
+          "id": "vid12",
+          "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+          "description": "Dan Shipper is the co-founder and CEO of Every",
+          "channel": "Lenny's Podcast",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "crMrVozp_h8",
+          "duration": "1:34:56",
+          "url": "https://www.youtube.com/watch?v=crMrVozp_h8",
+          "isFeatured": false
+        },
+        {
+          "id": "vid13",
+          "title": "Andrew Ng: Building Faster with AI",
+          "description": "Andrew Ng's talk at YC reshaped how I think about product development in the AI era",
+          "channel": "Y Combinator",
+          "tags": [
+            "Product",
+            "Vibe coding"
+          ],
+          "videoId": "RNJCfif1dPY",
+          "duration": "43:57",
+          "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+          "isFeatured": true
+        },
+        {
+          "id": "vid15",
+          "title": "Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)",
+          "description": "Insider stories behind ChatGPT's growth",
+          "channel": "Lenny's Podcast",
+          "tags": [
+            "Product",
+            "Marketing and growth"
+          ],
+          "videoId": "ixY2PvQJ0To",
+          "duration": "1:35:37",
+          "url": "https://www.youtube.com/watch?v=ixY2PvQJ0To",
+          "isFeatured": true
+        },
+        {
+          "id": "vid16",
+          "title": "Complete Beginner's Course on AI Evaluations in 50 Minutes (2025) | Aman Khan",
+          "description": "The best free resource on AI evaluations, for complete beginners",
+          "channel": "Peter Yang",
+          "tags": [
+            "Practical tutorial",
+            "Product"
+          ],
+          "videoId": "TL527yTpxlk",
+          "duration": "51:47",
+          "url": "https://www.youtube.com/watch?v=TL527yTpxlk",
+          "isFeatured": false
+        },
+        {
+          "id": "vid17",
+          "title": "Chris Pedregal + Sam Stephenson: Making Meetings More Effective with Granola",
+          "description": "Masterclass on building an AI product in the application layer",
+          "channel": "Lightspeed Venture Partners",
+          "tags": [
+            "Product",
+            "Founder interview"
+          ],
+          "videoId": "2eajeT9WU4k",
+          "duration": "38:05",
+          "url": "https://www.youtube.com/watch?v=2eajeT9WU4k",
+          "isFeatured": false
+        },
+        {
+          "id": "vid18",
+          "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast",
+          "description": "Behind-the-scenes with the Cursor team; good introduction to AI coding",
+          "channel": "Lex Fridman",
+          "tags": [
+            "Vibe coding",
+            "Founder interview"
+          ],
+          "videoId": "oFfVt3S51T4",
+          "duration": "2:29:04",
+          "url": "https://www.youtube.com/watch?v=oFfVt3S51T4",
+          "isFeatured": false
+        },
+        {
+          "id": "vid19",
+          "title": "How To 10x Your Notes: Obsidian + Claude AI Agents",
+          "description": "How to connect Obsidian with Claude Code; easy to follow for non-technical people",
+          "channel": "Mckay Wrigley",
+          "tags": [
+            "Practical tutorial",
+            "Vibe coding"
+          ],
+          "videoId": "d7Pb73dbcIM",
+          "duration": "1:01:26",
+          "url": "https://www.youtube.com/watch?v=d7Pb73dbcIM",
+          "isFeatured": false
+        },
+        {
+          "id": "vid20",
+          "title": "Arc Had Millions of Users. Why They Left It Behind for Dia.",
+          "description": "Behind-the-scenes stories of Dia",
+          "channel": "Every",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "210zavw00y4",
+          "duration": "1:24:52",
+          "url": "https://www.youtube.com/watch?v=210zavw00y4",
+          "isFeatured": false
+        },
+        {
+          "id": "3qliut",
+          "title": "OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+          "description": "Interview with OpenAI's head of product",
+          "channel": "Lenny's Podcast",
+          "tags": [
+            "Product"
+          ],
+          "videoId": "scsW6_2SPC4",
+          "duration": "1:31:40",
+          "url": "https://www.youtube.com/watch?v=scsW6_2SPC4",
+          "isFeatured": false
+        },
+        {
+          "id": "s0ohah",
+          "title": "View From The Top with Aravind Srinivas, Cofounder and CEO of Perplexity",
+          "description": "Aravind offers advice to prospective founders, and dives into what makes Perplexity unique.",
+          "channel": "Stanford Graduate School of Business",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "r1Bi10Xt0fc",
+          "duration": "52:09",
+          "url": "https://www.youtube.com/watch?v=r1Bi10Xt0fc",
+          "isFeatured": false
+        },
+        {
+          "id": "k109f6",
+          "title": "NotebookLM with Steven Johnson and Raiza Martin",
+          "description": "Behind the scenes of NotebookLM's development",
+          "channel": "Google for Developers",
+          "tags": [
+            "Product"
+          ],
+          "videoId": "7w_ARTj-mvM",
+          "duration": "1:01:48",
+          "url": "https://www.youtube.com/watch?v=7w_ARTj-mvM",
+          "isFeatured": false
+        },
+        {
+          "id": "r295rr",
+          "title": "How I use LLMs",
+          "description": "Beginner-friendly guide to using LLMs",
+          "channel": "Andrej Karpathy",
+          "tags": [
+            "Fundamentals",
+            "Practical tutorial"
+          ],
+          "videoId": "EWvNQjAaOHw",
+          "duration": "2:11:11",
+          "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+          "isFeatured": false
+        },
+        {
+          "id": "l42gy8",
+          "title": "Alexandr Wang, Scale AI, & the Startup Hunger Games",
+          "description": "Memorable interview with Alexandr Wang (when he was still CEO of Scale)",
+          "channel": "South Park Commons",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "CEebe451GZs",
+          "duration": "55:35",
+          "url": "https://www.youtube.com/watch?v=CEebe451GZs",
+          "isFeatured": false
+        },
+        {
+          "id": "1u3qyg",
+          "title": "Personalized AI Language Education \\— with Andrew Hsu, Speak",
+          "description": "AI for language learning",
+          "channel": "Latent Space",
+          "tags": [
+            "Founder interview"
+          ],
+          "videoId": "tIVKgztDaYQ",
+          "duration": "1:04:09",
+          "url": "https://www.youtube.com/watch?v=tIVKgztDaYQ",
+          "isFeatured": false
+        },
+        {
+          "id": "35rpe0",
+          "title": "We Were Going to Shut Down Our Company\\\\u2026Now We're Worth $700M | Eric Simons (Bolt)",
+          "description": "Interview with the founder of Bolt; a lesson on resilience",
+          "channel": "Peter Yang",
+          "tags": [
+            "Founder interview",
+            "Vibe coding"
+          ],
+          "videoId": "moaX7CsqZjc",
+          "duration": "48:22",
+          "url": "https://www.youtube.com/watch?v=moaX7CsqZjc",
+          "isFeatured": false
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 12,
+      "items": [
+        {
+          "id": "podcast2",
+          "title": "Latent Space",
+          "description": "The podcast by and for AI Engineers",
+          "url": "https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L",
+          "recommended": true
+        },
+        {
+          "id": "podcast3",
+          "title": "AI & I",
+          "description": "Learn how the smartest people in the world are using AI to think, create, and relate",
+          "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+          "recommended": true
+        },
+        {
+          "id": "podcast4",
+          "title": "Google DeepMind: The Podcast",
+          "description": "Interview with Google's AI leaders, by the wonderful host Hannah Fry",
+          "url": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+          "recommended": false
+        },
+        {
+          "id": "podcast5",
+          "title": "The AI Daily Brief",
+          "description": "AI news with an opinion; saves Twitter scrolls",
+          "url": "https://www.youtube.com/playlist?list=PLRYSuzHGhXPmKnOpd-f588cNNmTe2S9FP",
+          "recommended": true
+        },
+        {
+          "id": "podcast6",
+          "title": "TBPN",
+          "description": "Technology's daily show",
+          "url": "https://www.youtube.com/@TBPNLive",
+          "recommended": false
+        },
+        {
+          "id": "kqfz5a",
+          "title": "Training Data",
+          "description": "Sequoia Capital partners host conversations with leading AI builders and researchers",
+          "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+          "recommended": false
+        },
+        {
+          "id": "xzo7n1",
+          "title": "Lenny's Podcast",
+          "description": "Interviews with world-class product leaders and growth experts",
+          "url": "https://www.youtube.com/@LennysPodcast",
+          "recommended": false
+        },
+        {
+          "id": "9uoxnl",
+          "title": "Behind the Craft",
+          "description": "Interviews with top product leaders and creators to help you craft great products and creator businesses",
+          "url": "https://www.youtube.com/playlist?list=PLIWHjbvRtljj4RewVNv_znkUe-3E-NKd2",
+          "recommended": true
+        },
+        {
+          "id": "bawlab",
+          "title": "No Priors",
+          "description": "Elad Gil and Sarah Guo talk to the world's leading engineers, researchers and founders",
+          "url": "https://www.youtube.com/@NoPriorsPodcast",
+          "recommended": false
+        },
+        {
+          "id": "wmj8an",
+          "title": "Unsupervised Learning",
+          "description": "Repoint partners interview the sharpest minds in AI",
+          "url": "https://www.youtube.com/@RedpointAI",
+          "recommended": false
+        },
+        {
+          "id": "ocsmvh",
+          "title": "Minus One",
+          "description": "Podcast by South Park Commons",
+          "url": "https://www.youtube.com/playlist?list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7",
+          "recommended": false
+        },
+        {
+          "id": "pjj4s2",
+          "title": "Lightcone Podcast",
+          "description": "YC's podcast",
+          "url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK",
+          "recommended": false
+        }
+      ]
+    },
+    "diff": {
+      "hasChanges": false,
+      "videos": {
+        "added": [],
+        "removed": []
+      },
+      "podcasts": {
+        "added": [],
+        "removed": []
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "vid1",
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "description": "The best introduction into LLMs on the Internet",
+      "channel": "Andrej Karpathy",
+      "tags": [
+        "Fundamentals"
+      ],
+      "videoId": "7xTGNNLPyMI",
+      "duration": "3:31:23",
+      "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+      "isFeatured": true,
+      "category": "视频"
+    },
+    {
+      "id": "vid2",
+      "title": "How to Build a Beloved AI Product - Granola CEO Chris Pedregal",
+      "description": "Learn from the founder of Granola, the AI PM that I admire the most",
+      "channel": "The MAD Podcast with Matt Turck",
+      "tags": [
+        "Product",
+        "Founder interview"
+      ],
+      "videoId": "IcbuTTVUY7M",
+      "duration": "1:08:35",
+      "url": "https://www.youtube.com/watch?v=IcbuTTVUY7M",
+      "isFeatured": true,
+      "category": "视频"
+    },
+    {
+      "id": "vid3",
+      "title": "Inside NotebookLM with Raiza Martin and Steven Johnson",
+      "description": "Behind the scenes look at Google's NotebookLM, one of my favorite AI products",
+      "channel": "Google",
+      "tags": [
+        "Product"
+      ],
+      "videoId": "mccQdu5afZw",
+      "duration": "46:11",
+      "url": "https://www.youtube.com/watch?v=mccQdu5afZw",
+      "isFeatured": true,
+      "category": "视频"
+    },
+    {
+      "id": "vid4",
+      "title": "Inside Claude Code: How an AI Native Team Actually Works | Cat Wu",
+      "description": "Behind the scenes at Anthropic's Claude development team",
+      "channel": "Peter Yang",
+      "tags": [
+        "Product",
+        "Vibe coding"
+      ],
+      "videoId": "jmHBMtpR36M",
+      "duration": "40:36",
+      "url": "https://www.youtube.com/watch?v=jmHBMtpR36M",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid6",
+      "title": "The Master Prompt Method: Unlock AI's Full Potential",
+      "description": "A serial entrepreneur shares a powerful way to train your AI with full context about you and your business",
+      "channel": "Tiago Forte",
+      "tags": [
+        "Demo",
+        "Prompting",
+        "Practical tutorial"
+      ],
+      "videoId": "_K_F_icxtrI",
+      "duration": "38:53",
+      "url": "https://www.youtube.com/watch?v=_K_F_icxtrI",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid7",
+      "title": "Going Direct | Lulu Cheng Meservey",
+      "description": "Lulu Cheng Meservey is the leading voice in the new age of PR and comms. Learn how to make your AI product stand out in a sea of slop. Hosted by Sam Altman's brother",
+      "channel": "Uncapped with Jack Altman",
+      "tags": [
+        "Marketing and growth"
+      ],
+      "videoId": "GRoU1T4E9rQ",
+      "duration": "50:18",
+      "url": "https://www.youtube.com/watch?v=GRoU1T4E9rQ",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid8",
+      "title": "Snipd: The AI Podcast App for Learning \\— with CEO Kevin Ben-Smith",
+      "description": "Interview with the founder of Snipd, the AI podcast app that I use every day",
+      "channel": "Latent Space",
+      "tags": [
+        "Product",
+        "Founder interview"
+      ],
+      "videoId": "FNRO_SYx68Q",
+      "duration": "1:17:45",
+      "url": "https://www.youtube.com/watch?v=FNRO_SYx68Q",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid9",
+      "title": "Mark Zuckerberg on AI Glasses, Superintelligence, Neural Control, and More",
+      "description": "Zuck discusses Meta's latest AI glasses",
+      "channel": "Rowan Cheung",
+      "tags": [
+        "Founder interview"
+      ],
+      "videoId": "WuTJkFvw70o",
+      "duration": "45:28",
+      "url": "https://www.youtube.com/watch?v=WuTJkFvw70o",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid10",
+      "title": "Prompting 101 | Code w/ Claude",
+      "description": "Hands-on guidance on prompting from the Anthropic team",
+      "channel": "Anthropic",
+      "tags": [
+        "Prompting",
+        "Product",
+        "Practical tutorial"
+      ],
+      "videoId": "ysPbXH0LpIE",
+      "duration": "24:52",
+      "url": "https://www.youtube.com/watch?v=ysPbXH0LpIE",
+      "isFeatured": true,
+      "category": "视频"
+    },
+    {
+      "id": "vid11",
+      "title": "The 19-year-old Making Millions with His Ai Mobile App",
+      "description": "Eye-opening insights on growth and making a consumer app in the AI age",
+      "channel": "Brett Malinowski",
+      "tags": [
+        "Product",
+        "Marketing and growth"
+      ],
+      "videoId": "AY4R2p2i8nM",
+      "duration": "1:03:42",
+      "url": "https://www.youtube.com/watch?v=AY4R2p2i8nM",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid12",
+      "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+      "description": "Dan Shipper is the co-founder and CEO of Every",
+      "channel": "Lenny's Podcast",
+      "tags": [
+        "Founder interview"
+      ],
+      "videoId": "crMrVozp_h8",
+      "duration": "1:34:56",
+      "url": "https://www.youtube.com/watch?v=crMrVozp_h8",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid13",
+      "title": "Andrew Ng: Building Faster with AI",
+      "description": "Andrew Ng's talk at YC reshaped how I think about product development in the AI era",
+      "channel": "Y Combinator",
+      "tags": [
+        "Product",
+        "Vibe coding"
+      ],
+      "videoId": "RNJCfif1dPY",
+      "duration": "43:57",
+      "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+      "isFeatured": true,
+      "category": "视频"
+    },
+    {
+      "id": "vid15",
+      "title": "Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)",
+      "description": "Insider stories behind ChatGPT's growth",
+      "channel": "Lenny's Podcast",
+      "tags": [
+        "Product",
+        "Marketing and growth"
+      ],
+      "videoId": "ixY2PvQJ0To",
+      "duration": "1:35:37",
+      "url": "https://www.youtube.com/watch?v=ixY2PvQJ0To",
+      "isFeatured": true,
+      "category": "视频"
+    },
+    {
+      "id": "vid16",
+      "title": "Complete Beginner's Course on AI Evaluations in 50 Minutes (2025) | Aman Khan",
+      "description": "The best free resource on AI evaluations, for complete beginners",
+      "channel": "Peter Yang",
+      "tags": [
+        "Practical tutorial",
+        "Product"
+      ],
+      "videoId": "TL527yTpxlk",
+      "duration": "51:47",
+      "url": "https://www.youtube.com/watch?v=TL527yTpxlk",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid17",
+      "title": "Chris Pedregal + Sam Stephenson: Making Meetings More Effective with Granola",
+      "description": "Masterclass on building an AI product in the application layer",
+      "channel": "Lightspeed Venture Partners",
+      "tags": [
+        "Product",
+        "Founder interview"
+      ],
+      "videoId": "2eajeT9WU4k",
+      "duration": "38:05",
+      "url": "https://www.youtube.com/watch?v=2eajeT9WU4k",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid18",
+      "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast",
+      "description": "Behind-the-scenes with the Cursor team; good introduction to AI coding",
+      "channel": "Lex Fridman",
+      "tags": [
+        "Vibe coding",
+        "Founder interview"
+      ],
+      "videoId": "oFfVt3S51T4",
+      "duration": "2:29:04",
+      "url": "https://www.youtube.com/watch?v=oFfVt3S51T4",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid19",
+      "title": "How To 10x Your Notes: Obsidian + Claude AI Agents",
+      "description": "How to connect Obsidian with Claude Code; easy to follow for non-technical people",
+      "channel": "Mckay Wrigley",
+      "tags": [
+        "Practical tutorial",
+        "Vibe coding"
+      ],
+      "videoId": "d7Pb73dbcIM",
+      "duration": "1:01:26",
+      "url": "https://www.youtube.com/watch?v=d7Pb73dbcIM",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "vid20",
+      "title": "Arc Had Millions of Users. Why They Left It Behind for Dia.",
+      "description": "Behind-the-scenes stories of Dia",
+      "channel": "Every",
+      "tags": [
+        "Founder interview"
+      ],
+      "videoId": "210zavw00y4",
+      "duration": "1:24:52",
+      "url": "https://www.youtube.com/watch?v=210zavw00y4",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "3qliut",
+      "title": "OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, more | Kevin Weil",
+      "description": "Interview with OpenAI's head of product",
+      "channel": "Lenny's Podcast",
+      "tags": [
+        "Product"
+      ],
+      "videoId": "scsW6_2SPC4",
+      "duration": "1:31:40",
+      "url": "https://www.youtube.com/watch?v=scsW6_2SPC4",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "s0ohah",
+      "title": "View From The Top with Aravind Srinivas, Cofounder and CEO of Perplexity",
+      "description": "Aravind offers advice to prospective founders, and dives into what makes Perplexity unique.",
+      "channel": "Stanford Graduate School of Business",
+      "tags": [
+        "Founder interview"
+      ],
+      "videoId": "r1Bi10Xt0fc",
+      "duration": "52:09",
+      "url": "https://www.youtube.com/watch?v=r1Bi10Xt0fc",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "k109f6",
+      "title": "NotebookLM with Steven Johnson and Raiza Martin",
+      "description": "Behind the scenes of NotebookLM's development",
+      "channel": "Google for Developers",
+      "tags": [
+        "Product"
+      ],
+      "videoId": "7w_ARTj-mvM",
+      "duration": "1:01:48",
+      "url": "https://www.youtube.com/watch?v=7w_ARTj-mvM",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "r295rr",
+      "title": "How I use LLMs",
+      "description": "Beginner-friendly guide to using LLMs",
+      "channel": "Andrej Karpathy",
+      "tags": [
+        "Fundamentals",
+        "Practical tutorial"
+      ],
+      "videoId": "EWvNQjAaOHw",
+      "duration": "2:11:11",
+      "url": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "l42gy8",
+      "title": "Alexandr Wang, Scale AI, & the Startup Hunger Games",
+      "description": "Memorable interview with Alexandr Wang (when he was still CEO of Scale)",
+      "channel": "South Park Commons",
+      "tags": [
+        "Founder interview"
+      ],
+      "videoId": "CEebe451GZs",
+      "duration": "55:35",
+      "url": "https://www.youtube.com/watch?v=CEebe451GZs",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "1u3qyg",
+      "title": "Personalized AI Language Education \\— with Andrew Hsu, Speak",
+      "description": "AI for language learning",
+      "channel": "Latent Space",
+      "tags": [
+        "Founder interview"
+      ],
+      "videoId": "tIVKgztDaYQ",
+      "duration": "1:04:09",
+      "url": "https://www.youtube.com/watch?v=tIVKgztDaYQ",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "35rpe0",
+      "title": "We Were Going to Shut Down Our Company\\\\u2026Now We're Worth $700M | Eric Simons (Bolt)",
+      "description": "Interview with the founder of Bolt; a lesson on resilience",
+      "channel": "Peter Yang",
+      "tags": [
+        "Founder interview",
+        "Vibe coding"
+      ],
+      "videoId": "moaX7CsqZjc",
+      "duration": "48:22",
+      "url": "https://www.youtube.com/watch?v=moaX7CsqZjc",
+      "isFeatured": false,
+      "category": "视频"
+    },
+    {
+      "id": "podcast2",
+      "title": "Latent Space",
+      "description": "The podcast by and for AI Engineers",
+      "url": "https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L",
+      "recommended": true,
+      "category": "播客"
+    },
+    {
+      "id": "podcast3",
+      "title": "AI & I",
+      "description": "Learn how the smartest people in the world are using AI to think, create, and relate",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "recommended": true,
+      "category": "播客"
+    },
+    {
+      "id": "podcast4",
+      "title": "Google DeepMind: The Podcast",
+      "description": "Interview with Google's AI leaders, by the wonderful host Hannah Fry",
+      "url": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "podcast5",
+      "title": "The AI Daily Brief",
+      "description": "AI news with an opinion; saves Twitter scrolls",
+      "url": "https://www.youtube.com/playlist?list=PLRYSuzHGhXPmKnOpd-f588cNNmTe2S9FP",
+      "recommended": true,
+      "category": "播客"
+    },
+    {
+      "id": "podcast6",
+      "title": "TBPN",
+      "description": "Technology's daily show",
+      "url": "https://www.youtube.com/@TBPNLive",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "kqfz5a",
+      "title": "Training Data",
+      "description": "Sequoia Capital partners host conversations with leading AI builders and researchers",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "xzo7n1",
+      "title": "Lenny's Podcast",
+      "description": "Interviews with world-class product leaders and growth experts",
+      "url": "https://www.youtube.com/@LennysPodcast",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "9uoxnl",
+      "title": "Behind the Craft",
+      "description": "Interviews with top product leaders and creators to help you craft great products and creator businesses",
+      "url": "https://www.youtube.com/playlist?list=PLIWHjbvRtljj4RewVNv_znkUe-3E-NKd2",
+      "recommended": true,
+      "category": "播客"
+    },
+    {
+      "id": "bawlab",
+      "title": "No Priors",
+      "description": "Elad Gil and Sarah Guo talk to the world's leading engineers, researchers and founders",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "wmj8an",
+      "title": "Unsupervised Learning",
+      "description": "Repoint partners interview the sharpest minds in AI",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "ocsmvh",
+      "title": "Minus One",
+      "description": "Podcast by South Park Commons",
+      "url": "https://www.youtube.com/playlist?list=PLmYVYFmFwGm3txxUduawn7i53C5rDjjd7",
+      "recommended": false,
+      "category": "播客"
+    },
+    {
+      "id": "pjj4s2",
+      "title": "Lightcone Podcast",
+      "description": "YC's podcast",
+      "url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5Ob4XXhgSK26Smb4oRhzFmK",
+      "recommended": false,
+      "category": "播客"
+    }
+  ]
+}
