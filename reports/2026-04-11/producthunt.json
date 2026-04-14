@@ -1,0 +1,216 @@
+{
+  "source": "producthunt",
+  "timestamp": "2026-04-11T01:29:14.350Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Claude Advisor tool",
+          "tagline": "Pair Opus as advisor with Sonnet or Haiku as executor",
+          "votesCount": 311,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/claude-advisor-tool",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "Integrations in Spine",
+          "tagline": "AI that synthesize and researches info across multiple apps",
+          "votesCount": 267,
+          "commentsCount": 34,
+          "url": "https://www.producthunt.com/posts/integrations-in-spine",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "Google Finance",
+          "tagline": "Ask complex finance questions, get AI-grounded answers",
+          "votesCount": 224,
+          "commentsCount": 3,
+          "url": "https://www.producthunt.com/posts/google-finance-3",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "Drift",
+          "tagline": "Minimalist journal app that fades over time",
+          "votesCount": 193,
+          "commentsCount": 34,
+          "url": "https://www.producthunt.com/posts/drift-a7eecd58-2a1d-4550-8750-d37c3edb2791",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "SoulLink",
+          "tagline": "Mobile 3D Vibe Coding Partner ",
+          "votesCount": 179,
+          "commentsCount": 33,
+          "url": "https://www.producthunt.com/posts/soullink-e80a20ab-f001-437e-8185-f9ec12e49a27",
+          "topics": []
+        }
+      ]
+    },
+    "monthly": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Brila",
+          "tagline": "One-page websites from real Google Maps reviews",
+          "votesCount": 1189,
+          "commentsCount": 238,
+          "url": "https://www.producthunt.com/posts/brila-2",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "ProdShort",
+          "tagline": "Turn meetings into ready-to-post shorts and posts",
+          "votesCount": 662,
+          "commentsCount": 142,
+          "url": "https://www.producthunt.com/posts/prodshort",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "Velo",
+          "tagline": "Share anything as video messages",
+          "votesCount": 660,
+          "commentsCount": 148,
+          "url": "https://www.producthunt.com/posts/velo-10",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "NovaVoice",
+          "tagline": "Smart dictation, AI assistant, + app control via voice",
+          "votesCount": 561,
+          "commentsCount": 139,
+          "url": "https://www.producthunt.com/posts/novavoice",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "Offsite",
+          "tagline": "Build teams of humans and agents, watch them work.",
+          "votesCount": 560,
+          "commentsCount": 80,
+          "url": "https://www.producthunt.com/posts/offsite-3",
+          "topics": []
+        },
+        {
+          "rank": 6,
+          "name": "Influcio",
+          "tagline": "AI marketing Agent for result-driven influencer campaign",
+          "votesCount": 538,
+          "commentsCount": 34,
+          "url": "https://www.producthunt.com/posts/influcio-2",
+          "topics": []
+        },
+        {
+          "rank": 7,
+          "name": "Noiz Easter Voice",
+          "tagline": "Crack an Easter egg to generate an AI voice",
+          "votesCount": 476,
+          "commentsCount": 77,
+          "url": "https://www.producthunt.com/posts/noiz-easter-voice",
+          "topics": []
+        },
+        {
+          "rank": 8,
+          "name": "Lessie AI",
+          "tagline": "Search, Reach and Connect - Find the perfect fit, 10x faster",
+          "votesCount": 451,
+          "commentsCount": 145,
+          "url": "https://www.producthunt.com/posts/lessie-ai-2",
+          "topics": []
+        },
+        {
+          "rank": 9,
+          "name": "Google Gemma 4",
+          "tagline": "Google's most intelligent open models to date",
+          "votesCount": 443,
+          "commentsCount": 8,
+          "url": "https://www.producthunt.com/posts/google-gemma-4",
+          "topics": []
+        },
+        {
+          "rank": 10,
+          "name": "Moonshot ",
+          "tagline": "Track the Artemis II mission from your Mac",
+          "votesCount": 437,
+          "commentsCount": 37,
+          "url": "https://www.producthunt.com/posts/moonshot-8",
+          "topics": []
+        },
+        {
+          "rank": 11,
+          "name": "Google Vids 2.0",
+          "tagline": "Create, edit and share videos at no cost w/ new AI features",
+          "votesCount": 434,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/google-vids-2-0",
+          "topics": []
+        },
+        {
+          "rank": 12,
+          "name": "Ollama v0.19",
+          "tagline": "Massive local model speedup on Apple Silicon with MLX",
+          "votesCount": 422,
+          "commentsCount": 12,
+          "url": "https://www.producthunt.com/posts/ollama-v0-19",
+          "topics": []
+        },
+        {
+          "rank": 13,
+          "name": "Claude Code Voice Mode",
+          "tagline": "Speak your prompts into Claude Code",
+          "votesCount": 405,
+          "commentsCount": 16,
+          "url": "https://www.producthunt.com/posts/claude-code-voice-mode",
+          "topics": []
+        },
+        {
+          "rank": 14,
+          "name": "Google Chrome Vertical Tabs",
+          "tagline": "Chrome now supports vertical tabs and immersive reading mode",
+          "votesCount": 377,
+          "commentsCount": 20,
+          "url": "https://www.producthunt.com/posts/google-chrome-vertical-tabs",
+          "topics": []
+        },
+        {
+          "rank": 15,
+          "name": "Show Me a Leaderboard",
+          "tagline": "Use friendly competition to build and strengthen community",
+          "votesCount": 376,
+          "commentsCount": 43,
+          "url": "https://www.producthunt.com/posts/show-me-a-leaderboard",
+          "topics": []
+        },
+        {
+          "rank": 16,
+          "name": "Cursor 3",
+          "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
+          "votesCount": 374,
+          "commentsCount": 15,
+          "url": "https://www.producthunt.com/posts/cursor-3-4",
+          "topics": []
+        },
+        {
+          "rank": 17,
+          "name": "Panorama",
+          "tagline": "AI that finds your team’s workflows and hidden structures",
+          "votesCount": 363,
+          "commentsCount": 60,
+          "url": "https://www.producthunt.com/posts/panorama",
+          "topics": []
+        }
+      ]
+    }
+  },
+  "items": []
+}

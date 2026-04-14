@@ -1,0 +1,243 @@
+{
+  "source": "github-trending",
+  "timestamp": "2026-04-10T01:28:54.002Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 44645,
+          "starsGained": 6485,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 2,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "N/A",
+          "stars": 10497,
+          "starsGained": 1364,
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 14902,
+          "starsGained": 1310,
+          "url": "https://github.com/HKUDS/DeepTutor"
+        },
+        {
+          "rank": 4,
+          "name": "OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "language": "Python",
+          "stars": 7677,
+          "starsGained": 496,
+          "url": "https://github.com/OpenBMB/VoxCPM"
+        },
+        {
+          "rank": 5,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 13816,
+          "starsGained": 1124,
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+        }
+      ]
+    },
+    "monthly": {
+      "count": 20,
+      "items": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 44645,
+          "starsGained": 39332,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 2,
+          "name": "Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "language": "TypeScript",
+          "stars": 19959,
+          "starsGained": 18112,
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "description": "My personal directory of skills, straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 13519,
+          "starsGained": 12380,
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "rank": 4,
+          "name": "666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 52756,
+          "starsGained": 44278,
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "rank": 5,
+          "name": "bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars": 59948,
+          "starsGained": 33722,
+          "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+          "rank": 6,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 29011,
+          "starsGained": 14209,
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+        },
+        {
+          "rank": 7,
+          "name": "lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "language": "Zig",
+          "stars": 28030,
+          "starsGained": 16038,
+          "url": "https://github.com/lightpanda-io/browser"
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars": 76936,
+          "starsGained": 61564,
+          "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+          "rank": 9,
+          "name": "siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "language": "TypeScript",
+          "stars": 26958,
+          "starsGained": 19016,
+          "url": "https://github.com/siddharthvaddem/openscreen"
+        },
+        {
+          "rank": 10,
+          "name": "affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 148682,
+          "starsGained": 80680,
+          "url": "https://github.com/affaan-m/everything-claude-code"
+        },
+        {
+          "rank": 11,
+          "name": "jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+          "language": "JavaScript",
+          "stars": 18008,
+          "starsGained": 13776,
+          "url": "https://github.com/jarrodwatts/claude-hud"
+        },
+        {
+          "rank": 12,
+          "name": "shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 50869,
+          "starsGained": 26755,
+          "url": "https://github.com/shareAI-lab/learn-claude-code"
+        },
+        {
+          "rank": 13,
+          "name": "mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars": 20084,
+          "starsGained": 16184,
+          "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "rank": 14,
+          "name": "TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 48998,
+          "starsGained": 17495,
+          "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+          "rank": 15,
+          "name": "obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 143783,
+          "starsGained": 69396,
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "rank": 16,
+          "name": "langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 9368,
+          "starsGained": 4137,
+          "url": "https://github.com/langchain-ai/open-swe"
+        },
+        {
+          "rank": 17,
+          "name": "alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "language": "TypeScript",
+          "stars": 16604,
+          "starsGained": 14476,
+          "url": "https://github.com/alibaba/page-agent"
+        },
+        {
+          "rank": 18,
+          "name": "pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 17824,
+          "starsGained": 15226,
+          "url": "https://github.com/pbakaus/impeccable"
+        },
+        {
+          "rank": 19,
+          "name": "google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "language": "Kotlin",
+          "stars": 19945,
+          "starsGained": 4561,
+          "url": "https://github.com/google-ai-edge/gallery"
+        },
+        {
+          "rank": 20,
+          "name": "volcengine/OpenViking",
+          "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+          "language": "Python",
+          "stars": 21861,
+          "starsGained": 16698,
+          "url": "https://github.com/volcengine/OpenViking"
+        }
+      ]
+    }
+  },
+  "items": []
+}

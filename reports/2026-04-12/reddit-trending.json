@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-12T07:19:41.065Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 57
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "Spent today at MIT's Open Agentic Web conference. Six things worth thinking about.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/",
+      "author": "",
+      "created_utc": "2026-04-11T23:45:51+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "AMD's GAIA now allows building custom AI agents via chat, becomes \"true desktop app\"",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/",
+      "author": "",
+      "created_utc": "2026-04-11T20:02:07+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Cloudflare just turned Browser Rendering into a lot more powerful MCP infrastructure",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sieggh/cloudflare_just_turned_browser_rendering_into_a/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sieggh/cloudflare_just_turned_browser_rendering_into_a/",
+      "author": "",
+      "created_utc": "2026-04-11T09:29:46+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "What’s a “good” feedback loop for social skills without turning life into a scoreboard?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sineq9/whats_a_good_feedback_loop_for_social_skills/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sineq9/whats_a_good_feedback_loop_for_social_skills/",
+      "author": "",
+      "created_utc": "2026-04-11T16:19:30+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "AGI is the wrong term, how do we define progress?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sixbvg/agi_is_the_wrong_term_how_do_we_define_progress/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sixbvg/agi_is_the_wrong_term_how_do_we_define_progress/",
+      "author": "",
+      "created_utc": "2026-04-11T22:45:47+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Claude code x n8n",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sik4by/claude_code_x_n8n/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sik4by/claude_code_x_n8n/",
+      "author": "",
+      "created_utc": "2026-04-11T14:10:47+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "How far can automation and AI support psychotherapy?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sinj89/how_far_can_automation_and_ai_support/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sinj89/how_far_can_automation_and_ai_support/",
+      "author": "",
+      "created_utc": "2026-04-11T16:24:05+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "arXiv cs.CY endorsement request for adaptive scheduling paper",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1simhzr/arxiv_cscy_endorsement_request_for_adaptive/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1simhzr/arxiv_cscy_endorsement_request_for_adaptive/",
+      "author": "",
+      "created_utc": "2026-04-11T15:45:04+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "LLM comprehension question",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1silt3s/llm_comprehension_question/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1silt3s/llm_comprehension_question/",
+      "author": "",
+      "created_utc": "2026-04-11T15:18:05+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Been building a multi-agent framework in public for 5 weeks, its been a Journey.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/",
+      "author": "",
+      "created_utc": "2026-04-12T06:22:28+00:00"
+    }
+  ]
+}

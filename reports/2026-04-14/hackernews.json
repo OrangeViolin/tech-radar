@@ -1,0 +1,342 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-14T01:28:26.920Z",
+  "count": 30,
+  "metadata": {
+    "topStories": {
+      "count": 30
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47755629,
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47755629",
+      "score": 673,
+      "author": "speckx",
+      "comments": 189,
+      "time": "2026-04-13T17:54:39.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47759709,
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47759709",
+      "score": 55,
+      "author": "bumbledraven",
+      "comments": 13,
+      "time": "2026-04-14T00:25:08.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47757495,
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47757495",
+      "score": 406,
+      "author": "ezekg",
+      "comments": 241,
+      "time": "2026-04-13T20:36:49.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47759341,
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "hnUrl": "https://news.ycombinator.com/item?id=47759341",
+      "score": 42,
+      "author": "throwawayk7h",
+      "comments": 5,
+      "time": "2026-04-13T23:33:18.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47753472,
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "hnUrl": "https://news.ycombinator.com/item?id=47753472",
+      "score": 353,
+      "author": "m-hodges",
+      "comments": 172,
+      "time": "2026-04-13T15:31:06.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47756321,
+      "title": "How to make Firefox builds 17% faster",
+      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47756321",
+      "score": 133,
+      "author": "mbitsnbites",
+      "comments": 17,
+      "time": "2026-04-13T18:50:08.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47756772,
+      "title": "(AMD) Build AI Agents That Run Locally",
+      "url": "https://amd-gaia.ai/docs",
+      "hnUrl": "https://news.ycombinator.com/item?id=47756772",
+      "score": 93,
+      "author": "galaxyLogic",
+      "comments": 23,
+      "time": "2026-04-13T19:28:41.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47729694,
+      "title": "An Introduction to Obsidian",
+      "url": "https://bryanhogan.com/blog/obsidian-introduction",
+      "hnUrl": "https://news.ycombinator.com/item?id=47729694",
+      "score": 143,
+      "author": "bryanhogan",
+      "comments": 92,
+      "time": "2026-04-11T11:35:02.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47750872,
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47750872",
+      "score": 420,
+      "author": "ffin",
+      "comments": 137,
+      "time": "2026-04-13T12:12:22.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47753689,
+      "title": "Building a CLI for All of Cloudflare",
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47753689",
+      "score": 257,
+      "author": "soheilpro",
+      "comments": 80,
+      "time": "2026-04-13T15:44:02.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47728970,
+      "title": "Write less code, be more responsible",
+      "url": "https://blog.orhun.dev/code-responsibly/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47728970",
+      "score": 14,
+      "author": "orhunp_",
+      "comments": 9,
+      "time": "2026-04-11T09:20:45.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47756569,
+      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+      "url": "https://www.ithihasas.in",
+      "hnUrl": "https://news.ycombinator.com/item?id=47756569",
+      "score": 96,
+      "author": "cvrajeesh",
+      "comments": 23,
+      "time": "2026-04-13T19:10:07.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47729350,
+      "title": "I Just Want Simple S3",
+      "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47729350",
+      "score": 96,
+      "author": "g0xA52A2A",
+      "comments": 50,
+      "time": "2026-04-11T10:36:15.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47728823,
+      "title": "What We Learned Building a Rust Runtime for TypeScript",
+      "url": "https://encore.dev/blog/rust-runtime",
+      "hnUrl": "https://news.ycombinator.com/item?id=47728823",
+      "score": 40,
+      "author": "vinhnx",
+      "comments": 9,
+      "time": "2026-04-11T08:53:16.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47758347,
+      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+      "url": "https://ndaybench.winfunc.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=47758347",
+      "score": 31,
+      "author": "mufeedvh",
+      "comments": 10,
+      "time": "2026-04-13T21:54:03.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47729046,
+      "title": "Air Powered Segment Display? [video]",
+      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+      "hnUrl": "https://news.ycombinator.com/item?id=47729046",
+      "score": 34,
+      "author": "ProfDreamer",
+      "comments": 6,
+      "time": "2026-04-11T09:32:17.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47743728,
+      "title": "Tracking down a 25% Regression on LLVM RISC-V",
+      "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47743728",
+      "score": 98,
+      "author": "luu",
+      "comments": 19,
+      "time": "2026-04-12T19:52:58.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47757595,
+      "title": "Mathematical Minimalism",
+      "url": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47757595",
+      "score": 24,
+      "author": "chmaynard",
+      "comments": 1,
+      "time": "2026-04-13T20:45:39.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47756036,
+      "title": "Visualizing CPU Pipelining (2024)",
+      "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47756036",
+      "score": 59,
+      "author": "flipacholas",
+      "comments": 9,
+      "time": "2026-04-13T18:26:40.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47755209,
+      "title": "B-trees and database indexes (2024)",
+      "url": "https://planetscale.com/blog/btrees-and-database-indexes",
+      "hnUrl": "https://news.ycombinator.com/item?id=47755209",
+      "score": 82,
+      "author": "tosh",
+      "comments": 34,
+      "time": "2026-04-13T17:22:31.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47758263,
+      "title": "Tokens – The New Dopamine Economy",
+      "url": "https://www.enfuse.io/blog/vibe-coding-trap",
+      "hnUrl": "https://news.ycombinator.com/item?id=47758263",
+      "score": 9,
+      "author": "jesol",
+      "comments": 1,
+      "time": "2026-04-13T21:48:00.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47756876,
+      "title": "Just Enough Chimera Linux",
+      "url": "https://www.dwarmstrong.org/chimera-install-zfs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47756876",
+      "score": 42,
+      "author": "speckx",
+      "comments": 8,
+      "time": "2026-04-13T19:37:54.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47718284,
+      "title": "Design and Implementation of DuckDB Internals",
+      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47718284",
+      "score": 4,
+      "author": "mpweiher",
+      "comments": 0,
+      "time": "2026-04-10T13:59:26.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47728192,
+      "title": "If you started a company two years ago, many assumptions are no longer true",
+      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47728192",
+      "score": 133,
+      "author": "tie-in",
+      "comments": 103,
+      "time": "2026-04-11T06:58:59.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47752466,
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "url": "https://spectrum.ieee.org/mems-photonics",
+      "hnUrl": "https://news.ycombinator.com/item?id=47752466",
+      "score": 78,
+      "author": "bookofjoe",
+      "comments": 36,
+      "time": "2026-04-13T14:26:02.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47755573,
+      "title": "New Orleans's Car-Crash Conspiracy",
+      "url": "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy",
+      "hnUrl": "https://news.ycombinator.com/item?id=47755573",
+      "score": 63,
+      "author": "Geekette",
+      "comments": 30,
+      "time": "2026-04-13T17:50:56.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47752819,
+      "title": "Make tmux pretty and usable (2024)",
+      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47752819",
+      "score": 309,
+      "author": "speckx",
+      "comments": 199,
+      "time": "2026-04-13T14:48:55.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47758028,
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47758028",
+      "score": 201,
+      "author": "ZeidJ",
+      "comments": 256,
+      "time": "2026-04-13T21:25:38.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47757552,
+      "title": "Show HN: Continual Learning with .md",
+      "url": "https://github.com/SunAndClouds/ReadMe",
+      "hnUrl": "https://news.ycombinator.com/item?id=47757552",
+      "score": 18,
+      "author": "wenhan_zhou",
+      "comments": 9,
+      "time": "2026-04-13T20:42:19.000Z"
+    },
+    {
+      "rank": 30,
+      "id": 47759416,
+      "title": "Why it's impossible to measure England's coastline",
+      "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
+      "hnUrl": "https://news.ycombinator.com/item?id=47759416",
+      "score": 10,
+      "author": "BiraIgnacio",
+      "comments": 7,
+      "time": "2026-04-13T23:44:10.000Z"
+    }
+  ]
+}

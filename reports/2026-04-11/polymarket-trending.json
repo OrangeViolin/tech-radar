@@ -1,0 +1,124 @@
+{
+  "source": "polymarket-trending",
+  "timestamp": "2026-04-11T01:29:12.903Z",
+  "count": 10,
+  "metadata": {
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "totalUnique": 20
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "669660",
+      "question": "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+      "volume24hr": 3394485.8606279995,
+      "liquidity": 844640.69324,
+      "yes_probability": "0.4%",
+      "no_probability": "99.6%",
+      "slug": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-april-2026-meeting",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-april-2026-meeting"
+    },
+    {
+      "rank": 2,
+      "id": "1861172",
+      "question": "Pistons vs. Hornets",
+      "volume24hr": 3182586.696536008,
+      "liquidity": 748585.86143,
+      "yes_probability": "100.0%",
+      "no_probability": "0.1%",
+      "slug": "nba-det-cha-2026-04-10",
+      "url": "https://polymarket.com/event/nba-det-cha-2026-04-10"
+    },
+    {
+      "rank": 3,
+      "id": "1861192",
+      "question": "Thunder vs. Nuggets",
+      "volume24hr": 2978688.607119005,
+      "liquidity": 194314.3665,
+      "yes_probability": "33.5%",
+      "no_probability": "66.5%",
+      "slug": "nba-okc-den-2026-04-10",
+      "url": "https://polymarket.com/event/nba-okc-den-2026-04-10"
+    },
+    {
+      "rank": 4,
+      "id": "1439560",
+      "question": "Russia x Ukraine ceasefire by April 30, 2026?",
+      "volume24hr": 1501887.0678090022,
+      "liquidity": 450232.46866,
+      "yes_probability": "3.9%",
+      "no_probability": "96.2%",
+      "slug": "russia-x-ukraine-ceasefire-by-april-30-2026",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-april-30-2026"
+    },
+    {
+      "rank": 5,
+      "id": "1861181",
+      "question": "76ers vs. Pacers",
+      "volume24hr": 1485533.7081549955,
+      "liquidity": 228787.66124,
+      "yes_probability": "91.5%",
+      "no_probability": "8.5%",
+      "slug": "nba-phi-ind-2026-04-10",
+      "url": "https://polymarket.com/event/nba-phi-ind-2026-04-10"
+    },
+    {
+      "rank": 6,
+      "id": "1861183",
+      "question": "Raptors vs. Knicks",
+      "volume24hr": 1446131.404250999,
+      "liquidity": 81883.35621,
+      "yes_probability": "1.7%",
+      "no_probability": "98.4%",
+      "slug": "nba-tor-nyk-2026-04-10",
+      "url": "https://polymarket.com/event/nba-tor-nyk-2026-04-10"
+    },
+    {
+      "rank": 7,
+      "id": "669661",
+      "question": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+      "volume24hr": 1290453.203708998,
+      "liquidity": 325678.75693,
+      "yes_probability": "0.9%",
+      "no_probability": "99.1%",
+      "slug": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-april-2026-meeting"
+    },
+    {
+      "rank": 8,
+      "id": "567560",
+      "question": "Will the next Prime Minister of Hungary be Viktor Orbán?",
+      "volume24hr": 1197685.2003590001,
+      "liquidity": 496410.1753,
+      "yes_probability": "29.5%",
+      "no_probability": "70.5%",
+      "slug": "will-the-next-prime-minister-of-hungary-be-viktor-orbn",
+      "url": "https://polymarket.com/event/will-the-next-prime-minister-of-hungary-be-viktor-orbn"
+    },
+    {
+      "rank": 9,
+      "id": "1861179",
+      "question": "Cavaliers vs. Hawks",
+      "volume24hr": 1156251.536547999,
+      "liquidity": 662356.05588,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "nba-cle-atl-2026-04-10",
+      "url": "https://polymarket.com/event/nba-cle-atl-2026-04-10"
+    },
+    {
+      "rank": 10,
+      "id": "559692",
+      "question": "Will Jasmine Crockett win the 2028 Democratic presidential nomination?",
+      "volume24hr": 1133688.0484929993,
+      "liquidity": 1423893.75219,
+      "yes_probability": "0.7%",
+      "no_probability": "99.4%",
+      "slug": "will-jasmine-crockett-win-the-2028-democratic-presidential-nomination",
+      "url": "https://polymarket.com/event/will-jasmine-crockett-win-the-2028-democratic-presidential-nomination"
+    }
+  ]
+}

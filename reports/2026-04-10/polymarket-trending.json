@@ -1,0 +1,124 @@
+{
+  "source": "polymarket-trending",
+  "timestamp": "2026-04-10T01:28:49.956Z",
+  "count": 10,
+  "metadata": {
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "totalUnique": 20
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "1706788",
+      "question": "US x Iran ceasefire by April 7?",
+      "volume24hr": 55029074.498637,
+      "liquidity": 42308907.03314,
+      "yes_probability": "100.0%",
+      "no_probability": "0.1%",
+      "slug": "us-x-iran-ceasefire-by-april-7",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-by-april-7"
+    },
+    {
+      "rank": 2,
+      "id": "1576082",
+      "question": "Maple Leafs vs. Islanders",
+      "volume24hr": 2944084.403247992,
+      "liquidity": 12522.85869,
+      "yes_probability": "0.1%",
+      "no_probability": "99.9%",
+      "slug": "nhl-tor-nyi-2026-04-09",
+      "url": "https://polymarket.com/event/nhl-tor-nyi-2026-04-09"
+    },
+    {
+      "rank": 3,
+      "id": "1845082",
+      "question": "Celtics vs. Knicks",
+      "volume24hr": 2912563.6388479993,
+      "liquidity": 439587.8356,
+      "yes_probability": "51.5%",
+      "no_probability": "48.5%",
+      "slug": "nba-bos-nyk-2026-04-09",
+      "url": "https://polymarket.com/event/nba-bos-nyk-2026-04-09"
+    },
+    {
+      "rank": 4,
+      "id": "1845083",
+      "question": "76ers vs. Rockets",
+      "volume24hr": 2222246.347450007,
+      "liquidity": 224307.9769,
+      "yes_probability": "6.5%",
+      "no_probability": "93.5%",
+      "slug": "nba-phi-hou-2026-04-09",
+      "url": "https://polymarket.com/event/nba-phi-hou-2026-04-09"
+    },
+    {
+      "rank": 5,
+      "id": "1845072",
+      "question": "Heat vs. Raptors",
+      "volume24hr": 1941641.5034730055,
+      "liquidity": 595035.44677,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "nba-mia-tor-2026-04-09",
+      "url": "https://polymarket.com/event/nba-mia-tor-2026-04-09"
+    },
+    {
+      "rank": 6,
+      "id": "1451230",
+      "question": "Will Morten Messerschmidt be the next prime minister of Denmark after the 2026 parliamentary elections?",
+      "volume24hr": 1888528.909,
+      "liquidity": 34666.28985,
+      "yes_probability": "0.1%",
+      "no_probability": "99.9%",
+      "slug": "will-morten-messerschmidt-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections",
+      "url": "https://polymarket.com/event/will-morten-messerschmidt-be-the-next-prime-minister-of-denmark-after-the-2026-parliamentary-elections"
+    },
+    {
+      "rank": 7,
+      "id": "1576123",
+      "question": "Hurricanes vs. Blackhawks",
+      "volume24hr": 1691881.9464199953,
+      "liquidity": 354584.4562,
+      "yes_probability": "78.5%",
+      "no_probability": "21.5%",
+      "slug": "nhl-car-chi-2026-04-09",
+      "url": "https://polymarket.com/event/nhl-car-chi-2026-04-09"
+    },
+    {
+      "rank": 8,
+      "id": "1845077",
+      "question": "Bulls vs. Wizards",
+      "volume24hr": 1677818.5481960026,
+      "liquidity": 1204741.70086,
+      "yes_probability": "100.0%",
+      "no_probability": "0.1%",
+      "slug": "nba-chi-was-2026-04-09",
+      "url": "https://polymarket.com/event/nba-chi-was-2026-04-09"
+    },
+    {
+      "rank": 9,
+      "id": "1439560",
+      "question": "Russia x Ukraine ceasefire by April 30, 2026?",
+      "volume24hr": 1519170.5743009998,
+      "liquidity": 349555.82996,
+      "yes_probability": "4.0%",
+      "no_probability": "96.0%",
+      "slug": "russia-x-ukraine-ceasefire-by-april-30-2026",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-april-30-2026"
+    },
+    {
+      "rank": 10,
+      "id": "1576071",
+      "question": "Panthers vs. Senators",
+      "volume24hr": 1476243.3699600028,
+      "liquidity": 18632.98225,
+      "yes_probability": "0.4%",
+      "no_probability": "99.7%",
+      "slug": "nhl-fla-ott-2026-04-09",
+      "url": "https://polymarket.com/event/nhl-fla-ott-2026-04-09"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "source": "producthunt",
+  "timestamp": "2026-04-08T01:29:18.404Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 0,
+      "items": []
+    },
+    "monthly": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Influcio",
+          "tagline": "AI marketing Agent for result-driven influencer campaign",
+          "votesCount": 526,
+          "commentsCount": 34,
+          "url": "https://www.producthunt.com/posts/influcio-2",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "Noiz Easter Voice",
+          "tagline": "Crack an Easter egg to generate an AI voice",
+          "votesCount": 473,
+          "commentsCount": 77,
+          "url": "https://www.producthunt.com/posts/noiz-easter-voice",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "Google Gemma 4",
+          "tagline": "Google's most intelligent open models to date",
+          "votesCount": 437,
+          "commentsCount": 8,
+          "url": "https://www.producthunt.com/posts/google-gemma-4",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "Google Vids 2.0",
+          "tagline": "Create, edit and share videos at no cost w/ new AI features",
+          "votesCount": 434,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/google-vids-2-0",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "Moonshot ",
+          "tagline": "Track the Artemis II mission from your Mac",
+          "votesCount": 426,
+          "commentsCount": 36,
+          "url": "https://www.producthunt.com/posts/moonshot-8",
+          "topics": []
+        },
+        {
+          "rank": 6,
+          "name": "Ollama v0.19",
+          "tagline": "Massive local model speedup on Apple Silicon with MLX",
+          "votesCount": 417,
+          "commentsCount": 12,
+          "url": "https://www.producthunt.com/posts/ollama-v0-19",
+          "topics": []
+        },
+        {
+          "rank": 7,
+          "name": "Claude Code Voice Mode",
+          "tagline": "Speak your prompts into Claude Code",
+          "votesCount": 398,
+          "commentsCount": 14,
+          "url": "https://www.producthunt.com/posts/claude-code-voice-mode",
+          "topics": []
+        },
+        {
+          "rank": 8,
+          "name": "Cursor 3",
+          "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
+          "votesCount": 375,
+          "commentsCount": 15,
+          "url": "https://www.producthunt.com/posts/cursor-3-4",
+          "topics": []
+        },
+        {
+          "rank": 9,
+          "name": "Panorama",
+          "tagline": "AI that finds your team’s workflows and hidden structures",
+          "votesCount": 361,
+          "commentsCount": 57,
+          "url": "https://www.producthunt.com/posts/panorama",
+          "topics": []
+        },
+        {
+          "rank": 10,
+          "name": "Lightning V3",
+          "tagline": "Text-to-Speech built for Voice Agents",
+          "votesCount": 347,
+          "commentsCount": 23,
+          "url": "https://www.producthunt.com/posts/lightning-v3",
+          "topics": []
+        },
+        {
+          "rank": 11,
+          "name": "ZooClaw",
+          "tagline": "Your proactive team of AI specialists in one place",
+          "votesCount": 330,
+          "commentsCount": 48,
+          "url": "https://www.producthunt.com/posts/zooclaw",
+          "topics": []
+        },
+        {
+          "rank": 12,
+          "name": "Denovo",
+          "tagline": "Build and run your business while you sleep.",
+          "votesCount": 294,
+          "commentsCount": 94,
+          "url": "https://www.producthunt.com/posts/denovo",
+          "topics": []
+        },
+        {
+          "rank": 13,
+          "name": "Sleek Analytics",
+          "tagline": "See who's on your site. Right now.",
+          "votesCount": 285,
+          "commentsCount": 51,
+          "url": "https://www.producthunt.com/posts/sleek-analytics",
+          "topics": []
+        },
+        {
+          "rank": 14,
+          "name": "KREV",
+          "tagline": "AI creative agents for ecommerce brands",
+          "votesCount": 285,
+          "commentsCount": 23,
+          "url": "https://www.producthunt.com/posts/krev",
+          "topics": []
+        },
+        {
+          "rank": 15,
+          "name": "traceAI",
+          "tagline": "Open-source LLM tracing that speaks GenAI, not HTTP.",
+          "votesCount": 278,
+          "commentsCount": 32,
+          "url": "https://www.producthunt.com/posts/traceai",
+          "topics": []
+        },
+        {
+          "rank": 16,
+          "name": "AgentPulse by Rectify",
+          "tagline": "Everything in OpenClaw's terminal, you can now do visually",
+          "votesCount": 272,
+          "commentsCount": 42,
+          "url": "https://www.producthunt.com/posts/agentpulse-by-rectify",
+          "topics": []
+        },
+        {
+          "rank": 17,
+          "name": "VoiceOS",
+          "tagline": "Say it and it's done. Work 10x faster with your voice.",
+          "votesCount": 0,
+          "commentsCount": 0,
+          "url": "https://www.producthunt.com/posts/voiceos-3",
+          "topics": []
+        }
+      ]
+    }
+  },
+  "items": []
+}

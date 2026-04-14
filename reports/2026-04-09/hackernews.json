@@ -1,0 +1,342 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-09T01:28:46.500Z",
+  "count": 30,
+  "metadata": {
+    "topStories": {
+      "count": 30
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47697870,
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47697870",
+      "score": 67,
+      "author": "pluc",
+      "comments": 27,
+      "time": "2026-04-09T00:26:08.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47691730,
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47691730",
+      "score": 1238,
+      "author": "blkhp19",
+      "comments": 214,
+      "time": "2026-04-08T15:40:00.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47695012,
+      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47695012",
+      "score": 179,
+      "author": "WerWolv",
+      "comments": 24,
+      "time": "2026-04-08T19:23:34.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47693153,
+      "title": "Understanding the Kalman filter with a simple radar example",
+      "url": "https://kalmanfilter.net",
+      "hnUrl": "https://news.ycombinator.com/item?id=47693153",
+      "score": 216,
+      "author": "alex_be",
+      "comments": 32,
+      "time": "2026-04-08T17:11:46.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47688678,
+      "title": "They're made out of meat (1991)",
+      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47688678",
+      "score": 407,
+      "author": "surprisetalk",
+      "comments": 113,
+      "time": "2026-04-08T11:20:50.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47692043,
+      "title": "Muse Spark: Scaling towards personal superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "hnUrl": "https://news.ycombinator.com/item?id=47692043",
+      "score": 261,
+      "author": "chabons",
+      "comments": 283,
+      "time": "2026-04-08T16:01:32.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47661297,
+      "title": "What does it mean to “write like you talk”?",
+      "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+      "hnUrl": "https://news.ycombinator.com/item?id=47661297",
+      "score": 14,
+      "author": "surprisetalk",
+      "comments": 11,
+      "time": "2026-04-06T14:22:51.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47687248,
+      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47687248",
+      "score": 527,
+      "author": "ra",
+      "comments": 536,
+      "time": "2026-04-08T08:50:37.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47689648,
+      "title": "ML promises to be profoundly weird",
+      "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+      "hnUrl": "https://news.ycombinator.com/item?id=47689648",
+      "score": 369,
+      "author": "pabs3",
+      "comments": 402,
+      "time": "2026-04-08T13:06:33.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47648538,
+      "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
+      "url": "https://oseifert.ch/blog/linux-kernel-pgit",
+      "hnUrl": "https://news.ycombinator.com/item?id=47648538",
+      "score": 68,
+      "author": "ImGajeed76",
+      "comments": 11,
+      "time": "2026-04-05T12:08:55.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47694983,
+      "title": "Expanding Swift's IDE Support",
+      "url": "https://swift.org/blog/expanding-swift-ide-support/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47694983",
+      "score": 75,
+      "author": "frizlab",
+      "comments": 39,
+      "time": "2026-04-08T19:21:41.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47687273,
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47687273",
+      "score": 1796,
+      "author": "grepsedawk",
+      "comments": 383,
+      "time": "2026-04-08T08:53:42.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47689174,
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "hnUrl": "https://news.ycombinator.com/item?id=47689174",
+      "score": 257,
+      "author": "chrsw",
+      "comments": 48,
+      "time": "2026-04-08T12:19:00.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47678690,
+      "title": "Six (and a half) intuitions for KL divergence",
+      "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+      "hnUrl": "https://news.ycombinator.com/item?id=47678690",
+      "score": 6,
+      "author": "jxmorris12",
+      "comments": 0,
+      "time": "2026-04-07T17:34:13.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47696035,
+      "title": "John Deere to pay $99M in right-to-repair settlement",
+      "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+      "hnUrl": "https://news.ycombinator.com/item?id=47696035",
+      "score": 165,
+      "author": "CharlesW",
+      "comments": 44,
+      "time": "2026-04-08T20:46:27.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47685320,
+      "title": "Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator",
+      "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47685320",
+      "score": 298,
+      "author": "jfirebaugh",
+      "comments": 226,
+      "time": "2026-04-08T04:37:57.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47696562,
+      "title": "Show HN: Is Hormuz open yet?",
+      "url": "https://www.ishormuzopenyet.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47696562",
+      "score": 244,
+      "author": "anonfunction",
+      "comments": 112,
+      "time": "2026-04-08T21:33:06.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47656730,
+      "title": "Understanding Traceroute",
+      "url": "https://tech.stonecharioteer.com/posts/2026/traceroute/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47656730",
+      "score": 84,
+      "author": "stonecharioteer",
+      "comments": 11,
+      "time": "2026-04-06T03:40:31.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47694036,
+      "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+      "url": "http://oj-hn.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47694036",
+      "score": 83,
+      "author": "latchkey",
+      "comments": 117,
+      "time": "2026-04-08T18:08:52.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47654062,
+      "title": "Ask HN: Any interesting niche hobbies?",
+      "url": "https://news.ycombinator.com/item?id=47654062",
+      "hnUrl": "https://news.ycombinator.com/item?id=47654062",
+      "score": 252,
+      "author": "e-topy",
+      "comments": 388,
+      "time": "2026-04-05T21:30:19.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47696760,
+      "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
+      "url": "https://thales.me/posts/why-i-built-snapstate/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47696760",
+      "score": 17,
+      "author": "thalesfp",
+      "comments": 31,
+      "time": "2026-04-08T21:53:36.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47698132,
+      "title": "Trump administration orders dismantling of the U.S. Forest Service",
+      "url": "https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263",
+      "hnUrl": "https://news.ycombinator.com/item?id=47698132",
+      "score": 34,
+      "author": "dxs",
+      "comments": 3,
+      "time": "2026-04-09T01:02:03.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47693679,
+      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47693679",
+      "score": 268,
+      "author": "nickvec",
+      "comments": 139,
+      "time": "2026-04-08T17:44:25.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47685945,
+      "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+      "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+      "hnUrl": "https://news.ycombinator.com/item?id=47685945",
+      "score": 177,
+      "author": "bundie",
+      "comments": 162,
+      "time": "2026-04-08T06:01:00.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47689237,
+      "title": "US cities are axing Flock Safety surveillance technology",
+      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47689237",
+      "score": 627,
+      "author": "giuliomagnifico",
+      "comments": 363,
+      "time": "2026-04-08T12:26:14.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47690977,
+      "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
+      "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47690977",
+      "score": 465,
+      "author": "donohoe",
+      "comments": 181,
+      "time": "2026-04-08T14:46:15.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47646646,
+      "title": "What does ⍋⍋ even mean? (2023)",
+      "url": "https://blog.wilsonb.com/posts/2023-08-04-what-does-grade-grade-even-mean.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47646646",
+      "score": 37,
+      "author": "tosh",
+      "comments": 19,
+      "time": "2026-04-05T06:25:30.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47676561,
+      "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
+      "url": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47676561",
+      "score": 79,
+      "author": "DamnInteresting",
+      "comments": 37,
+      "time": "2026-04-07T15:07:45.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47689319,
+      "title": "Show HN: Skrun – Deploy any agent skill as an API",
+      "url": "https://github.com/skrun-dev/skrun",
+      "hnUrl": "https://news.ycombinator.com/item?id=47689319",
+      "score": 43,
+      "author": "frizull",
+      "comments": 9,
+      "time": "2026-04-08T12:34:38.000Z"
+    },
+    {
+      "rank": 30,
+      "id": 47675446,
+      "title": "Audio Reactive LED Strips Are Diabolically Hard",
+      "url": "https://scottlawsonbc.com/post/audio-led",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675446",
+      "score": 196,
+      "author": "surprisetalk",
+      "comments": 57,
+      "time": "2026-04-07T13:55:14.000Z"
+    }
+  ]
+}

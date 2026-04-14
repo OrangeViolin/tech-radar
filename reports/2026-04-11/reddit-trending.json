@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-11T01:29:13.832Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 60
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "Google engineer rejected by 16 colleges uses AI to sue universities for racial discrimination",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shncya/google_engineer_rejected_by_16_colleges_uses_ai/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shncya/google_engineer_rejected_by_16_colleges_uses_ai/",
+      "author": "",
+      "created_utc": "2026-04-10T13:59:31+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Anyone compared Gemma 4 31B",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/",
+      "author": "",
+      "created_utc": "2026-04-10T04:39:31+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shypcx/how_has_claude_far_surpassed_the_competitors_they/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shypcx/how_has_claude_far_surpassed_the_competitors_they/",
+      "author": "",
+      "created_utc": "2026-04-10T20:46:39+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/",
+      "author": "",
+      "created_utc": "2026-04-10T05:10:18+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "What's your \"When Language Model AI can do X, I'll be impressed\"?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shhcxl/whats_your_when_language_model_ai_can_do_x_ill_be/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shhcxl/whats_your_when_language_model_ai_can_do_x_ill_be/",
+      "author": "",
+      "created_utc": "2026-04-10T09:12:22+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Everyone wants to be a content creator. nobody wants to actually create anything worth watching. and the internet is slowly suffocating under the weight of it.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shw8zl/everyone_wants_to_be_a_content_creator_nobody/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shw8zl/everyone_wants_to_be_a_content_creator_nobody/",
+      "author": "",
+      "created_utc": "2026-04-10T19:16:11+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Can AI really replace human survey respondents, or is it just simulating patterns?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shk7w6/can_ai_really_replace_human_survey_respondents_or/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shk7w6/can_ai_really_replace_human_survey_respondents_or/",
+      "author": "",
+      "created_utc": "2026-04-10T11:47:39+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "CIA is trusting AI to help analyze intel from human spies",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shimak/cia_is_trusting_ai_to_help_analyze_intel_from/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shimak/cia_is_trusting_ai_to_help_analyze_intel_from/",
+      "author": "",
+      "created_utc": "2026-04-10T10:25:08+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Ai tools for studies",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shksli/ai_tools_for_studies/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shksli/ai_tools_for_studies/",
+      "author": "",
+      "created_utc": "2026-04-10T12:14:14+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1shwfk3/elon_musk_asks_for_openais_nonprofit_to_get_any/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1shwfk3/elon_musk_asks_for_openais_nonprofit_to_get_any/",
+      "author": "",
+      "created_utc": "2026-04-10T19:22:46+00:00"
+    }
+  ]
+}

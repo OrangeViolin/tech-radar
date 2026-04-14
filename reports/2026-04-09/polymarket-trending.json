@@ -1,0 +1,124 @@
+{
+  "source": "polymarket-trending",
+  "timestamp": "2026-04-09T01:28:42.854Z",
+  "count": 10,
+  "metadata": {
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "totalUnique": 20
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": "1706788",
+      "question": "US x Iran ceasefire by April 7?",
+      "volume24hr": 53965763.75302935,
+      "liquidity": 27018015.52121,
+      "yes_probability": "99.8%",
+      "no_probability": "0.3%",
+      "slug": "us-x-iran-ceasefire-by-april-7",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-by-april-7"
+    },
+    {
+      "rank": 2,
+      "id": "1733047",
+      "question": "Will Paris Saint-Germain FC win on 2026-04-08?",
+      "volume24hr": 11358555.667718887,
+      "liquidity": 116958.48902,
+      "yes_probability": "100.0%",
+      "no_probability": "0.1%",
+      "slug": "ucl-psg1-liv1-2026-04-08-psg1",
+      "url": "https://polymarket.com/event/ucl-psg1-liv1-2026-04-08-psg1"
+    },
+    {
+      "rank": 3,
+      "id": "1706766",
+      "question": "Iran x Israel/US conflict ends by April 7?",
+      "volume24hr": 3920504.008327999,
+      "liquidity": 172296.39301,
+      "yes_probability": "44.0%",
+      "no_probability": "56.0%",
+      "slug": "iran-x-israelus-conflict-ends-by-april-7-346",
+      "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by-april-7-346"
+    },
+    {
+      "rank": 4,
+      "id": "1829486",
+      "question": "Hawks vs. Cavaliers",
+      "volume24hr": 3571780.910320002,
+      "liquidity": 35484.57467,
+      "yes_probability": "16.6%",
+      "no_probability": "83.5%",
+      "slug": "nba-atl-cle-2026-04-08",
+      "url": "https://polymarket.com/event/nba-atl-cle-2026-04-08"
+    },
+    {
+      "rank": 5,
+      "id": "558981",
+      "question": "Will Congo DR win the 2026 FIFA World Cup?",
+      "volume24hr": 2401659.676226014,
+      "liquidity": 164796.2263,
+      "yes_probability": "0.5%",
+      "no_probability": "99.5%",
+      "slug": "will-congo-dr-win-the-2026-fifa-world-cup",
+      "url": "https://polymarket.com/event/will-congo-dr-win-the-2026-fifa-world-cup"
+    },
+    {
+      "rank": 6,
+      "id": "1829489",
+      "question": "Timberwolves vs. Magic",
+      "volume24hr": 2077784.9728669971,
+      "liquidity": 604287.91178,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "nba-min-orl-2026-04-08",
+      "url": "https://polymarket.com/event/nba-min-orl-2026-04-08"
+    },
+    {
+      "rank": 7,
+      "id": "1829494",
+      "question": "Thunder vs. Clippers",
+      "volume24hr": 1960062.007839993,
+      "liquidity": 542478.0497,
+      "yes_probability": "75.5%",
+      "no_probability": "24.5%",
+      "slug": "nba-okc-lac-2026-04-08",
+      "url": "https://polymarket.com/event/nba-okc-lac-2026-04-08"
+    },
+    {
+      "rank": 8,
+      "id": "1829490",
+      "question": "Bucks vs. Pistons",
+      "volume24hr": 1523332.612223004,
+      "liquidity": 489048.0227,
+      "yes_probability": "0.1%",
+      "no_probability": "100.0%",
+      "slug": "nba-mil-det-2026-04-08",
+      "url": "https://polymarket.com/event/nba-mil-det-2026-04-08"
+    },
+    {
+      "rank": 9,
+      "id": "1507751",
+      "question": "Will the Iranian regime fall by April 30?",
+      "volume24hr": 1237218.1953939993,
+      "liquidity": 530372.65559,
+      "yes_probability": "2.9%",
+      "no_probability": "97.2%",
+      "slug": "will-the-iranian-regime-fall-by-april-30",
+      "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-april-30"
+    },
+    {
+      "rank": 10,
+      "id": "1829491",
+      "question": "Trail Blazers vs. Spurs",
+      "volume24hr": 1192321.7195009987,
+      "liquidity": 940456.249,
+      "yes_probability": "41.5%",
+      "no_probability": "58.5%",
+      "slug": "nba-por-sas-2026-04-08",
+      "url": "https://polymarket.com/event/nba-por-sas-2026-04-08"
+    }
+  ]
+}

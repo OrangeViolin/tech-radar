@@ -1,0 +1,331 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-08T01:29:18.540Z",
+  "count": 29,
+  "metadata": {
+    "topStories": {
+      "count": 29
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47679121,
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "hnUrl": "https://news.ycombinator.com/item?id=47679121",
+      "score": 884,
+      "author": "Ryan5453",
+      "comments": 399,
+      "time": "2026-04-07T18:09:34.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47676509,
+      "title": "Lunar Flyby",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47676509",
+      "score": 350,
+      "author": "kipi",
+      "comments": 88,
+      "time": "2026-04-07T15:03:18.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47682276,
+      "title": "US and Iran agree to provisional ceasefire",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "hnUrl": "https://news.ycombinator.com/item?id=47682276",
+      "score": 133,
+      "author": "g-b-r",
+      "comments": 257,
+      "time": "2026-04-07T22:41:02.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47679258,
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "hnUrl": "https://news.ycombinator.com/item?id=47679258",
+      "score": 530,
+      "author": "be7a",
+      "comments": 383,
+      "time": "2026-04-07T18:18:36.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47677853,
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "hnUrl": "https://news.ycombinator.com/item?id=47677853",
+      "score": 412,
+      "author": "zixuanlimit",
+      "comments": 137,
+      "time": "2026-04-07T16:32:15.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47650887,
+      "title": "How to get better at guitar",
+      "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47650887",
+      "score": 185,
+      "author": "jwworth",
+      "comments": 80,
+      "time": "2026-04-05T16:14:12.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47680404,
+      "title": "S3 Files",
+      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47680404",
+      "score": 187,
+      "author": "werner",
+      "comments": 55,
+      "time": "2026-04-07T19:44:01.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47678573,
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "hnUrl": "https://news.ycombinator.com/item?id=47678573",
+      "score": 278,
+      "author": "speckx",
+      "comments": 64,
+      "time": "2026-04-07T17:23:43.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47657268,
+      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+      "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47657268",
+      "score": 246,
+      "author": "1659447091",
+      "comments": 39,
+      "time": "2026-04-06T05:22:24.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47681112,
+      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+      "url": "https://middle-earth-interactive-map.web.app/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47681112",
+      "score": 77,
+      "author": "frasermarlow",
+      "comments": 16,
+      "time": "2026-04-07T20:42:37.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47673360,
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47673360",
+      "score": 699,
+      "author": "sam-bee",
+      "comments": 215,
+      "time": "2026-04-07T11:07:44.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47682719,
+      "title": "Xilem – An experimental Rust native UI framework",
+      "url": "https://github.com/linebender/xilem",
+      "hnUrl": "https://news.ycombinator.com/item?id=47682719",
+      "score": 14,
+      "author": "Levitating",
+      "comments": 1,
+      "time": "2026-04-07T23:36:15.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47654626,
+      "title": "A whole boss fight in 256 bytes",
+      "url": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47654626",
+      "score": 60,
+      "author": "HellMood",
+      "comments": 11,
+      "time": "2026-04-05T22:32:12.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47675625,
+      "title": "Cloudflare targets 2029 for full post-quantum security",
+      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675625",
+      "score": 279,
+      "author": "ilreb",
+      "comments": 86,
+      "time": "2026-04-07T14:07:34.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47680309,
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "hnUrl": "https://news.ycombinator.com/item?id=47680309",
+      "score": 122,
+      "author": "MediaSquirrel",
+      "comments": 16,
+      "time": "2026-04-07T19:37:05.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47624572,
+      "title": "A database of analog cameras that can be 3D printed",
+      "url": "https://printed.analogcamera.space/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47624572",
+      "score": 17,
+      "author": "thomasjb",
+      "comments": 0,
+      "time": "2026-04-03T09:02:21.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47677885,
+      "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "url": "https://printervention.app/details",
+      "hnUrl": "https://news.ycombinator.com/item?id=47677885",
+      "score": 143,
+      "author": "gmac",
+      "comments": 67,
+      "time": "2026-04-07T16:33:57.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47658104,
+      "title": "The Image Boards of Hayao Miyazaki",
+      "url": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
+      "hnUrl": "https://news.ycombinator.com/item?id=47658104",
+      "score": 106,
+      "author": "vinhnx",
+      "comments": 12,
+      "time": "2026-04-06T07:56:34.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47675213,
+      "title": "Google open-sources experimental agent orchestration testbed Scion",
+      "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675213",
+      "score": 157,
+      "author": "timbilt",
+      "comments": 43,
+      "time": "2026-04-07T13:39:15.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47675893,
+      "title": "A blind man made it possible for others with low vision to build Lego sets",
+      "url": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675893",
+      "score": 49,
+      "author": "speckx",
+      "comments": 5,
+      "time": "2026-04-07T14:24:30.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47673005,
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47673005",
+      "score": 389,
+      "author": "henrygarner",
+      "comments": 185,
+      "time": "2026-04-07T10:25:12.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47664836,
+      "title": "AI helps add 10k more photos to OldNYC",
+      "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47664836",
+      "score": 120,
+      "author": "evakhoury",
+      "comments": 39,
+      "time": "2026-04-06T18:24:32.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47637665,
+      "title": "The Clock",
+      "url": "https://blog.senko.net/the-clock",
+      "hnUrl": "https://news.ycombinator.com/item?id=47637665",
+      "score": 5,
+      "author": "senko",
+      "comments": 1,
+      "time": "2026-04-04T10:08:31.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47627217,
+      "title": "Running out of disk space in production",
+      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47627217",
+      "score": 149,
+      "author": "romes",
+      "comments": 77,
+      "time": "2026-04-03T14:42:28.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47681274,
+      "title": "Bitcoin and quantum computing",
+      "url": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47681274",
+      "score": 97,
+      "author": "nehan",
+      "comments": 60,
+      "time": "2026-04-07T20:56:23.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47675372,
+      "title": "Has electricity decoupled from natural gas prices in Germany?",
+      "url": "https://has-electricity-decoupled-yet.strommarktberatung.de",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675372",
+      "score": 79,
+      "author": "konschubert",
+      "comments": 116,
+      "time": "2026-04-07T13:50:27.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47671219,
+      "title": "John Coltrane illustrates the mathematics of jazz",
+      "url": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
+      "hnUrl": "https://news.ycombinator.com/item?id=47671219",
+      "score": 101,
+      "author": "luu",
+      "comments": 12,
+      "time": "2026-04-07T05:58:01.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47679155,
+      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47679155",
+      "score": 249,
+      "author": "sweis",
+      "comments": 36,
+      "time": "2026-04-07T18:11:31.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47677241,
+      "title": "Taste in the age of AI and LLMs",
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47677241",
+      "score": 216,
+      "author": "speckx",
+      "comments": 180,
+      "time": "2026-04-07T15:54:16.000Z"
+    }
+  ]
+}

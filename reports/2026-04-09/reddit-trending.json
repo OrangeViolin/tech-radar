@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-09T01:28:42.897Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 57
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "this is how an AI generated cow looked 12 years ago",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfqix8/this_is_how_an_ai_generated_cow_looked_12_years/",
+      "author": "",
+      "created_utc": "2026-04-08T11:48:30+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Project Glasswing is inherently Cartel Behaviour",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/",
+      "author": "",
+      "created_utc": "2026-04-08T18:43:40+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "Why would Anthropic keep a cyber model like Project Glasswing invite-only?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/",
+      "author": "",
+      "created_utc": "2026-04-08T08:49:57+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "~77% of all new \"Success\" self-help books on Amazon are likely written by AI, with 1 author, Noah Felix Bennett, publishing a stunning 74 books in mid-2025 alone, at a rate of >1 per day. Richard Trillion Mantey, who has published hundreds of books, was assessed to have used AI for every single book",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/",
+      "author": "",
+      "created_utc": "2026-04-08T20:59:19+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "OpenAI said ads were a \"last resort.\" Then crossed $100M in 6 weeks.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/",
+      "author": "",
+      "created_utc": "2026-04-08T23:47:07+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "What actually makes something the best AI meeting recorder?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/",
+      "author": "",
+      "created_utc": "2026-04-08T14:12:15+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Right to compute laws are a Trojan horse",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/",
+      "author": "",
+      "created_utc": "2026-04-08T03:44:28+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/",
+      "author": "",
+      "created_utc": "2026-04-08T13:20:59+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Q: Helium & AI Capacity?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sg3beh/q_helium_ai_capacity/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sg3beh/q_helium_ai_capacity/",
+      "author": "",
+      "created_utc": "2026-04-08T19:43:53+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "I built a game where you hack your employer by night and an entity called the CONDUIT starts responding to your keystrokes. Half horror, half labor dispute.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfy52b/i_built_a_game_where_you_hack_your_employer_by/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfy52b/i_built_a_game_where_you_hack_your_employer_by/",
+      "author": "",
+      "created_utc": "2026-04-08T16:39:51+00:00"
+    }
+  ]
+}

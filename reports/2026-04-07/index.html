@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>科技雷达日报 — 2026-04-07</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent2: #f78166;
+      --accent3: #3fb950;
+      --accent4: #d2a8ff;
+      --accent5: #ff7b72;
+      --tag-bg: rgba(88,166,255,0.15);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 15px;
+    }
+    .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+
+    /* Header */
+    .header {
+      text-align: center;
+      padding: 3rem 0 2rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2.5rem;
+    }
+    .header .logo { font-size: 2.5rem; margin-bottom: 0.5rem; }
+    .header h1 { font-size: 1.8rem; font-weight: 700; margin-bottom: 0.3rem; }
+    .header .date { color: var(--text-muted); font-size: 0.95rem; }
+    .header .author { color: var(--accent); font-size: 0.85rem; margin-top: 0.5rem; }
+
+    /* Speed Read */
+    .speed-read {
+      background: linear-gradient(135deg, rgba(88,166,255,0.08), rgba(210,168,255,0.08));
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem 2rem;
+      margin-bottom: 2.5rem;
+      font-size: 0.95rem;
+      line-height: 1.9;
+    }
+    .speed-read h2 {
+      font-size: 1.1rem;
+      color: var(--accent);
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .speed-read p { margin-bottom: 1rem; color: var(--text); }
+    .speed-read p:last-child { margin-bottom: 0; }
+
+    /* Section */
+    .section { margin-bottom: 3rem; }
+    .section h2 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--text);
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid var(--accent);
+      margin-bottom: 1.5rem;
+      display: inline-block;
+    }
+    .section h3 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--accent4);
+      margin: 1.5rem 0 1rem;
+    }
+
+    /* Tables */
+    .table-wrap { overflow-x: auto; margin-bottom: 1.5rem; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+    thead th {
+      background: var(--surface);
+      color: var(--accent);
+      font-weight: 600;
+      text-align: left;
+      padding: 0.6rem 0.8rem;
+      border-bottom: 2px solid var(--border);
+      white-space: nowrap;
+    }
+    tbody td {
+      padding: 0.55rem 0.8rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    tbody tr:hover { background: rgba(88,166,255,0.04); }
+    table a { color: var(--accent); text-decoration: none; }
+    table a:hover { text-decoration: underline; }
+
+    /* Star badges */
+    .stars {
+      display: inline-block;
+      background: rgba(63,185,80,0.15);
+      color: var(--accent3);
+      padding: 0.15rem 0.5rem;
+      border-radius: 10px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .hot {
+      display: inline-block;
+      background: rgba(255,123,114,0.15);
+      color: var(--accent5);
+      padding: 0.15rem 0.5rem;
+      border-radius: 10px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    /* Signal cards */
+    .signal-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-bottom: 1.2rem;
+    }
+    .signal-card h4 {
+      font-size: 1.05rem;
+      color: var(--accent2);
+      margin-bottom: 0.8rem;
+    }
+    .signal-card .evidence { color: var(--text-muted); font-size: 0.88rem; margin-bottom: 0.8rem; }
+    .signal-card .evidence li { margin-bottom: 0.3rem; }
+    .signal-card .action {
+      background: rgba(63,185,80,0.1);
+      border-left: 3px solid var(--accent3);
+      padding: 0.5rem 0.8rem;
+      border-radius: 0 6px 6px 0;
+      font-size: 0.88rem;
+      color: var(--accent3);
+    }
+
+    /* Topic cards */
+    .topic-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      position: relative;
+    }
+    .topic-card .priority {
+      position: absolute;
+      top: -0.6rem;
+      left: 1rem;
+      background: var(--accent2);
+      color: var(--bg);
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 0.15rem 0.6rem;
+      border-radius: 8px;
+    }
+    .topic-card h4 { font-size: 1rem; margin-bottom: 0.5rem; margin-top: 0.3rem; }
+    .topic-card .meta {
+      display: flex;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.6rem;
+    }
+    .topic-card .tag {
+      background: var(--tag-bg);
+      color: var(--accent);
+      padding: 0.15rem 0.5rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+    .topic-card .desc { font-size: 0.88rem; color: var(--text-muted); line-height: 1.7; }
+
+    /* Watch list */
+    .watch-list { list-style: none; padding: 0; }
+    .watch-list li {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.88rem;
+      color: var(--text-muted);
+    }
+    .watch-list li::before {
+      content: '○';
+      color: var(--accent);
+      margin-right: 0.5rem;
+    }
+    .watch-list li strong { color: var(--text); }
+
+    /* Builder tweets */
+    .tweet-card {
+      display: flex;
+      gap: 0.8rem;
+      padding: 0.8rem 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.88rem;
+    }
+    .tweet-card .avatar {
+      width: 2rem;
+      height: 2rem;
+      border-radius: 50%;
+      background: var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      color: var(--accent);
+      flex-shrink: 0;
+      font-weight: 700;
+    }
+    .tweet-card .name { color: var(--accent); font-weight: 600; }
+    .tweet-card .handle { color: var(--text-muted); font-size: 0.78rem; }
+    .tweet-card .likes { color: var(--accent5); font-size: 0.78rem; white-space: nowrap; }
+
+    /* Nav */
+    .toc {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+    .toc h3 { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.6rem; }
+    .toc ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
+    .toc a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.85rem;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+    .toc a:hover { background: var(--tag-bg); }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem 0;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.82rem;
+    }
+    .footer a { color: var(--accent); text-decoration: none; }
+
+    /* Responsive */
+    @media (max-width: 640px) {
+      .container { padding: 1rem; }
+      .header h1 { font-size: 1.4rem; }
+      .speed-read { padding: 1rem 1.2rem; }
+      table { font-size: 0.78rem; }
+      thead th, tbody td { padding: 0.4rem 0.5rem; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="logo">📡</div>
+    <h1>科技雷达日报</h1>
+    <div class="date">2026-04-07 · Monday</div>
+    <div class="author">01fish · AI 自媒体内容生产系统</div>
+  </div>
+
+  <!-- TOC -->
+  <nav class="toc">
+    <h3>快速导航</h3>
+    <ul>
+      <li><a href="#speed-read">30 秒速读</a></li>
+      <li><a href="#github">GitHub Trending</a></li>
+      <li><a href="#producthunt">Product Hunt</a></li>
+      <li><a href="#hackernews">Hacker News</a></li>
+      <li><a href="#zara">张咋啦 AI</a></li>
+      <li><a href="#builders">Follow Builders</a></li>
+      <li><a href="#reddit">Reddit 热议</a></li>
+      <li><a href="#polymarket">Polymarket</a></li>
+      <li><a href="#signals">跨源强信号</a></li>
+      <li><a href="#topics">选题建议</a></li>
+      <li><a href="#watchlist">观察列表</a></li>
+    </ul>
+  </nav>
+
+  <!-- 30 秒速读 -->
+  <section id="speed-read" class="speed-read">
+    <h2>⚡ 30 秒速读</h2>
+    <p><strong>Claude Code 生态正在经历一场「爱恨交织」</strong>——GitHub 月榜上 everything-claude-code 暴涨 8 万星、superpowers 暴涨 6.5 万星，5 个 Claude Code 相关项目同时登上月榜，整个 Skill 体系生态已经形成了自己的引力场。但与此同时，HN 上「Claude Code is unusable for complex engineering tasks」以 1052 分、587 条评论炸了锅，Claude Code 团队的 Thariq 亲自下场调查 MAX 20x 用户的 token 消耗异常（1447 赞），YC 的 Garry Tan 还曝出了 Cowork 的安全漏洞。这说明 Claude Code 已经从「尝鲜玩具」进入了「生产力基础设施」阶段——用户量大到足以暴露深层问题，这恰恰是一个平台成熟的标志。</p>
+    <p><strong>AI Agent 已经不是概念而是产品形态了。</strong>GitHub 月榜前几名清一色是 Agent 项目——agency-agents 把 Agent 按「公司职能」组织（+6.4 万星），字节的 deer-flow 做能跑数小时的 SuperAgent（+3.4 万星），日榜上 Goose 一天涨了 1523 星。Peter Yang 直接说「Coding will eat all knowledge work」，Aaron Levie 说得更直白：「你的工作不再是做事，是管 AI 做事。」</p>
+    <p><strong>端侧 AI 在加速形成闭环。</strong>Google AI Edge Gallery 一天涨 1107 星，Ollama v0.19 在 Apple Silicon 上用 MLX 大幅提速拿了 PH 月榜第 5，Google Gemma 4 作为「最强开放模型」上了 PH 月榜第 3。模型开源 + 推理框架优化 + 端侧应用落地——这三样现在同时到位了。</p>
+  </section>
+
+  <!-- GitHub Trending -->
+  <section id="github" class="section">
+    <h2>GitHub Trending</h2>
+
+    <h3>日榜（过去 24 小时 Star 增速最快）</h3>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>仓库</th><th>描述</th><th>语言</th><th>Stars</th><th>今日增量</th><th>行动建议</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td><a href="https://github.com/abhigyanpatwari/GitNexus">GitNexus</a></td><td>浏览器端代码知识图谱 + Graph RAG</td><td>TypeScript</td><td>23,914</td><td><span class="stars">+857</span></td><td>可做「5 分钟用 GitNexus 看懂任何开源项目」教程</td></tr>
+          <tr><td>2</td><td><a href="https://github.com/google-ai-edge/gallery">google-ai-edge/gallery</a></td><td>Google 端侧 ML/GenAI 用例，本地运行</td><td>Kotlin</td><td>18,253</td><td><span class="stars">+1,107</span></td><td>端侧 AI 系列素材</td></tr>
+          <tr><td>3</td><td><a href="https://github.com/aaif-goose/goose">Goose</a></td><td>开源可扩展 AI Agent，支持任意 LLM</td><td>Rust</td><td>38,499</td><td><span class="hot">+1,523</span></td><td>对标 Claude Code 的开源替代</td></tr>
+          <tr><td>4</td><td><a href="https://github.com/google-ai-edge/LiteRT-LM">LiteRT-LM</a></td><td>Google 端侧轻量 LLM 推理框架</td><td>C++</td><td>2,231</td><td><span class="stars">+483</span></td><td>底层基础设施，了解即可</td></tr>
+          <tr><td>5</td><td><a href="https://github.com/immich-app/immich">immich</a></td><td>高性能自托管照片视频管理</td><td>TypeScript</td><td>97,100</td><td><span class="stars">+152</span></td><td>与 AI 无关，跳过</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>月榜（过去 30 天 Star 增速最快）</h3>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>仓库</th><th>描述</th><th>语言</th><th>Stars</th><th>月增量</th><th>行动建议</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td><a href="https://github.com/666ghj/MiroFish">MiroFish</a></td><td>通用群体智能引擎，预测万物</td><td>Python</td><td>50,973</td><td><span class="stars">+45,905</span></td><td>偏学术/金融预测，观察</td></tr>
+          <tr><td>2</td><td><a href="https://github.com/msitarzewski/agency-agents">agency-agents</a></td><td>完整 AI Agency：按公司职能组织的 Agent 团队</td><td>Shell</td><td>73,726</td><td><span class="hot">+64,098</span></td><td><strong>内容金矿</strong>——「一个人 = 一家公司」</td></tr>
+          <tr><td>3</td><td><a href="https://github.com/NousResearch/hermes-agent">hermes-agent</a></td><td>可成长的 Agent 框架</td><td>Python</td><td>29,039</td><td><span class="stars">+25,584</span></td><td>关注其「成长」机制设计</td></tr>
+          <tr><td>4</td><td><a href="https://github.com/bytedance/deer-flow">deer-flow</a></td><td>字节长周期 SuperAgent</td><td>Python</td><td>58,907</td><td><span class="hot">+33,924</span></td><td>字节出品，可对标 01fish-assistant</td></tr>
+          <tr><td>5</td><td><a href="https://github.com/mattpocock/skills">skills</a></td><td>Matt Pocock 的个人 Claude Skills</td><td>Shell</td><td>12,711</td><td><span class="stars">+11,493</span></td><td>可做「大佬 Claude Skills 盘点」</td></tr>
+          <tr><td>6</td><td><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2">MoneyPrinterV2</a></td><td>自动化在线赚钱流程</td><td>Python</td><td>28,643</td><td><span class="stars">+13,858</span></td><td>灰色地带，不推荐做内容</td></tr>
+          <tr><td>7</td><td><a href="https://github.com/alibaba/page-agent">page-agent</a></td><td>阿里页面内 GUI Agent</td><td>TypeScript</td><td>16,023</td><td><span class="stars">+14,790</span></td><td>可结合自动分发场景做评测</td></tr>
+          <tr><td>8</td><td><a href="https://github.com/lightpanda-io/browser">lightpanda</a></td><td>为 AI 设计的无头浏览器</td><td>Zig</td><td>27,433</td><td><span class="stars">+15,474</span></td><td>AI 自动化基础设施</td></tr>
+          <tr><td>9</td><td><a href="https://github.com/pbakaus/impeccable">impeccable</a></td><td>让 AI Agent 更擅长设计的设计语言</td><td>JS</td><td>16,429</td><td><span class="stars">+15,725</span></td><td>可做「让 AI 写出好看网页」教程</td></tr>
+          <tr><td>10</td><td><a href="https://github.com/affaan-m/everything-claude-code">everything-claude-code</a></td><td>Claude Code 性能优化体系</td><td>JS</td><td>143,646</td><td><span class="hot">+80,296</span></td><td><strong>必须深入研究</strong></td></tr>
+          <tr><td>11</td><td><a href="https://github.com/jarrodwatts/claude-hud">claude-hud</a></td><td>Claude Code 可视化插件</td><td>JS</td><td>17,370</td><td><span class="stars">+13,172</span></td><td>做「让 Claude Code 透明可控」教程</td></tr>
+          <tr><td>12</td><td><a href="https://github.com/mvanhorn/last30days-skill">last30days-skill</a></td><td>AI Agent 多源研究 Skill</td><td>Python</td><td>19,332</td><td><span class="stars">+15,405</span></td><td><strong>可直接参考</strong>集成到 tech-radar</td></tr>
+          <tr><td>13</td><td><a href="https://github.com/shareAI-lab/learn-claude-code">learn-claude-code</a></td><td>从零实现类 Claude Code Agent 框架</td><td>TS</td><td>49,356</td><td><span class="hot">+27,231</span></td><td><strong>中文教学黄金素材</strong></td></tr>
+          <tr><td>14</td><td><a href="https://github.com/obra/superpowers">superpowers</a></td><td>Agent 技能框架与方法论</td><td>Shell</td><td>138,288</td><td><span class="hot">+65,548</span></td><td>方法论级参考</td></tr>
+          <tr><td>15</td><td><a href="https://github.com/TauricResearch/TradingAgents">TradingAgents</a></td><td>多 Agent LLM 金融交易框架</td><td>Python</td><td>48,064</td><td><span class="stars">+16,606</span></td><td>金融方向，非核心</td></tr>
+          <tr><td>16</td><td><a href="https://github.com/langchain-ai/open-swe">open-swe</a></td><td>开源异步编码 Agent</td><td>Python</td><td>9,276</td><td><span class="stars">+4,011</span></td><td>SWE-bench 方向</td></tr>
+          <tr><td>17</td><td><a href="https://github.com/siddharthvaddem/openscreen">openscreen</a></td><td>免费开源录屏，无水印可商用</td><td>TS</td><td>24,650</td><td><span class="stars">+15,791</span></td><td><strong>实用工具</strong>——做教程视频可用</td></tr>
+          <tr><td>18</td><td><a href="https://github.com/volcengine/OpenViking">OpenViking</a></td><td>火山引擎 Agent 上下文数据库</td><td>Python</td><td>21,406</td><td><span class="stars">+16,565</span></td><td>评估是否可优化记忆系统</td></tr>
+          <tr><td>19</td><td><a href="https://github.com/alirezarezvani/claude-skills">claude-skills</a></td><td>220+ Claude Code Skills 合集</td><td>Python</td><td>9,848</td><td><span class="stars">+7,217</span></td><td>挑有用的 Skill 用</td></tr>
+          <tr><td>20</td><td><a href="https://github.com/promptfoo/promptfoo">promptfoo</a></td><td>AI 提示词和 Agent 测试框架</td><td>TS</td><td>19,671</td><td><span class="stars">+8,823</span></td><td>可用于 Skills 质量测试</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Product Hunt -->
+  <section id="producthunt" class="section">
+    <h2>Product Hunt</h2>
+
+    <h3>日榜 Top5</h3>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>产品</th><th>Tagline</th><th>投票</th><th>评论</th><th>行动建议</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td>FITYCAL</td><td>体脂追踪、瘦体重、进度管理</td><td>0</td><td>1</td><td>与 AI 无关，跳过</td></tr>
+          <tr><td>2</td><td><a href="https://www.producthunt.com/posts/sup-ai">Sup AI</a></td><td>Humanity's Last Exam #1 的 AI 系统</td><td>0</td><td>2</td><td><strong>强选题</strong>——反常识钩子</td></tr>
+          <tr><td>3</td><td><a href="https://www.producthunt.com/posts/chatgpt-ads-by-gauge">ChatGPT Ads by Gauge</a></td><td>ChatGPT 广告智能分析层</td><td>0</td><td>1</td><td>ChatGPT 广告生态信号</td></tr>
+          <tr><td>4</td><td>Dynamic Notch 2.0</td><td>Mac 刘海变命令中心</td><td>0</td><td>1</td><td>可入效率工具合集</td></tr>
+          <tr><td>5</td><td>Silkwave Voice</td><td>同时录麦克风和系统音频</td><td>0</td><td>1</td><td>播客录制场景可用</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>月榜 Top17</h3>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>产品</th><th>Tagline</th><th>投票</th><th>评论</th><th>行动建议</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td><a href="https://www.producthunt.com/posts/influcio-2">Influcio</a></td><td>AI 营销 Agent，数据驱动网红投放</td><td>533</td><td>31</td><td><strong>极高参考</strong>——测评「AI 帮你自动找 KOL」</td></tr>
+          <tr><td>2</td><td><a href="https://www.producthunt.com/posts/noiz-easter-voice">Noiz Easter Voice</a></td><td>砸彩蛋生成 AI 语音</td><td>479</td><td>77</td><td>增长策略可借鉴</td></tr>
+          <tr><td>3</td><td><a href="https://www.producthunt.com/posts/google-gemma-4">Google Gemma 4</a></td><td>Google 最强开放模型</td><td>436</td><td>8</td><td>与 Ollama 组合做本地 AI 教程</td></tr>
+          <tr><td>4</td><td><a href="https://www.producthunt.com/posts/google-vids-2-0">Google Vids 2.0</a></td><td>免费 AI 视频创作编辑</td><td>429</td><td>9</td><td><strong>强选题</strong>——对比测评</td></tr>
+          <tr><td>5</td><td><a href="https://www.producthunt.com/posts/ollama-v0-19">Ollama v0.19</a></td><td>Apple Silicon MLX 大幅加速</td><td>414</td><td>12</td><td>本地 AI 核心，必做教程</td></tr>
+          <tr><td>6</td><td>Moonshot</td><td>Mac 追踪 Artemis II 登月任务</td><td>412</td><td>36</td><td>非 AI，跳过</td></tr>
+          <tr><td>7</td><td><a href="https://www.producthunt.com/posts/claude-code-voice-mode">Claude Code Voice Mode</a></td><td>语音给 Claude Code 下指令</td><td>398</td><td>14</td><td><strong>强选题</strong>——「用嘴写代码」</td></tr>
+          <tr><td>8</td><td><a href="https://www.producthunt.com/posts/cursor-3-4">Cursor 3</a></td><td>本地/云端 Agent 并行统一工作区</td><td>370</td><td>15</td><td>与 Claude Code 对比做「双雄」</td></tr>
+          <tr><td>9</td><td>Panorama</td><td>AI 发现团队隐藏工作流</td><td>359</td><td>57</td><td>逆向工作流理念有趣</td></tr>
+          <tr><td>10</td><td>ZooClaw</td><td>多 AI 专家协同平台</td><td>355</td><td>44</td><td>Agent 团队产品化案例</td></tr>
+          <tr><td>11</td><td>Lightning V3</td><td>Voice Agent 专用 TTS</td><td>345</td><td>23</td><td>Agent 基础设施</td></tr>
+          <tr><td>12</td><td><a href="https://www.producthunt.com/posts/denovo">Denovo</a></td><td>睡觉时 AI 帮经营业务</td><td>288</td><td>94</td><td>反常识测评素材</td></tr>
+          <tr><td>13</td><td>Sleek Analytics</td><td>实时查看网站访客</td><td>284</td><td>50</td><td>非 AI，跳过</td></tr>
+          <tr><td>14</td><td>traceAI</td><td>开源 LLM 追踪</td><td>279</td><td>32</td><td>开发者向</td></tr>
+          <tr><td>15</td><td>KREV</td><td>电商品牌 AI 创意 Agent</td><td>274</td><td>22</td><td>电商 AI 素材生成</td></tr>
+          <tr><td>16</td><td>VoiceOS</td><td>语音 10 倍速工作</td><td>0</td><td>0</td><td>语音交互趋势信号</td></tr>
+          <tr><td>17</td><td>FITYCAL</td><td>体脂追踪</td><td>0</td><td>1</td><td>重复，跳过</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Hacker News -->
+  <section id="hackernews" class="section">
+    <h2>Hacker News Top 29</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>标题</th><th>分数</th><th>评论</th><th>行动建议</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1</td><td><a href="https://news.ycombinator.com/item?id=47614528">My Experience as a Rice Farmer</a></td><td>122</td><td>39</td><td>非 AI，跳过</td></tr>
+          <tr><td>2</td><td><a href="https://news.ycombinator.com/item?id=47672295">Every GPU That Mattered</a></td><td>5</td><td>0</td><td>可做「一张图看懂 GPU 40 年进化史」</td></tr>
+          <tr><td>3</td><td><a href="https://news.ycombinator.com/item?id=47666024">Ghost Pepper – 本地 macOS 语音转文字</a></td><td>364</td><td>170</td><td>端侧 AI 系列素材</td></tr>
+          <tr><td>4</td><td><a href="https://news.ycombinator.com/item?id=47669337">Solod – Go 子集编译到 C</a></td><td>122</td><td>32</td><td>编程语言向，非核心</td></tr>
+          <tr><td>5</td><td><a href="https://news.ycombinator.com/item?id=47660925">Claude Code 复杂工程任务不可用</a></td><td><span class="hot">1,052</span></td><td>587</td><td><strong>核心选题素材</strong>——争议度极高</td></tr>
+          <tr><td>6</td><td><a href="https://news.ycombinator.com/item?id=47659135">Sam Altman 控制人类未来，能信任吗？</a></td><td><span class="hot">1,346</span></td><td>543</td><td><strong>强选题</strong>——深夜电波</td></tr>
+          <tr><td>7</td><td><a href="https://news.ycombinator.com/item?id=47663147">Freestyle – Agent 编码沙箱</a></td><td>265</td><td>145</td><td>Agent 基础设施</td></tr>
+          <tr><td>8</td><td><a href="https://news.ycombinator.com/item?id=47641528">Apollo 制导计算机修复</a></td><td>52</td><td>8</td><td>极客向，跳过</td></tr>
+          <tr><td>9</td><td><a href="https://news.ycombinator.com/item?id=47662234">密码学家看量子计算时间线</a></td><td>456</td><td>186</td><td>可做反恐慌科普</td></tr>
+          <tr><td>10</td><td><a href="https://news.ycombinator.com/item?id=47667321">Peptides 入门</a></td><td>140</td><td>178</td><td>生物科技向，跳过</td></tr>
+          <tr><td>11</td><td><a href="https://news.ycombinator.com/item?id=47660954">德国警方公布勒索软件头目</a></td><td>300</td><td>146</td><td>安全新闻，交集不大</td></tr>
+          <tr><td>12</td><td><a href="https://news.ycombinator.com/item?id=47670981">300 个合成器和一个 App</a></td><td>15</td><td>0</td><td>音乐创作向，跳过</td></tr>
+          <tr><td>13</td><td><a href="https://news.ycombinator.com/item?id=47662945">GovAuctions 政府拍卖聚合</a></td><td>272</td><td>78</td><td>有趣但非 AI</td></tr>
+          <tr><td>14</td><td><a href="https://news.ycombinator.com/item?id=47671527">iPhone 应用收到神秘 Apple 更新</a></td><td>36</td><td>7</td><td>Apple 动态，观察</td></tr>
+          <tr><td>15</td><td><a href="https://news.ycombinator.com/item?id=47660286">被抄袭教会了我什么</a></td><td>399</td><td>201</td><td><strong>好选题</strong>——温暖小报</td></tr>
+          <tr><td>16</td><td><a href="https://news.ycombinator.com/item?id=47662596">AI 歌手占 iTunes 11 个位置</a></td><td><span class="hot">166 / 258评</span></td><td></td><td><strong>本期最高争议</strong>——AI 创作伦理</td></tr>
+          <tr><td>17</td><td><a href="https://news.ycombinator.com/item?id=47626242">6502 笔记本电脑第二版</a></td><td>12</td><td>0</td><td>极客向，跳过</td></tr>
+          <tr><td>18</td><td><a href="https://news.ycombinator.com/item?id=47636579">Anos 微内核</a></td><td>71</td><td>22</td><td>系统编程向，跳过</td></tr>
+          <tr><td>19</td><td><a href="https://news.ycombinator.com/item?id=47660853">《反模因部门不存在》书评</a></td><td>246</td><td>174</td><td>SCP 科幻，非核心</td></tr>
+          <tr><td>20</td><td><a href="https://news.ycombinator.com/item?id=47667717">Anthropic 与 Google/Broadcom 扩大算力</a></td><td>239</td><td>103</td><td>商业化加速信号</td></tr>
+          <tr><td>21</td><td><a href="https://news.ycombinator.com/item?id=47627998">Netflix VOID: 视频物体删除</a></td><td>157</td><td>47</td><td>Netflix AI，可做技术科普</td></tr>
+          <tr><td>22</td><td><a href="https://news.ycombinator.com/item?id=47667672">Hippo – 生物学启发的 Agent 记忆</a></td><td>90</td><td>17</td><td>Agent 记忆基础设施</td></tr>
+          <tr><td>23</td><td><a href="https://news.ycombinator.com/item?id=47637010">The Last Quiet Thing</a></td><td>219</td><td>121</td><td>文化评论，跳过</td></tr>
+          <tr><td>24</td><td><a href="https://news.ycombinator.com/item?id=47662116">Sky – 受 Elm 启发编译到 Go</a></td><td>166</td><td>58</td><td>编程语言向，跳过</td></tr>
+          <tr><td>25</td><td><a href="https://news.ycombinator.com/item?id=47647397">为智能眼镜开发 Web 应用</a></td><td>4</td><td>4</td><td>AR/智能眼镜方向</td></tr>
+          <tr><td>26</td><td><a href="https://news.ycombinator.com/item?id=47637828">Tusk for macOS and Gnome</a></td><td>93</td><td>30</td><td>工具类，非核心</td></tr>
+          <tr><td>27</td><td><a href="https://news.ycombinator.com/item?id=47669749">Heroku 怎么了？</a></td><td>58</td><td>21</td><td>云平台衰落叙事</td></tr>
+          <tr><td>28</td><td><a href="https://news.ycombinator.com/item?id=47664186">韦诺之战：开源回合制策略游戏</a></td><td>475</td><td>132</td><td>非 AI，跳过</td></tr>
+          <tr><td>29</td><td><a href="https://news.ycombinator.com/item?id=47627361">Graph-go – 零配置可视化</a></td><td>24</td><td>2</td><td>开发工具，非核心</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 张咋啦 AI -->
+  <section id="zara" class="section">
+    <h2>张咋啦 AI 更新</h2>
+    <p style="color:var(--text-muted);margin-bottom:1rem;">本日无新增内容。资源库为策展型静态推荐列表：25 个视频 + 12 个播客频道。</p>
+
+    <h3>高价值资源标注</h3>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>资源</th><th>创作者</th><th>行动建议</th></tr></thead>
+        <tbody>
+          <tr><td><a href="https://www.youtube.com/watch?v=_K_F_icxtrI">The Master Prompt Method</a></td><td>Tiago Forte</td><td><strong>立即可做</strong>——出中文版实操教程</td></tr>
+          <tr><td><a href="https://www.youtube.com/watch?v=d7Pb73dbcIM">Obsidian + Claude AI Agents</a></td><td>Mckay Wrigley</td><td><strong>立即可做</strong>——知识库管理体验分享</td></tr>
+          <tr><td><a href="https://www.youtube.com/watch?v=ysPbXH0LpIE">Prompting 101</a></td><td>Anthropic 官方</td><td>提炼核心技巧做中文解读版</td></tr>
+          <tr><td><a href="https://www.youtube.com/watch?v=AY4R2p2i8nM">19 岁少年靠 AI 赚百万</a></td><td>Brett Malinowski</td><td>人间AI 栏目选题原型</td></tr>
+          <tr><td><a href="https://www.youtube.com/watch?v=7xTGNNLPyMI">Deep Dive into LLMs</a></td><td>Karpathy</td><td>可做「Karpathy 教我的 5 件事」</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>播客推荐（优先级排序）</h3>
+    <div style="margin-top:0.5rem;">
+      <div style="padding:0.5rem 0;border-bottom:1px solid var(--border);font-size:0.9rem;"><strong style="color:var(--accent);">1. Latent Space</strong> — AI 工程师社区，技术深度最高</div>
+      <div style="padding:0.5rem 0;border-bottom:1px solid var(--border);font-size:0.9rem;"><strong style="color:var(--accent);">2. AI &amp; I</strong> — 聪明人怎么用 AI，偏人文视角，与 01fish 人设最匹配</div>
+      <div style="padding:0.5rem 0;font-size:0.9rem;"><strong style="color:var(--accent);">3. The AI Daily Brief</strong> — 每日 AI 快讯，省刷 Twitter</div>
+    </div>
+  </section>
+
+  <!-- Follow Builders -->
+  <section id="builders" class="section">
+    <h2>Follow Builders 动态</h2>
+
+    <h3>重要推文</h3>
+    <div class="tweet-card"><div class="avatar">T</div><div style="flex:1;"><div><span class="name">Thariq</span> <span class="handle">@trq212 · Claude Code 团队</span></div><div>公开征集 MAX 20x token 异常用户做 screenshare</div></div><div class="likes">❤️ 1,447 / 💬 301</div></div>
+    <div class="tweet-card"><div class="avatar">T</div><div style="flex:1;"><div><span class="name">Thariq</span> <span class="handle">@trq212</span></div><div>预告明天展示未发布新功能</div></div><div class="likes">❤️ 355</div></div>
+    <div class="tweet-card"><div class="avatar">G</div><div style="flex:1;"><div><span class="name">Garry Tan</span> <span class="handle">@garrytan · YC CEO</span></div><div>曝光 Cowork 文件泄露漏洞</div></div><div class="likes">❤️ 108</div></div>
+    <div class="tweet-card"><div class="avatar">P</div><div style="flex:1;"><div><span class="name">Peter Yang</span> <span class="handle">@petergyang</span></div><div>「Token 用量衡量生产力和代码行数一样蠢」</div></div><div class="likes">❤️ 91</div></div>
+    <div class="tweet-card"><div class="avatar">P</div><div style="flex:1;"><div><span class="name">Peter Yang</span> <span class="handle">@petergyang</span></div><div>「Coding will eat all knowledge work」</div></div><div class="likes">❤️ 74</div></div>
+    <div class="tweet-card"><div class="avatar">A</div><div style="flex:1;"><div><span class="name">Aaron Levie</span> <span class="handle">@levie · Box CEO</span></div><div>「工作上移一层抽象：管理 Agent 做事」</div></div><div class="likes">❤️ 112</div></div>
+    <div class="tweet-card"><div class="avatar">Z</div><div style="flex:1;"><div><span class="name">Zara Zhang</span> <span class="handle">@zarazhangrui</span></div><div>「用 AI 做产品，先想能砍什么功能」</div></div><div class="likes">❤️ 96</div></div>
+    <div class="tweet-card"><div class="avatar">Z</div><div style="flex:1;"><div><span class="name">Zara Zhang</span> <span class="handle">@zarazhangrui</span></div><div>用 Fish Audio API 生成个性化播客</div></div><div class="likes">❤️ 55</div></div>
+    <div class="tweet-card"><div class="avatar">D</div><div style="flex:1;"><div><span class="name">Dan Shipper</span> <span class="handle">@danshipper · Every CEO</span></div><div>反驳「AI 消灭层级」——context rot 需要专业化</div></div><div class="likes">❤️ 77</div></div>
+    <div class="tweet-card"><div class="avatar">N</div><div style="flex:1;"><div><span class="name">Nikunj Kothari</span> <span class="handle">@nikunj</span></div><div>Anthropic 3 个月增 $21B，月化 ARR $11B</div></div><div class="likes">❤️ 50</div></div>
+
+    <h3 style="margin-top:1.5rem;">播客</h3>
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1rem;margin-top:0.5rem;font-size:0.9rem;">
+      <strong style="color:var(--accent4);">Latent Space</strong>：Mistral 专题——Voxtral TTS、Forge、Leanstral、Mistral 4 路线图<br>
+      <span style="color:var(--text-muted);">嘉宾：Pavan Kumar Reddy（音频研究负责人）+ Guillaume Lample（首席科学家）</span>
+    </div>
+  </section>
+
+  <!-- Reddit -->
+  <section id="reddit" class="section">
+    <h2>Reddit AI 社区热议</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>#</th><th>标题</th><th>社区</th><th>行动建议</th></tr></thead>
+        <tbody>
+          <tr><td>1</td><td>"Cognitive surrender" 让 AI 用户放弃逻辑思考</td><td>r/artificial</td><td><strong>强选题</strong>——「认知投降」深夜电波</td></tr>
+          <tr><td>2</td><td>AI 分拣机器加速中国纺织回收</td><td>r/artificial</td><td>实体 AI 案例，可入「人间AI」</td></tr>
+          <tr><td>3</td><td>AI is struggling to take our jobs</td><td>r/artificial</td><td>反叙事素材</td></tr>
+          <tr><td>4</td><td>日本采用机器人和物理 AI</td><td>r/artificial</td><td>国际 AI 应用趋势</td></tr>
+          <tr><td>5</td><td>Hybrid Attention 架构</td><td>r/artificial</td><td>技术论文，了解即可</td></tr>
+          <tr><td>6</td><td>I Built a Functional Cognitive Engine</td><td>r/artificial</td><td>个人项目，非核心</td></tr>
+          <tr><td>7</td><td>AI Agent 修复云故障，不再半夜被叫醒</td><td>r/artificial</td><td><strong>好素材</strong>——「AI 帮我值夜班」</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Polymarket -->
+  <section id="polymarket" class="section">
+    <h2>Polymarket 热门</h2>
+    <p style="color:var(--text-muted);font-size:0.9rem;">以地缘政治为主（美伊局势占 Top 8 中 6 席，2028 大选候选人），无直接科技/AI 预测市场。</p>
+    <p style="color:var(--text-muted);font-size:0.9rem;margin-top:0.5rem;">唯一科技相关信号：伊朗威胁 OpenAI Stargate 数据中心——AI 基础设施开始成为地缘政治目标。</p>
+  </section>
+
+  <!-- 跨源强信号 -->
+  <section id="signals" class="section">
+    <h2>跨源强信号</h2>
+
+    <div class="signal-card">
+      <h4>1. Claude Code 生态爆发与信任危机并行</h4>
+      <div style="font-size:0.82rem;color:var(--text-muted);margin-bottom:0.5rem;">GitHub + PH + HN + Twitter</div>
+      <p style="margin-bottom:0.8rem;font-size:0.9rem;">Claude Code 生态在数据层面是 AI 编程领域最大的社区现象，但同时面临质量退化和安全漏洞的双重信任挑战</p>
+      <ul class="evidence" style="padding-left:1.2rem;margin-bottom:0.8rem;">
+        <li>GitHub 月榜 5 个 Claude Code 项目同时上榜：everything-claude-code +80,296、superpowers +65,548</li>
+        <li>HN「Claude Code unusable」1,052 分 / 587 评论，争议度极高</li>
+        <li>Thariq 调查 token 异常（1,447 赞）；Garry Tan 曝 Cowork 漏洞</li>
+        <li>Anthropic 3 个月增 $21B，月化 ARR $11B</li>
+      </ul>
+      <div class="action">正反素材俱全的「完美选题窗口」——明天 Thariq 还有新功能发布，时效性极强</div>
+    </div>
+
+    <div class="signal-card">
+      <h4>2. AI Agent 从概念到产品：「一个人 = 一家公司」</h4>
+      <div style="font-size:0.82rem;color:var(--text-muted);margin-bottom:0.5rem;">GitHub + PH + HN + Twitter</div>
+      <p style="margin-bottom:0.8rem;font-size:0.9rem;">Agent 框架从百花齐放进入产品化阶段，基础设施同步成熟</p>
+      <ul class="evidence" style="padding-left:1.2rem;margin-bottom:0.8rem;">
+        <li>agency-agents +64,098、deer-flow +33,924、Goose +1,523/天</li>
+        <li>基础设施：Hippo（记忆）、Freestyle（沙箱）、impeccable（设计）、lightpanda（浏览器）</li>
+        <li>Aaron Levie「工作上移一层抽象」、Peter Yang「Coding will eat all knowledge work」</li>
+      </ul>
+      <div class="action">agency-agents「一个人 = 一家公司」叙事完美契合 01fish 人设</div>
+    </div>
+
+    <div class="signal-card">
+      <h4>3. 端侧 AI 闭环形成</h4>
+      <div style="font-size:0.82rem;color:var(--text-muted);margin-bottom:0.5rem;">GitHub + PH + HN</div>
+      <p style="margin-bottom:0.8rem;font-size:0.9rem;">模型开源 + 推理优化 + 端侧应用三位一体同时到位</p>
+      <ul class="evidence" style="padding-left:1.2rem;margin-bottom:0.8rem;">
+        <li>模型层：Gemma 4（PH 436 票）</li>
+        <li>推理层：Ollama v0.19（PH 414 票）、LiteRT-LM（+483/天）</li>
+        <li>应用层：Ghost Pepper（HN 364 分）、AI Edge Gallery（+1,107/天）</li>
+      </ul>
+      <div class="action">「不花钱、不联网、数据不出电脑」是对普通人最有杀伤力的 AI 叙事</div>
+    </div>
+
+    <div class="signal-card">
+      <h4>4. AI 信任危机多点爆发</h4>
+      <div style="font-size:0.82rem;color:var(--text-muted);margin-bottom:0.5rem;">HN + Reddit + Twitter</div>
+      <p style="margin-bottom:0.8rem;font-size:0.9rem;">AI 的权力集中、产品质量、创作伦理同时遭到质疑</p>
+      <ul class="evidence" style="padding-left:1.2rem;margin-bottom:0.8rem;">
+        <li>HN 当日 Top 2：Sam Altman 权力质疑（1,346 分）+ Claude Code 质量退化（1,052 分）</li>
+        <li>AI 歌手霸榜 iTunes（争议比 1.54 为本期最高）</li>
+        <li>Reddit「Cognitive surrender」——AI 让人放弃逻辑思考</li>
+      </ul>
+      <div class="action">信任危机 = 深夜电波栏目的天然素材</div>
+    </div>
+  </section>
+
+  <!-- 选题建议 -->
+  <section id="topics" class="section">
+    <h2>01fish 选题建议</h2>
+    <p style="color:var(--text-muted);font-size:0.88rem;margin-bottom:1.5rem;">按优先级排序，已结合「有用有趣」标准和「AI + 普通人」定位</p>
+
+    <div class="topic-card">
+      <div class="priority">优先级 1</div>
+      <h4>Claude Code 到底行不行？14 万星生态 vs 千人吐槽，我用了一周告诉你真相</h4>
+      <div class="meta">
+        <span class="tag">工具小铺</span>
+        <span class="tag">公众号 + 短视频</span>
+        <span class="tag">时效窗口 48h</span>
+      </div>
+      <div class="desc">从 HN 上 1052 分吐槽帖出发，自己实测 Claude Code 处理复杂任务，对比 Cursor 3。穿插 Thariq 调查 token 问题、Garry Tan 曝安全漏洞、Anthropic $11B ARR 等戏剧性细节。钩子：具体冲突（14 万星 vs 千人吐槽）</div>
+    </div>
+
+    <div class="topic-card">
+      <div class="priority">优先级 2</div>
+      <h4>一个不存在的歌手，霸占了真人音乐榜 11 个位置</h4>
+      <div class="meta">
+        <span class="tag">深夜电波</span>
+        <span class="tag">公众号</span>
+      </div>
+      <div class="desc">AI 歌手 Eddie Dalton 霸榜 iTunes，HN 258 条评论激烈争论（争议比 1.54 本期最高）。结合 Reddit「cognitive surrender」研究——当人类开始无意识地接受 AI 创作，创作的意义怎么变？钩子：反常识（不存在的人比真人更受欢迎）</div>
+    </div>
+
+    <div class="topic-card">
+      <div class="priority">优先级 3</div>
+      <h4>不花一分钱、不联网，在你的电脑上跑 AI——2026 本地 AI 完全指南</h4>
+      <div class="meta">
+        <span class="tag">工具小铺 / 生活实验</span>
+        <span class="tag">公众号 + 小红书</span>
+      </div>
+      <div class="desc">Gemma 4 + Ollama v0.19 实测。写作、翻译、代码等日常任务表现。强调免费 + 隐私 + 离线。钩子：数字冲击（免费 + 不联网 + 本地跑）</div>
+    </div>
+
+    <div class="topic-card">
+      <div class="priority">优先级 4</div>
+      <h4>Box CEO 说「你的工作不再是做事，是管 AI 做事」——普通人该怎么办？</h4>
+      <div class="meta">
+        <span class="tag">人间AI</span>
+        <span class="tag">公众号</span>
+      </div>
+      <div class="desc">Aaron Levie、Peter Yang、Dan Shipper 同一天集中讨论 Agent 时代工作本质变化。三种观点碰撞，用普通人语言解释，给 3 个具体入门行动。钩子：悬念（你的工作正在被重新定义）</div>
+    </div>
+
+    <div class="topic-card">
+      <div class="priority">优先级 5</div>
+      <h4>用嘴写代码是什么体验？Claude Code Voice Mode 实测</h4>
+      <div class="meta">
+        <span class="tag">工具小铺</span>
+        <span class="tag">短视频 + 公众号</span>
+      </div>
+      <div class="desc">Claude Code Voice Mode 实测体验，编程从打字变说话。强调「编程民主化」——不会打字的人也能写代码。钩子：反常识（用嘴写代码）</div>
+    </div>
+  </section>
+
+  <!-- 观察列表 -->
+  <section id="watchlist" class="section">
+    <h2>观察列表</h2>
+    <ul class="watch-list">
+      <li><strong>4/8 重点跟进</strong>：Claude Code 团队 12pm PT 展示未发布新功能（Thariq 预告），关注是否回应社区批评</li>
+      <li>Anthropic $11B ARR + Google/Broadcom 算力合作——商业化加速是否影响 Claude Code 免费层</li>
+      <li>Cowork 安全漏洞（Garry Tan 曝光）后续修复和官方回应</li>
+      <li>MiroFish 月涨 4.5 万星，关注是否有非金融领域应用案例</li>
+      <li>「Cognitive surrender」研究后续——可成为深夜电波系列选题</li>
+      <li>Mistral 4 路线图（Latent Space 播客）对 Claude/GPT 格局的影响</li>
+      <li>agency-agents「一个人=一家公司」框架——评估是否值得做完整体验系列</li>
+      <li>Sup AI（ensemble AI，Humanity's Last Exam #1）——关注 ensemble 架构是否成为新趋势</li>
+      <li>OpenViking 上下文管理理念——评估是否可优化 01fish-assistant 记忆系统</li>
+    </ul>
+  </section>
+
+  <!-- Footer -->
+  <div class="footer">
+    <p>📡 科技雷达日报 · 2026-04-07</p>
+    <p style="margin-top:0.3rem;">01fish，陪你听故事</p>
+    <p style="margin-top:0.5rem;font-size:0.75rem;">5 源并行采集：GitHub Trending · Product Hunt · Hacker News · 张咋啦 AI · Follow Builders</p>
+  </div>
+
+</div>
+</body>
+</html>

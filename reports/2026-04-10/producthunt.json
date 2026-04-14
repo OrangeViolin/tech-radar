@@ -1,0 +1,216 @@
+{
+  "source": "producthunt",
+  "timestamp": "2026-04-10T01:28:51.813Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Brila",
+          "tagline": "One-page websites from real Google Maps reviews",
+          "votesCount": 1030,
+          "commentsCount": 0,
+          "url": "https://www.producthunt.com/posts/brila-2",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "ProdShort",
+          "tagline": "Turn meetings into ready-to-post shorts and posts",
+          "votesCount": 577,
+          "commentsCount": 0,
+          "url": "https://www.producthunt.com/posts/prodshort",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "Offsite",
+          "tagline": "Build teams of humans and agents, watch them work.",
+          "votesCount": 449,
+          "commentsCount": 0,
+          "url": "https://www.producthunt.com/posts/offsite-3",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "riffle",
+          "tagline": "An infinite, collaborative playground for music creation",
+          "votesCount": 270,
+          "commentsCount": 0,
+          "url": "https://www.producthunt.com/posts/riffle-3",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "Morsel",
+          "tagline": "Strava for cooking",
+          "votesCount": 212,
+          "commentsCount": 0,
+          "url": "https://www.producthunt.com/posts/morsel-3",
+          "topics": []
+        }
+      ]
+    },
+    "monthly": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "name": "Velo",
+          "tagline": "Share anything as video messages",
+          "votesCount": 631,
+          "commentsCount": 144,
+          "url": "https://www.producthunt.com/posts/velo-10",
+          "topics": []
+        },
+        {
+          "rank": 2,
+          "name": "NovaVoice",
+          "tagline": "Smart dictation, AI assistant, + app control via voice",
+          "votesCount": 556,
+          "commentsCount": 137,
+          "url": "https://www.producthunt.com/posts/novavoice",
+          "topics": []
+        },
+        {
+          "rank": 3,
+          "name": "Influcio",
+          "tagline": "AI marketing Agent for result-driven influencer campaign",
+          "votesCount": 537,
+          "commentsCount": 34,
+          "url": "https://www.producthunt.com/posts/influcio-2",
+          "topics": []
+        },
+        {
+          "rank": 4,
+          "name": "Noiz Easter Voice",
+          "tagline": "Crack an Easter egg to generate an AI voice",
+          "votesCount": 477,
+          "commentsCount": 77,
+          "url": "https://www.producthunt.com/posts/noiz-easter-voice",
+          "topics": []
+        },
+        {
+          "rank": 5,
+          "name": "Lessie AI",
+          "tagline": "Search, Reach and Connect - Find the perfect fit, 10x faster",
+          "votesCount": 448,
+          "commentsCount": 145,
+          "url": "https://www.producthunt.com/posts/lessie-ai-2",
+          "topics": []
+        },
+        {
+          "rank": 6,
+          "name": "Google Gemma 4",
+          "tagline": "Google's most intelligent open models to date",
+          "votesCount": 445,
+          "commentsCount": 8,
+          "url": "https://www.producthunt.com/posts/google-gemma-4",
+          "topics": []
+        },
+        {
+          "rank": 7,
+          "name": "Google Vids 2.0",
+          "tagline": "Create, edit and share videos at no cost w/ new AI features",
+          "votesCount": 435,
+          "commentsCount": 9,
+          "url": "https://www.producthunt.com/posts/google-vids-2-0",
+          "topics": []
+        },
+        {
+          "rank": 8,
+          "name": "Moonshot ",
+          "tagline": "Track the Artemis II mission from your Mac",
+          "votesCount": 435,
+          "commentsCount": 37,
+          "url": "https://www.producthunt.com/posts/moonshot-8",
+          "topics": []
+        },
+        {
+          "rank": 9,
+          "name": "Ollama v0.19",
+          "tagline": "Massive local model speedup on Apple Silicon with MLX",
+          "votesCount": 423,
+          "commentsCount": 12,
+          "url": "https://www.producthunt.com/posts/ollama-v0-19",
+          "topics": []
+        },
+        {
+          "rank": 10,
+          "name": "Claude Code Voice Mode",
+          "tagline": "Speak your prompts into Claude Code",
+          "votesCount": 407,
+          "commentsCount": 16,
+          "url": "https://www.producthunt.com/posts/claude-code-voice-mode",
+          "topics": []
+        },
+        {
+          "rank": 11,
+          "name": "Cursor 3",
+          "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
+          "votesCount": 379,
+          "commentsCount": 15,
+          "url": "https://www.producthunt.com/posts/cursor-3-4",
+          "topics": []
+        },
+        {
+          "rank": 12,
+          "name": "Google Chrome Vertical Tabs",
+          "tagline": "Chrome now supports vertical tabs and immersive reading mode",
+          "votesCount": 372,
+          "commentsCount": 19,
+          "url": "https://www.producthunt.com/posts/google-chrome-vertical-tabs",
+          "topics": []
+        },
+        {
+          "rank": 13,
+          "name": "Panorama",
+          "tagline": "AI that finds your team’s workflows and hidden structures",
+          "votesCount": 363,
+          "commentsCount": 57,
+          "url": "https://www.producthunt.com/posts/panorama",
+          "topics": []
+        },
+        {
+          "rank": 14,
+          "name": "Flint",
+          "tagline": "Launch on-brand pages for every campaign, ad, and prospect.",
+          "votesCount": 350,
+          "commentsCount": 27,
+          "url": "https://www.producthunt.com/posts/flint-6",
+          "topics": []
+        },
+        {
+          "rank": 15,
+          "name": "Lightning V3",
+          "tagline": "Text-to-Speech built for Voice Agents",
+          "votesCount": 345,
+          "commentsCount": 23,
+          "url": "https://www.producthunt.com/posts/lightning-v3",
+          "topics": []
+        },
+        {
+          "rank": 16,
+          "name": "ZooClaw",
+          "tagline": "Your proactive team of AI specialists in one place",
+          "votesCount": 337,
+          "commentsCount": 49,
+          "url": "https://www.producthunt.com/posts/zooclaw",
+          "topics": []
+        },
+        {
+          "rank": 17,
+          "name": "SuperShrimp",
+          "tagline": "Fix your terrible posture",
+          "votesCount": 330,
+          "commentsCount": 17,
+          "url": "https://www.producthunt.com/posts/supershrimp",
+          "topics": []
+        }
+      ]
+    }
+  },
+  "items": []
+}

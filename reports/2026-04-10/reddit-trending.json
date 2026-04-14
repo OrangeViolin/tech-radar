@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-10T01:28:50.341Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 60
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/",
+      "author": "",
+      "created_utc": "2026-04-09T13:22:35+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "AI CEO vs Engineer (2026).",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgsldo/ai_ceo_vs_engineer_2026/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgsldo/ai_ceo_vs_engineer_2026/",
+      "author": "",
+      "created_utc": "2026-04-09T15:18:24+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "US firm's humanoid robot tracks emotions with AI, recalls past conversations",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgs8ef/us_firms_humanoid_robot_tracks_emotions_with_ai/",
+      "author": "",
+      "created_utc": "2026-04-09T15:05:38+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sh1gp5/ohio_man_becomes_first_to_be_convicted_under_new/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sh1gp5/ohio_man_becomes_first_to_be_convicted_under_new/",
+      "author": "",
+      "created_utc": "2026-04-09T20:33:18+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/",
+      "author": "",
+      "created_utc": "2026-04-09T18:50:11+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/",
+      "author": "",
+      "created_utc": "2026-04-09T18:29:55+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "I legitimately think Anthropic is worth $100B more than it was a week ago",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/",
+      "author": "",
+      "created_utc": "2026-04-09T14:55:38+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "Compiler as a service for AI agents.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgjb8n/compiler_as_a_service_for_ai_agents/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgjb8n/compiler_as_a_service_for_ai_agents/",
+      "author": "",
+      "created_utc": "2026-04-09T08:00:15+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/",
+      "author": "",
+      "created_utc": "2026-04-09T11:32:05+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/",
+      "author": "",
+      "created_utc": "2026-04-09T10:49:30+00:00"
+    }
+  ]
+}

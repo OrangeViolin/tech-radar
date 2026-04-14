@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-07T10:35:48.760Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 60
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/",
+      "author": "",
+      "created_utc": "2026-04-06T15:49:08+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/",
+      "author": "",
+      "created_utc": "2026-04-06T11:42:32+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "AI is struggling to take our jobs",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/",
+      "author": "",
+      "created_utc": "2026-04-06T20:46:37+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Japan is adopting robotics and physical AI, with a model where startups innovate and corporations provide scale",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sdx5ih/japan_is_adopting_robotics_and_physical_ai_with_a/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sdx5ih/japan_is_adopting_robotics_and_physical_ai_with_a/",
+      "author": "",
+      "created_utc": "2026-04-06T12:14:01+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "If an AI could genuinely capture what makes someone them, how would this look in the world?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/",
+      "author": "",
+      "created_utc": "2026-04-06T23:16:38+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Attention Is All You Need, But All You Can't Afford | Hybrid Attention",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/",
+      "author": "",
+      "created_utc": "2026-04-07T02:21:08+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "30 Billion ( 3x in 3 months) WTF is thr future",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/",
+      "author": "",
+      "created_utc": "2026-04-07T08:33:21+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "94.42% on BANKING77 Official Test Split — New Strong 2nd Place with Lightweight Embedding + Rerank (no 7B LLM)",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seevgd/9442_on_banking77_official_test_split_new_strong/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seevgd/9442_on_banking77_official_test_split_new_strong/",
+      "author": "",
+      "created_utc": "2026-04-06T23:13:52+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "I Built a Functional Cognitive Engine",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1se34g7/i_built_a_functional_cognitive_engine/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1se34g7/i_built_a_functional_cognitive_engine/",
+      "author": "",
+      "created_utc": "2026-04-06T16:05:25+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "China drafts law regulating 'digital humans' and banning addictive virtual services for children",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/",
+      "author": "",
+      "created_utc": "2026-04-07T08:41:24+00:00"
+    }
+  ]
+}

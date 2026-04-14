@@ -1,0 +1,495 @@
+{
+  "source": "follow-builders",
+  "timestamp": "2026-04-12T07:19:36.547Z",
+  "count": 12,
+  "metadata": {
+    "generatedAt": "2026-04-12T07:10:52.880Z",
+    "tweets": {
+      "count": 11,
+      "totalTweets": 18,
+      "items": [
+        {
+          "name": "Swyx",
+          "handle": "@swyx",
+          "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+          "topTweets": [
+            {
+              "text": "flew straight back from London town to get ready for my Broadway cabaret tonight !!\n\n(sorry didnt advertise… its v limited seating) https://t.co/H2FS34JwFB",
+              "likes": 39,
+              "retweets": 0,
+              "replies": 11,
+              "url": "https://x.com/swyx/status/2043095815577833619",
+              "createdAt": "2026-04-11T22:36:15.000Z"
+            },
+            {
+              "text": "late night low TAM tweet:\n\ndid a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! https://t.co/1Yh31lH68z https://t.co/mi9jwudyFd",
+              "likes": 15,
+              "retweets": 0,
+              "replies": 2,
+              "url": "https://x.com/swyx/status/2043217991589102027",
+              "createdAt": "2026-04-12T06:41:45.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "\"Can AI learn design taste?\"\n\nThere's no better person to ask this question to than Figma's CEO.\n\nI had a great chat with Dylan about this and other tough topics like:\n\n→ Whether design systems constrain creativity\n→ How Figma plans to compete in the AI era\n\n📌 Subscribe to get t",
+              "likes": 72,
+              "retweets": 6,
+              "replies": 7,
+              "url": "https://x.com/petergyang/status/2042950869734567998",
+              "createdAt": "2026-04-11T13:00:18.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Thariq",
+          "handle": "@trq212",
+          "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "topTweets": [
+            {
+              "text": "there's a turbotax connector in Claude Code now, so glad I procrastinated on taxes 😭 https://t.co/EIOfnPq0xd",
+              "likes": 1467,
+              "retweets": 45,
+              "replies": 77,
+              "url": "https://x.com/trq212/status/2043138221836746762",
+              "createdAt": "2026-04-12T01:24:46.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Guillermo Rauch",
+          "handle": "@rauchg",
+          "bio": "@vercel CEO",
+          "topTweets": [
+            {
+              "text": "Vercel Sandbox is now the #1 fastest microVM-based Sandbox.\n\nWe’ve also heard from customers migrating that beyond “in the lab” benchmarks, our real-world performance & reliability are second-to-none. Literally.\n\nWhether it’s 🦞 claws, coding agents, or plain compute parallelism,",
+              "likes": 355,
+              "retweets": 21,
+              "replies": 32,
+              "url": "https://x.com/rauchg/status/2043020059896091016",
+              "createdAt": "2026-04-11T17:35:14.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "We will likely have more lawyers in the future than today, because:\n\n1) AI will cause so many more people to ask legal questions which will encourage them to need to verify or execute through an actual lawyer. \n\n2) AI will cause an explosion of more and more exotic legal terms th",
+              "likes": 366,
+              "retweets": 48,
+              "replies": 44,
+              "url": "https://x.com/levie/status/2043051227387433144",
+              "createdAt": "2026-04-11T19:39:05.000Z"
+            },
+            {
+              "text": "This chart puts the datacenter demands into perspective very clearly. Amazon has done more capex in the last 3 years than its entire history. \n\nRight now most AI adoption is on chat tools that are relatively token efficient. Comparatively, coding agents, use orders of magnitude m",
+              "likes": 70,
+              "retweets": 15,
+              "replies": 16,
+              "url": "https://x.com/levie/status/2043192337111924930",
+              "createdAt": "2026-04-12T04:59:48.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+          "topTweets": [
+            {
+              "text": "If your memory dies when your harness dies, you built the harness too thick.\n\nMemory is markdown. Skills are markdown. Brain is a git repo. The harness is a thin conductor — it reads the files, it doesn't own them. https://t.co/JPjnu2FhV6",
+              "likes": 119,
+              "retweets": 10,
+              "replies": 14,
+              "url": "https://x.com/garrytan/status/2043198780800197025",
+              "createdAt": "2026-04-12T05:25:24.000Z"
+            },
+            {
+              "text": "Here is my counterpoint after 3 months of releasing open source used by tens of thousands of agentic engineers per day. \n\nThin harness, fat skills: \n\nhttps://t.co/K2Sx8Cb4tz",
+              "likes": 28,
+              "retweets": 1,
+              "replies": 2,
+              "url": "https://x.com/garrytan/status/2043198783006355747",
+              "createdAt": "2026-04-12T05:25:25.000Z"
+            },
+            {
+              "text": "What a powerful education in latency and how to build voice systems \n\n… all just by chatting with the Claw https://t.co/0bHezE7lzW",
+              "likes": 11,
+              "retweets": 0,
+              "replies": 3,
+              "url": "https://x.com/garrytan/status/2043188801175220306",
+              "createdAt": "2026-04-12T04:45:45.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Matt Turck",
+          "handle": "@mattturck",
+          "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+          "topTweets": [
+            {
+              "text": "\"There are some many vendors in AI for customer service, it's basically a solved problem\" https://t.co/Kd8GLBAFPL",
+              "likes": 14,
+              "retweets": 1,
+              "replies": 1,
+              "url": "https://x.com/mattturck/status/2043114808875077789",
+              "createdAt": "2026-04-11T23:51:44.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Zara Zhang",
+          "handle": "@zarazhangrui",
+          "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+          "topTweets": [
+            {
+              "text": "The most efficient way for humans to collaborate: do not collaborate\n\nOne person should own something end-to-end and work with agents",
+              "likes": 140,
+              "retweets": 15,
+              "replies": 49,
+              "url": "https://x.com/zarazhangrui/status/2043187721989149146",
+              "createdAt": "2026-04-12T04:41:28.000Z"
+            },
+            {
+              "text": "Human communication will be for\n- deciding what to work on &amp; what \"good\" looks like\n- keeping each other company &amp; preventing loneliness/establishing camaraderie\n- creative brainstorming &amp; bouncing ideas off each other\n\nNot for project syncs, status updates, handovers",
+              "likes": 13,
+              "retweets": 4,
+              "replies": 0,
+              "url": "https://x.com/zarazhangrui/status/2043202553538925031",
+              "createdAt": "2026-04-12T05:40:24.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "VCs: please take this low valuation since I’m investing in you and my conviction is worth the price. I’m invested for the long long term. \n\n6 months later..\n\nSame VC: take the highest possible valuation because why not. Who cares about the partner or fund name. Less dilution is g",
+              "likes": 151,
+              "retweets": 6,
+              "replies": 9,
+              "url": "https://x.com/nikunj/status/2043092455550259341",
+              "createdAt": "2026-04-11T22:22:54.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: \n1) Strict mode:\n\nagents.defaults.embeddedPi.executionContract = \"strict-agentic\"\n\nThis tells GPT-5.x to keep working: read more code, call tools, make changes, or return a real blocker instead of stoppin",
+              "likes": 1009,
+              "retweets": 58,
+              "replies": 82,
+              "url": "https://x.com/steipete/status/2043136615640694797",
+              "createdAt": "2026-04-12T01:18:23.000Z"
+            },
+            {
+              "text": "2) Native Codex as the OpenClaw harness:\n\nplugins.entries.codex.enabled = true\nagents.defaults.model = \"codex/gpt-5.4\"\nagents.defaults.embeddedHarness = { runtime: \"codex\", fallback: \"none\" }\n\nCodex owns threads, resume, compaction, app-server execution. https://t.co/9DDpY6TMqf",
+              "likes": 165,
+              "retweets": 3,
+              "replies": 6,
+              "url": "https://x.com/steipete/status/2043136620006961384",
+              "createdAt": "2026-04-12T01:18:24.000Z"
+            },
+            {
+              "text": "Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi harness with e.g. Anthropic’s SDK or another custom one.\n\nThis won't magically allow Claude subscription, but it's useful to compare different implementations.\n\nUsing codex as harness will likely w",
+              "likes": 116,
+              "retweets": 1,
+              "replies": 5,
+              "url": "https://x.com/steipete/status/2043136624469619050",
+              "createdAt": "2026-04-12T01:18:25.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aditya Agarwal",
+          "handle": "@adityaag",
+          "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+          "topTweets": [
+            {
+              "text": "The big difference between a true \"agent\" and simply running an LLM in a loop (or an event-based trigger) is how you do intelligent long-horizon memory management.\n\nBy far the most interesting aspect of the Claude Code architecture was their 3-tier memory architecture.",
+              "likes": 96,
+              "retweets": 4,
+              "replies": 8,
+              "url": "https://x.com/adityaag/status/2043144970060939487",
+              "createdAt": "2026-04-12T01:51:35.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 1,
+      "items": [
+        {
+          "name": "No Priors",
+          "title": "The Agentic Economy: How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire",
+          "url": "https://www.youtube.com/@NoPriorsPodcast",
+          "publishedAt": "2026-04-09T10:00:00.000Z",
+          "transcriptLength": 48237,
+          "transcriptPreview": "Speaker 1 | 00:05 - 00:19\nToday I know Priors, have Jeremy Allaire, the co founder and CEO of Circle. We'll be talking about cryptocurrency, AI, agentic payments, AI evolving on the blockchain, and a variety of other topics. Great. Well, thank you so much for joining us today. It's a pleasure to have you.\n\nSpeaker 2 | 00:19 - 00:22\nIt's great to be here. Thank you. So maybe we can start with\n\nSpeaker 1 | 00:22 - 00:36\nyou just giving a quick overview of Circle, what you do, how you approach the "
+        }
+      ]
+    },
+    "blogs": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "items": [
+    {
+      "name": "Swyx",
+      "handle": "@swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "topTweets": [
+        {
+          "text": "flew straight back from London town to get ready for my Broadway cabaret tonight !!\n\n(sorry didnt advertise… its v limited seating) https://t.co/H2FS34JwFB",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 11,
+          "url": "https://x.com/swyx/status/2043095815577833619",
+          "createdAt": "2026-04-11T22:36:15.000Z"
+        },
+        {
+          "text": "late night low TAM tweet:\n\ndid a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! https://t.co/1Yh31lH68z https://t.co/mi9jwudyFd",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 2,
+          "url": "https://x.com/swyx/status/2043217991589102027",
+          "createdAt": "2026-04-12T06:41:45.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "@petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "topTweets": [
+        {
+          "text": "\"Can AI learn design taste?\"\n\nThere's no better person to ask this question to than Figma's CEO.\n\nI had a great chat with Dylan about this and other tough topics like:\n\n→ Whether design systems constrain creativity\n→ How Figma plans to compete in the AI era\n\n📌 Subscribe to get t",
+          "likes": 72,
+          "retweets": 6,
+          "replies": 7,
+          "url": "https://x.com/petergyang/status/2042950869734567998",
+          "createdAt": "2026-04-11T13:00:18.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Thariq",
+      "handle": "@trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "topTweets": [
+        {
+          "text": "there's a turbotax connector in Claude Code now, so glad I procrastinated on taxes 😭 https://t.co/EIOfnPq0xd",
+          "likes": 1467,
+          "retweets": 45,
+          "replies": 77,
+          "url": "https://x.com/trq212/status/2043138221836746762",
+          "createdAt": "2026-04-12T01:24:46.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "bio": "@vercel CEO",
+      "topTweets": [
+        {
+          "text": "Vercel Sandbox is now the #1 fastest microVM-based Sandbox.\n\nWe’ve also heard from customers migrating that beyond “in the lab” benchmarks, our real-world performance & reliability are second-to-none. Literally.\n\nWhether it’s 🦞 claws, coding agents, or plain compute parallelism,",
+          "likes": 355,
+          "retweets": 21,
+          "replies": 32,
+          "url": "https://x.com/rauchg/status/2043020059896091016",
+          "createdAt": "2026-04-11T17:35:14.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aaron Levie",
+      "handle": "@levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "topTweets": [
+        {
+          "text": "We will likely have more lawyers in the future than today, because:\n\n1) AI will cause so many more people to ask legal questions which will encourage them to need to verify or execute through an actual lawyer. \n\n2) AI will cause an explosion of more and more exotic legal terms th",
+          "likes": 366,
+          "retweets": 48,
+          "replies": 44,
+          "url": "https://x.com/levie/status/2043051227387433144",
+          "createdAt": "2026-04-11T19:39:05.000Z"
+        },
+        {
+          "text": "This chart puts the datacenter demands into perspective very clearly. Amazon has done more capex in the last 3 years than its entire history. \n\nRight now most AI adoption is on chat tools that are relatively token efficient. Comparatively, coding agents, use orders of magnitude m",
+          "likes": 70,
+          "retweets": 15,
+          "replies": 16,
+          "url": "https://x.com/levie/status/2043192337111924930",
+          "createdAt": "2026-04-12T04:59:48.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "@garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "topTweets": [
+        {
+          "text": "If your memory dies when your harness dies, you built the harness too thick.\n\nMemory is markdown. Skills are markdown. Brain is a git repo. The harness is a thin conductor — it reads the files, it doesn't own them. https://t.co/JPjnu2FhV6",
+          "likes": 119,
+          "retweets": 10,
+          "replies": 14,
+          "url": "https://x.com/garrytan/status/2043198780800197025",
+          "createdAt": "2026-04-12T05:25:24.000Z"
+        },
+        {
+          "text": "Here is my counterpoint after 3 months of releasing open source used by tens of thousands of agentic engineers per day. \n\nThin harness, fat skills: \n\nhttps://t.co/K2Sx8Cb4tz",
+          "likes": 28,
+          "retweets": 1,
+          "replies": 2,
+          "url": "https://x.com/garrytan/status/2043198783006355747",
+          "createdAt": "2026-04-12T05:25:25.000Z"
+        },
+        {
+          "text": "What a powerful education in latency and how to build voice systems \n\n… all just by chatting with the Claw https://t.co/0bHezE7lzW",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 3,
+          "url": "https://x.com/garrytan/status/2043188801175220306",
+          "createdAt": "2026-04-12T04:45:45.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Matt Turck",
+      "handle": "@mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "topTweets": [
+        {
+          "text": "\"There are some many vendors in AI for customer service, it's basically a solved problem\" https://t.co/Kd8GLBAFPL",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 1,
+          "url": "https://x.com/mattturck/status/2043114808875077789",
+          "createdAt": "2026-04-11T23:51:44.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Zara Zhang",
+      "handle": "@zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "topTweets": [
+        {
+          "text": "The most efficient way for humans to collaborate: do not collaborate\n\nOne person should own something end-to-end and work with agents",
+          "likes": 140,
+          "retweets": 15,
+          "replies": 49,
+          "url": "https://x.com/zarazhangrui/status/2043187721989149146",
+          "createdAt": "2026-04-12T04:41:28.000Z"
+        },
+        {
+          "text": "Human communication will be for\n- deciding what to work on &amp; what \"good\" looks like\n- keeping each other company &amp; preventing loneliness/establishing camaraderie\n- creative brainstorming &amp; bouncing ideas off each other\n\nNot for project syncs, status updates, handovers",
+          "likes": 13,
+          "retweets": 4,
+          "replies": 0,
+          "url": "https://x.com/zarazhangrui/status/2043202553538925031",
+          "createdAt": "2026-04-12T05:40:24.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nikunj Kothari",
+      "handle": "@nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "topTweets": [
+        {
+          "text": "VCs: please take this low valuation since I’m investing in you and my conviction is worth the price. I’m invested for the long long term. \n\n6 months later..\n\nSame VC: take the highest possible valuation because why not. Who cares about the partner or fund name. Less dilution is g",
+          "likes": 151,
+          "retweets": 6,
+          "replies": 9,
+          "url": "https://x.com/nikunj/status/2043092455550259341",
+          "createdAt": "2026-04-11T22:22:54.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "topTweets": [
+        {
+          "text": "Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: \n1) Strict mode:\n\nagents.defaults.embeddedPi.executionContract = \"strict-agentic\"\n\nThis tells GPT-5.x to keep working: read more code, call tools, make changes, or return a real blocker instead of stoppin",
+          "likes": 1009,
+          "retweets": 58,
+          "replies": 82,
+          "url": "https://x.com/steipete/status/2043136615640694797",
+          "createdAt": "2026-04-12T01:18:23.000Z"
+        },
+        {
+          "text": "2) Native Codex as the OpenClaw harness:\n\nplugins.entries.codex.enabled = true\nagents.defaults.model = \"codex/gpt-5.4\"\nagents.defaults.embeddedHarness = { runtime: \"codex\", fallback: \"none\" }\n\nCodex owns threads, resume, compaction, app-server execution. https://t.co/9DDpY6TMqf",
+          "likes": 165,
+          "retweets": 3,
+          "replies": 6,
+          "url": "https://x.com/steipete/status/2043136620006961384",
+          "createdAt": "2026-04-12T01:18:24.000Z"
+        },
+        {
+          "text": "Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi harness with e.g. Anthropic’s SDK or another custom one.\n\nThis won't magically allow Claude subscription, but it's useful to compare different implementations.\n\nUsing codex as harness will likely w",
+          "likes": 116,
+          "retweets": 1,
+          "replies": 5,
+          "url": "https://x.com/steipete/status/2043136624469619050",
+          "createdAt": "2026-04-12T01:18:25.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aditya Agarwal",
+      "handle": "@adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "topTweets": [
+        {
+          "text": "The big difference between a true \"agent\" and simply running an LLM in a loop (or an event-based trigger) is how you do intelligent long-horizon memory management.\n\nBy far the most interesting aspect of the Claude Code architecture was their 3-tier memory architecture.",
+          "likes": 96,
+          "retweets": 4,
+          "replies": 8,
+          "url": "https://x.com/adityaag/status/2043144970060939487",
+          "createdAt": "2026-04-12T01:51:35.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "No Priors",
+      "title": "The Agentic Economy: How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-04-09T10:00:00.000Z",
+      "transcriptLength": 48237,
+      "transcriptPreview": "Speaker 1 | 00:05 - 00:19\nToday I know Priors, have Jeremy Allaire, the co founder and CEO of Circle. We'll be talking about cryptocurrency, AI, agentic payments, AI evolving on the blockchain, and a variety of other topics. Great. Well, thank you so much for joining us today. It's a pleasure to have you.\n\nSpeaker 2 | 00:19 - 00:22\nIt's great to be here. Thank you. So maybe we can start with\n\nSpeaker 1 | 00:22 - 00:36\nyou just giving a quick overview of Circle, what you do, how you approach the ",
+      "category": "播客"
+    }
+  ]
+}

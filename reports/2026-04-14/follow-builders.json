@@ -1,0 +1,540 @@
+{
+  "source": "follow-builders",
+  "timestamp": "2026-04-14T01:28:24.345Z",
+  "count": 14,
+  "metadata": {
+    "generatedAt": "2026-04-13T07:59:47.375Z",
+    "tweets": {
+      "count": 12,
+      "totalTweets": 19,
+      "items": [
+        {
+          "name": "Swyx",
+          "handle": "@swyx",
+          "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+          "topTweets": [
+            {
+              "text": "raw recording with some INSANE performances from my new friends https://t.co/0lDxUiVrsc",
+              "likes": 1,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/swyx/status/2043547497382240513",
+              "createdAt": "2026-04-13T04:31:05.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Kevin Weil",
+          "handle": "@kevinweil",
+          "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+          "topTweets": [
+            {
+              "text": "This is a great take. Human intelligence and computer intelligence are not different points on a line, but in a high dimensional space—and we should explore more of the space. https://t.co/BdIX5OWR0H",
+              "likes": 93,
+              "retweets": 10,
+              "replies": 5,
+              "url": "https://x.com/kevinweil/status/2043510607736189193",
+              "createdAt": "2026-04-13T02:04:30.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "My entire feed and the Claude subreddit is full of ppl saying opus got nerfed.\n\nWhy would Anthropic nerf its own models?",
+              "likes": 532,
+              "retweets": 8,
+              "replies": 245,
+              "url": "https://x.com/petergyang/status/2043466663258140685",
+              "createdAt": "2026-04-12T23:09:52.000Z"
+            },
+            {
+              "text": "Jet lag is hell",
+              "likes": 24,
+              "retweets": 0,
+              "replies": 9,
+              "url": "https://x.com/petergyang/status/2043491799478718953",
+              "createdAt": "2026-04-13T00:49:45.000Z"
+            },
+            {
+              "text": "Also available on:\n\nSpotify:\nhttps://t.co/70agoA1PHq\n\nApple: https://t.co/shNRmPP2Wb\n\nNewsletter: https://t.co/azuNUfbjrX",
+              "likes": 3,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/petergyang/status/2043328453181943988",
+              "createdAt": "2026-04-12T14:00:41.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nan Yu",
+          "handle": "@thenanyu",
+          "bio": "head of product @linear",
+          "topTweets": [
+            {
+              "text": "And regular expressions. https://t.co/GRmYQvX7Ox",
+              "likes": 16,
+              "retweets": 0,
+              "replies": 1,
+              "url": "https://x.com/thenanyu/status/2043433444898730007",
+              "createdAt": "2026-04-12T20:57:53.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Amjad Masad",
+          "handle": "@amasad",
+          "bio": "ceo @replit. civilizationist",
+          "topTweets": [
+            {
+              "text": "On its 50th birthday Apple is doing its best to become the most hated company in the world. https://t.co/9JCgiiCrBo",
+              "likes": 8019,
+              "retweets": 1251,
+              "replies": 113,
+              "url": "https://x.com/amasad/status/2043394289326289243",
+              "createdAt": "2026-04-12T18:22:17.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Guillermo Rauch",
+          "handle": "@rauchg",
+          "bio": "@vercel CEO",
+          "topTweets": [
+            {
+              "text": "Protip: Create an X group chat with your best and most demanding customers. Put your engineering leads in said group chat. Respond and ship quickly. Face the music.\n\nWe have one going for @v0. DM if you want to be a part of it and are committed to sharing excellent feedback.",
+              "likes": 540,
+              "retweets": 21,
+              "replies": 59,
+              "url": "https://x.com/rauchg/status/2043381737754120592",
+              "createdAt": "2026-04-12T17:32:25.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "Another week on the road meeting with a couple dozen IT and AI leaders from large enterprises across banking, media, retail, healthcare, consulting, tech, and sports, to discuss agents in the enterprise. \n\nSome quick takeaways:\n\n* Clear that we’re moving from chat era of AI to ag",
+              "likes": 2981,
+              "retweets": 342,
+              "replies": 123,
+              "url": "https://x.com/levie/status/2043426157367095397",
+              "createdAt": "2026-04-12T20:28:55.000Z"
+            },
+            {
+              "text": "Security another great example of a job category that is about to have its Jevons paradox moment as well. \n\n“And counterintuitively, I think better AI tooling for security will increase the demand for security talent, not decrease it. Autonomous exploitability automates the provi",
+              "likes": 307,
+              "retweets": 44,
+              "replies": 21,
+              "url": "https://x.com/levie/status/2043318118169354302",
+              "createdAt": "2026-04-12T13:19:37.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+          "topTweets": [
+            {
+              "text": "This is the simplest distillation of what I have learned about agentic engineering this year \n\nPush smart fuzzy operations humans do into markdown skills. Fat skills. \n\nPush must-be-perfect deterministic operations into code. Fat code. \n\nThe harness? Keep it thin. https://t.co/3E",
+              "likes": 450,
+              "retweets": 38,
+              "replies": 43,
+              "url": "https://x.com/garrytan/status/2043566215927328955",
+              "createdAt": "2026-04-13T05:45:28.000Z"
+            },
+            {
+              "text": "New item in my SOUL md tonight https://t.co/iAwcQ2QCB7",
+              "likes": 229,
+              "retweets": 13,
+              "replies": 39,
+              "url": "https://x.com/garrytan/status/2043581361798500602",
+              "createdAt": "2026-04-13T06:45:39.000Z"
+            },
+            {
+              "text": "Do the right job at the right layer \n\nEverything else is architecture astronomy https://t.co/jqiPf14F0B",
+              "likes": 37,
+              "retweets": 0,
+              "replies": 4,
+              "url": "https://x.com/garrytan/status/2043566405862236254",
+              "createdAt": "2026-04-13T05:46:13.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Zara Zhang",
+          "handle": "@zarazhangrui",
+          "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+          "topTweets": [
+            {
+              "text": "PSA: You can vibe code your own \"New tab\" page in Chrome. I have turned mine into the ultimate solution to the \"too many tabs\" problem\n\n- See all your tabs with clear titles, grouped by domain\n- Closing any tab gives you \"swoosh\" sound and confetti effect 🎊\n- \"Easy wins\" grouped",
+              "likes": 948,
+              "retweets": 28,
+              "replies": 40,
+              "url": "https://x.com/zarazhangrui/status/2043415572688629937",
+              "createdAt": "2026-04-12T19:46:52.000Z"
+            },
+            {
+              "text": "Code: https://t.co/VpLLq4W2Yt",
+              "likes": 48,
+              "retweets": 2,
+              "replies": 2,
+              "url": "https://x.com/zarazhangrui/status/2043415661528129873",
+              "createdAt": "2026-04-12T19:47:13.000Z"
+            },
+            {
+              "text": "tabula rasa",
+              "likes": 11,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/zarazhangrui/status/2043418831885086911",
+              "createdAt": "2026-04-12T19:59:49.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "I'm as SF-pilled as they come.. but more people should adopt the \"Doordash\" strategy for building companies. \n\nDoordash famously won the race against Uber Eats because they focused on suburban markets right outside cities. While the main players were all focused on the main citie",
+              "likes": 170,
+              "retweets": 1,
+              "replies": 20,
+              "url": "https://x.com/nikunj/status/2043374140443553885",
+              "createdAt": "2026-04-12T17:02:13.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "They grow up so fast 🦞 https://t.co/5WoQMZPtys",
+              "likes": 1082,
+              "retweets": 16,
+              "replies": 49,
+              "url": "https://x.com/steipete/status/2043313467512463713",
+              "createdAt": "2026-04-12T13:01:08.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aditya Agarwal",
+          "handle": "@adityaag",
+          "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+          "topTweets": [
+            {
+              "text": "It's interesting...the Anthropic culture reminds me a lot of early Facebook....despite OpenAI having a lot more ex-Facebook people\n\nSimilarities:\n--> People within the company are having a lot of fun\n--> There is a lot of naivete about the world\n--> There is a bottoms-up hacker c",
+              "likes": 265,
+              "retweets": 3,
+              "replies": 14,
+              "url": "https://x.com/adityaag/status/2043501400626491758",
+              "createdAt": "2026-04-13T01:27:54.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 1,
+      "items": [
+        {
+          "name": "Latent Space",
+          "title": "Marc Andreessen introspects on The Death of the Browser, Pi + OpenClaw, and Why &quot;This Time Is Different&quot;",
+          "url": "https://www.youtube.com/@LatentSpacePod",
+          "publishedAt": "2026-04-03T16:57:46.000Z",
+          "transcriptLength": 116792,
+          "transcriptPreview": "Speaker 1 | 00:00 - 00:25\nSomething about AI that causes the people in the field, I would say, to become both excessively utopian and excessively apocalyptic. Having said that, I think what's actually happened is an enormous amount of technical progress that built up over time. And like for for example, we now know the neural network is the correct architecture. And I I will tell you, like, was a sixty year run where that was like a, you know, or even seventy years where that was controversial. "
+        }
+      ]
+    },
+    "blogs": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Preparing your security program for AI-accelerated offense",
+          "url": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
+          "publishedAt": "Apr 10, 2026",
+          "summary": "Earlier this week, we announced Project Glasswing—our urgent attempt to put the strong cybersecurity capabilities of our newest frontier model, Claude Mythos Preview, to use for defensive purposes. In the announcement —and the accompanying technical blog post —we described how AI models are rapidly "
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "name": "Swyx",
+      "handle": "@swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "topTweets": [
+        {
+          "text": "raw recording with some INSANE performances from my new friends https://t.co/0lDxUiVrsc",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/swyx/status/2043547497382240513",
+          "createdAt": "2026-04-13T04:31:05.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Kevin Weil",
+      "handle": "@kevinweil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "topTweets": [
+        {
+          "text": "This is a great take. Human intelligence and computer intelligence are not different points on a line, but in a high dimensional space—and we should explore more of the space. https://t.co/BdIX5OWR0H",
+          "likes": 93,
+          "retweets": 10,
+          "replies": 5,
+          "url": "https://x.com/kevinweil/status/2043510607736189193",
+          "createdAt": "2026-04-13T02:04:30.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "@petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "topTweets": [
+        {
+          "text": "My entire feed and the Claude subreddit is full of ppl saying opus got nerfed.\n\nWhy would Anthropic nerf its own models?",
+          "likes": 532,
+          "retweets": 8,
+          "replies": 245,
+          "url": "https://x.com/petergyang/status/2043466663258140685",
+          "createdAt": "2026-04-12T23:09:52.000Z"
+        },
+        {
+          "text": "Jet lag is hell",
+          "likes": 24,
+          "retweets": 0,
+          "replies": 9,
+          "url": "https://x.com/petergyang/status/2043491799478718953",
+          "createdAt": "2026-04-13T00:49:45.000Z"
+        },
+        {
+          "text": "Also available on:\n\nSpotify:\nhttps://t.co/70agoA1PHq\n\nApple: https://t.co/shNRmPP2Wb\n\nNewsletter: https://t.co/azuNUfbjrX",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/petergyang/status/2043328453181943988",
+          "createdAt": "2026-04-12T14:00:41.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nan Yu",
+      "handle": "@thenanyu",
+      "bio": "head of product @linear",
+      "topTweets": [
+        {
+          "text": "And regular expressions. https://t.co/GRmYQvX7Ox",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "url": "https://x.com/thenanyu/status/2043433444898730007",
+          "createdAt": "2026-04-12T20:57:53.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Amjad Masad",
+      "handle": "@amasad",
+      "bio": "ceo @replit. civilizationist",
+      "topTweets": [
+        {
+          "text": "On its 50th birthday Apple is doing its best to become the most hated company in the world. https://t.co/9JCgiiCrBo",
+          "likes": 8019,
+          "retweets": 1251,
+          "replies": 113,
+          "url": "https://x.com/amasad/status/2043394289326289243",
+          "createdAt": "2026-04-12T18:22:17.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "bio": "@vercel CEO",
+      "topTweets": [
+        {
+          "text": "Protip: Create an X group chat with your best and most demanding customers. Put your engineering leads in said group chat. Respond and ship quickly. Face the music.\n\nWe have one going for @v0. DM if you want to be a part of it and are committed to sharing excellent feedback.",
+          "likes": 540,
+          "retweets": 21,
+          "replies": 59,
+          "url": "https://x.com/rauchg/status/2043381737754120592",
+          "createdAt": "2026-04-12T17:32:25.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aaron Levie",
+      "handle": "@levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "topTweets": [
+        {
+          "text": "Another week on the road meeting with a couple dozen IT and AI leaders from large enterprises across banking, media, retail, healthcare, consulting, tech, and sports, to discuss agents in the enterprise. \n\nSome quick takeaways:\n\n* Clear that we’re moving from chat era of AI to ag",
+          "likes": 2981,
+          "retweets": 342,
+          "replies": 123,
+          "url": "https://x.com/levie/status/2043426157367095397",
+          "createdAt": "2026-04-12T20:28:55.000Z"
+        },
+        {
+          "text": "Security another great example of a job category that is about to have its Jevons paradox moment as well. \n\n“And counterintuitively, I think better AI tooling for security will increase the demand for security talent, not decrease it. Autonomous exploitability automates the provi",
+          "likes": 307,
+          "retweets": 44,
+          "replies": 21,
+          "url": "https://x.com/levie/status/2043318118169354302",
+          "createdAt": "2026-04-12T13:19:37.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "@garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "topTweets": [
+        {
+          "text": "This is the simplest distillation of what I have learned about agentic engineering this year \n\nPush smart fuzzy operations humans do into markdown skills. Fat skills. \n\nPush must-be-perfect deterministic operations into code. Fat code. \n\nThe harness? Keep it thin. https://t.co/3E",
+          "likes": 450,
+          "retweets": 38,
+          "replies": 43,
+          "url": "https://x.com/garrytan/status/2043566215927328955",
+          "createdAt": "2026-04-13T05:45:28.000Z"
+        },
+        {
+          "text": "New item in my SOUL md tonight https://t.co/iAwcQ2QCB7",
+          "likes": 229,
+          "retweets": 13,
+          "replies": 39,
+          "url": "https://x.com/garrytan/status/2043581361798500602",
+          "createdAt": "2026-04-13T06:45:39.000Z"
+        },
+        {
+          "text": "Do the right job at the right layer \n\nEverything else is architecture astronomy https://t.co/jqiPf14F0B",
+          "likes": 37,
+          "retweets": 0,
+          "replies": 4,
+          "url": "https://x.com/garrytan/status/2043566405862236254",
+          "createdAt": "2026-04-13T05:46:13.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Zara Zhang",
+      "handle": "@zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "topTweets": [
+        {
+          "text": "PSA: You can vibe code your own \"New tab\" page in Chrome. I have turned mine into the ultimate solution to the \"too many tabs\" problem\n\n- See all your tabs with clear titles, grouped by domain\n- Closing any tab gives you \"swoosh\" sound and confetti effect 🎊\n- \"Easy wins\" grouped",
+          "likes": 948,
+          "retweets": 28,
+          "replies": 40,
+          "url": "https://x.com/zarazhangrui/status/2043415572688629937",
+          "createdAt": "2026-04-12T19:46:52.000Z"
+        },
+        {
+          "text": "Code: https://t.co/VpLLq4W2Yt",
+          "likes": 48,
+          "retweets": 2,
+          "replies": 2,
+          "url": "https://x.com/zarazhangrui/status/2043415661528129873",
+          "createdAt": "2026-04-12T19:47:13.000Z"
+        },
+        {
+          "text": "tabula rasa",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/zarazhangrui/status/2043418831885086911",
+          "createdAt": "2026-04-12T19:59:49.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nikunj Kothari",
+      "handle": "@nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "topTweets": [
+        {
+          "text": "I'm as SF-pilled as they come.. but more people should adopt the \"Doordash\" strategy for building companies. \n\nDoordash famously won the race against Uber Eats because they focused on suburban markets right outside cities. While the main players were all focused on the main citie",
+          "likes": 170,
+          "retweets": 1,
+          "replies": 20,
+          "url": "https://x.com/nikunj/status/2043374140443553885",
+          "createdAt": "2026-04-12T17:02:13.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "topTweets": [
+        {
+          "text": "They grow up so fast 🦞 https://t.co/5WoQMZPtys",
+          "likes": 1082,
+          "retweets": 16,
+          "replies": 49,
+          "url": "https://x.com/steipete/status/2043313467512463713",
+          "createdAt": "2026-04-12T13:01:08.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aditya Agarwal",
+      "handle": "@adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "topTweets": [
+        {
+          "text": "It's interesting...the Anthropic culture reminds me a lot of early Facebook....despite OpenAI having a lot more ex-Facebook people\n\nSimilarities:\n--> People within the company are having a lot of fun\n--> There is a lot of naivete about the world\n--> There is a bottoms-up hacker c",
+          "likes": 265,
+          "retweets": 3,
+          "replies": 14,
+          "url": "https://x.com/adityaag/status/2043501400626491758",
+          "createdAt": "2026-04-13T01:27:54.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Latent Space",
+      "title": "Marc Andreessen introspects on The Death of the Browser, Pi + OpenClaw, and Why &quot;This Time Is Different&quot;",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-04-03T16:57:46.000Z",
+      "transcriptLength": 116792,
+      "transcriptPreview": "Speaker 1 | 00:00 - 00:25\nSomething about AI that causes the people in the field, I would say, to become both excessively utopian and excessively apocalyptic. Having said that, I think what's actually happened is an enormous amount of technical progress that built up over time. And like for for example, we now know the neural network is the correct architecture. And I I will tell you, like, was a sixty year run where that was like a, you know, or even seventy years where that was controversial. ",
+      "category": "播客"
+    },
+    {
+      "title": "Preparing your security program for AI-accelerated offense",
+      "url": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
+      "publishedAt": "Apr 10, 2026",
+      "summary": "Earlier this week, we announced Project Glasswing—our urgent attempt to put the strong cybersecurity capabilities of our newest frontier model, Claude Mythos Preview, to use for defensive purposes. In the announcement —and the accompanying technical blog post —we described how AI models are rapidly ",
+      "category": "博客"
+    }
+  ]
+}

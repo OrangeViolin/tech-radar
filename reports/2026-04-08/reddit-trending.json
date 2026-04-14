@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-08T01:29:16.552Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 60
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "China drafts law regulating 'digital humans' and banning addictive virtual services for children",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/",
+      "author": "",
+      "created_utc": "2026-04-07T08:41:24+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/",
+      "author": "",
+      "created_utc": "2026-04-07T18:40:50+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/",
+      "author": "",
+      "created_utc": "2026-04-07T17:16:36+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "Data Centers Are Military Targets Now",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/",
+      "author": "",
+      "created_utc": "2026-04-07T19:42:29+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "30 Billion ( 3x in 3 months) WTF is thr future",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/",
+      "author": "",
+      "created_utc": "2026-04-07T08:33:21+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Attention Is All You Need, But All You Can't Afford | Hybrid Attention",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/",
+      "author": "",
+      "created_utc": "2026-04-07T02:21:08+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "Using AI properly",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sf7cju/using_ai_properly/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sf7cju/using_ai_properly/",
+      "author": "",
+      "created_utc": "2026-04-07T20:15:25+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "The \"Jarvis on day one\" trap: why trying to build one AI agent that does everything costs you months",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/",
+      "author": "",
+      "created_utc": "2026-04-07T12:06:52+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "\"Authoritarian Parents In Rationalist Clothes\": a piece I wrote in December about alignment",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sfc4y3/authoritarian_parents_in_rationalist_clothes_a/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sfc4y3/authoritarian_parents_in_rationalist_clothes_a/",
+      "author": "",
+      "created_utc": "2026-04-07T23:20:50+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "We have an AI agent fragmentation problem",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sf9yeq/we_have_an_ai_agent_fragmentation_problem/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sf9yeq/we_have_an_ai_agent_fragmentation_problem/",
+      "author": "",
+      "created_utc": "2026-04-07T21:53:10+00:00"
+    }
+  ]
+}

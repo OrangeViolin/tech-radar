@@ -1,0 +1,342 @@
+{
+  "source": "hackernews",
+  "timestamp": "2026-04-12T07:19:44.600Z",
+  "count": 30,
+  "metadata": {
+    "topStories": {
+      "count": 30
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "id": 47732020,
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "hnUrl": "https://news.ycombinator.com/item?id=47732020",
+      "score": 1005,
+      "author": "dominicq",
+      "comments": 273,
+      "time": "2026-04-11T16:47:28.000Z"
+    },
+    {
+      "rank": 2,
+      "id": 47735535,
+      "title": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47735535",
+      "score": 134,
+      "author": "ValentineC",
+      "comments": 78,
+      "time": "2026-04-12T01:55:48.000Z"
+    },
+    {
+      "rank": 3,
+      "id": 47736298,
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "hnUrl": "https://news.ycombinator.com/item?id=47736298",
+      "score": 86,
+      "author": "Jimmc414",
+      "comments": 47,
+      "time": "2026-04-12T05:08:03.000Z"
+    },
+    {
+      "rank": 4,
+      "id": 47672718,
+      "title": "Tofolli gates are all you need",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47672718",
+      "score": 20,
+      "author": "ibobev",
+      "comments": 0,
+      "time": "2026-04-07T09:40:57.000Z"
+    },
+    {
+      "rank": 5,
+      "id": 47733217,
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47733217",
+      "score": 344,
+      "author": "Anon84",
+      "comments": 88,
+      "time": "2026-04-11T19:15:56.000Z"
+    },
+    {
+      "rank": 6,
+      "id": 47673171,
+      "title": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47673171",
+      "score": 95,
+      "author": "speckx",
+      "comments": 18,
+      "time": "2026-04-07T10:44:55.000Z"
+    },
+    {
+      "rank": 7,
+      "id": 47733561,
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "hnUrl": "https://news.ycombinator.com/item?id=47733561",
+      "score": 197,
+      "author": "iliatoli",
+      "comments": 99,
+      "time": "2026-04-11T20:08:46.000Z"
+    },
+    {
+      "rank": 8,
+      "id": 47733521,
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47733521",
+      "score": 173,
+      "author": "evo_9",
+      "comments": 22,
+      "time": "2026-04-11T20:01:59.000Z"
+    },
+    {
+      "rank": 9,
+      "id": 47672714,
+      "title": "Simplest Hash Functions",
+      "url": "https://purplesyringa.moe/blog/simplest-hash-functions/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47672714",
+      "score": 27,
+      "author": "ibobev",
+      "comments": 18,
+      "time": "2026-04-07T09:40:08.000Z"
+    },
+    {
+      "rank": 10,
+      "id": 47672941,
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47672941",
+      "score": 128,
+      "author": "kouosi",
+      "comments": 22,
+      "time": "2026-04-07T10:16:38.000Z"
+    },
+    {
+      "rank": 11,
+      "id": 47735581,
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47735581",
+      "score": 32,
+      "author": "1659447091",
+      "comments": 3,
+      "time": "2026-04-12T02:09:13.000Z"
+    },
+    {
+      "rank": 12,
+      "id": 47733971,
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=47733971",
+      "score": 186,
+      "author": "krackers",
+      "comments": 128,
+      "time": "2026-04-11T20:58:48.000Z"
+    },
+    {
+      "rank": 13,
+      "id": 47735779,
+      "title": "Building a Z-Machine in the worst possible language – Whitebeard's Realm",
+      "url": "https://whitebeard.blog/posts/building-a-z-machine-in-elm/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47735779",
+      "score": 21,
+      "author": "techbelly",
+      "comments": 1,
+      "time": "2026-04-12T02:57:24.000Z"
+    },
+    {
+      "rank": 14,
+      "id": 47731506,
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47731506",
+      "score": 232,
+      "author": "zdw",
+      "comments": 60,
+      "time": "2026-04-11T15:39:19.000Z"
+    },
+    {
+      "rank": 15,
+      "id": 47730194,
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47730194",
+      "score": 259,
+      "author": "seekdeep",
+      "comments": 125,
+      "time": "2026-04-11T13:01:34.000Z"
+    },
+    {
+      "rank": 16,
+      "id": 47693559,
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "hnUrl": "https://news.ycombinator.com/item?id=47693559",
+      "score": 202,
+      "author": "codetheweb",
+      "comments": 66,
+      "time": "2026-04-08T17:36:19.000Z"
+    },
+    {
+      "rank": 17,
+      "id": 47727960,
+      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "hnUrl": "https://news.ycombinator.com/item?id=47727960",
+      "score": 419,
+      "author": "vidluther",
+      "comments": 231,
+      "time": "2026-04-11T06:19:25.000Z"
+    },
+    {
+      "rank": 18,
+      "id": 47732697,
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47732697",
+      "score": 106,
+      "author": "zdw",
+      "comments": 12,
+      "time": "2026-04-11T18:07:49.000Z"
+    },
+    {
+      "rank": 19,
+      "id": 47735810,
+      "title": "Why meaningful days look like nothing while you are living them",
+      "url": "https://pilgrima.ge/p/the-grand-line",
+      "hnUrl": "https://news.ycombinator.com/item?id=47735810",
+      "score": 26,
+      "author": "momentmaker",
+      "comments": 11,
+      "time": "2026-04-12T03:04:05.000Z"
+    },
+    {
+      "rank": 20,
+      "id": 47735405,
+      "title": "Software Preservation Group: C++ History Collection",
+      "url": "https://softwarepreservation.computerhistory.org/c_plus_plus/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47735405",
+      "score": 19,
+      "author": "quuxplusone",
+      "comments": 2,
+      "time": "2026-04-12T01:24:25.000Z"
+    },
+    {
+      "rank": 21,
+      "id": 47675550,
+      "title": "Who was \"Not Even Wrong\" first? [2023]",
+      "url": "https://www.math.columbia.edu/~woit/wordpress/?p=13455",
+      "hnUrl": "https://news.ycombinator.com/item?id=47675550",
+      "score": 5,
+      "author": "bookofjoe",
+      "comments": 2,
+      "time": "2026-04-07T14:01:41.000Z"
+    },
+    {
+      "rank": 22,
+      "id": 47674273,
+      "title": "The Soul of an Old Machine",
+      "url": "https://skalski.dev/the-soul-of-an-old-machine/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47674273",
+      "score": 49,
+      "author": "mskalski",
+      "comments": 10,
+      "time": "2026-04-07T12:30:49.000Z"
+    },
+    {
+      "rank": 23,
+      "id": 47734878,
+      "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+      "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+      "hnUrl": "https://news.ycombinator.com/item?id=47734878",
+      "score": 21,
+      "author": "maxloh",
+      "comments": 8,
+      "time": "2026-04-11T23:30:40.000Z"
+    },
+    {
+      "rank": 24,
+      "id": 47674075,
+      "title": "What is a property?",
+      "url": "https://alperenkeles.com/posts/what-is-a-property/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47674075",
+      "score": 69,
+      "author": "alpaylan",
+      "comments": 19,
+      "time": "2026-04-07T12:16:27.000Z"
+    },
+    {
+      "rank": 25,
+      "id": 47695213,
+      "title": "Optimal Strategy for Connect 4",
+      "url": "https://2swap.github.io/WeakC4/explanation/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47695213",
+      "score": 286,
+      "author": "marvinborner",
+      "comments": 31,
+      "time": "2026-04-08T19:37:50.000Z"
+    },
+    {
+      "rank": 26,
+      "id": 47694064,
+      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+      "hnUrl": "https://news.ycombinator.com/item?id=47694064",
+      "score": 316,
+      "author": "coolwulf",
+      "comments": 58,
+      "time": "2026-04-08T18:10:52.000Z"
+    },
+    {
+      "rank": 27,
+      "id": 47732402,
+      "title": "The APL programming language source code (2012)",
+      "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47732402",
+      "score": 65,
+      "author": "tosh",
+      "comments": 22,
+      "time": "2026-04-11T17:34:10.000Z"
+    },
+    {
+      "rank": 28,
+      "id": 47730712,
+      "title": "The Problem That Built an Industry",
+      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "hnUrl": "https://news.ycombinator.com/item?id=47730712",
+      "score": 122,
+      "author": "ShaggyHotDog",
+      "comments": 44,
+      "time": "2026-04-11T14:03:03.000Z"
+    },
+    {
+      "rank": 29,
+      "id": 47731838,
+      "title": "Keeping a Postgres Queue Healthy",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "hnUrl": "https://news.ycombinator.com/item?id=47731838",
+      "score": 93,
+      "author": "tanelpoder",
+      "comments": 25,
+      "time": "2026-04-11T16:24:08.000Z"
+    },
+    {
+      "rank": 30,
+      "id": 47733066,
+      "title": "New synthesis of astronomical measurements shows Hubble tension is real",
+      "url": "https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en",
+      "hnUrl": "https://news.ycombinator.com/item?id=47733066",
+      "score": 57,
+      "author": "anigbrowl",
+      "comments": 13,
+      "time": "2026-04-11T18:55:43.000Z"
+    }
+  ]
+}

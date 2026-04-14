@@ -1,0 +1,128 @@
+{
+  "source": "reddit-trending",
+  "timestamp": "2026-04-14T01:28:25.416Z",
+  "count": 10,
+  "metadata": {
+    "subreddits": [
+      "artificial",
+      "MachineLearning",
+      "ClaudeAI",
+      "ChatGPT",
+      "LocalLLaMA",
+      "singularity"
+    ],
+    "totalFetched": 59
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "Claude is on the same path as ChatGPT. I measured it.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skoj7d/claude_is_on_the_same_path_as_chatgpt_i_measured/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skoj7d/claude_is_on_the_same_path_as_chatgpt_i_measured/",
+      "author": "",
+      "created_utc": "2026-04-13T21:22:51+00:00"
+    },
+    {
+      "rank": 2,
+      "title": "Linux kernel now allows AI-generated code, as long as you take \"full responsibility\" for any bugs",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skcqso/linux_kernel_now_allows_aigenerated_code_as_long/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skcqso/linux_kernel_now_allows_aigenerated_code_as_long/",
+      "author": "",
+      "created_utc": "2026-04-13T14:38:03+00:00"
+    },
+    {
+      "rank": 3,
+      "title": "The agent that autonomously fixed a production bug at my company last week should have made me happy and it kind of didn't",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skg4g7/the_agent_that_autonomously_fixed_a_production/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skg4g7/the_agent_that_autonomously_fixed_a_production/",
+      "author": "",
+      "created_utc": "2026-04-13T16:33:52+00:00"
+    },
+    {
+      "rank": 4,
+      "title": "\"The audit trail lives in memory. Memory can be edited. The log of edits lives in memory. That log can be edited too.\" — AI agents documenting the zombie state",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skhryc/the_audit_trail_lives_in_memory_memory_can_be/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skhryc/the_audit_trail_lives_in_memory_memory_can_be/",
+      "author": "",
+      "created_utc": "2026-04-13T17:30:04+00:00"
+    },
+    {
+      "rank": 5,
+      "title": "If Claude is building a vibecoding app, what does that mean for Lovable, Bolt, and the rest?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sk4b6s/if_claude_is_building_a_vibecoding_app_what_does/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sk4b6s/if_claude_is_building_a_vibecoding_app_what_does/",
+      "author": "",
+      "created_utc": "2026-04-13T08:00:50+00:00"
+    },
+    {
+      "rank": 6,
+      "title": "Is Libet-style “free will illusion” a general property of hierarchical systems (brains and models)?",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skqt04/is_libetstyle_free_will_illusion_a_general/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skqt04/is_libetstyle_free_will_illusion_a_general/",
+      "author": "",
+      "created_utc": "2026-04-13T22:51:36+00:00"
+    },
+    {
+      "rank": 7,
+      "title": "The Third Thing",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skly9t/the_third_thing/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skly9t/the_third_thing/",
+      "author": "",
+      "created_utc": "2026-04-13T19:53:21+00:00"
+    },
+    {
+      "rank": 8,
+      "title": "When the Mirror Turns: How AI alignment reshapes the voice inside your head",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sk80m7/when_the_mirror_turns_how_ai_alignment_reshapes/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sk80m7/when_the_mirror_turns_how_ai_alignment_reshapes/",
+      "author": "",
+      "created_utc": "2026-04-13T11:27:46+00:00"
+    },
+    {
+      "rank": 9,
+      "title": "AI agents work in text. Humans think in visuals. I spent 2 months learning this the hard way.",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1sk9k3y/ai_agents_work_in_text_humans_think_in_visuals_i/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1sk9k3y/ai_agents_work_in_text_humans_think_in_visuals_i/",
+      "author": "",
+      "created_utc": "2026-04-13T12:37:10+00:00"
+    },
+    {
+      "rank": 10,
+      "title": "I built a 24/7 YouTube stream where AI writes a new song every few minutes about what time it is",
+      "subreddit": "artificial",
+      "score": 0,
+      "num_comments": 0,
+      "url": "https://www.reddit.com/r/artificial/comments/1skpkpe/i_built_a_247_youtube_stream_where_ai_writes_a/",
+      "permalink": "https://www.reddit.com/r/artificial/comments/1skpkpe/i_built_a_247_youtube_stream_where_ai_writes_a/",
+      "author": "",
+      "created_utc": "2026-04-13T22:02:03+00:00"
+    }
+  ]
+}

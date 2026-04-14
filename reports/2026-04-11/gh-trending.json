@@ -1,0 +1,216 @@
+{
+  "source": "github-trending",
+  "timestamp": "2026-04-11T01:29:15.870Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 99749,
+          "starsGained": 2352,
+          "url": "https://github.com/microsoft/markitdown"
+        },
+        {
+          "rank": 2,
+          "name": "coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "language": "TypeScript",
+          "stars": 15646,
+          "starsGained": 756,
+          "url": "https://github.com/coleam00/Archon"
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 52136,
+          "starsGained": 7671,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 4,
+          "name": "rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars": 11743,
+          "starsGained": 507,
+          "url": "https://github.com/rowboatlabs/rowboat"
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+          "language": "TypeScript",
+          "stars": 6119,
+          "starsGained": 1506,
+          "url": "https://github.com/multica-ai/multica"
+        }
+      ]
+    },
+    "monthly": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 52136,
+          "starsGained": 46639,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "description": "My personal directory of skills, straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 13850,
+          "starsGained": 12774,
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "rank": 3,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 29098,
+          "starsGained": 14315,
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+        },
+        {
+          "rank": 4,
+          "name": "bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars": 60245,
+          "starsGained": 32590,
+          "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+          "rank": 5,
+          "name": "666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 53236,
+          "starsGained": 40273,
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "rank": 6,
+          "name": "siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "language": "TypeScript",
+          "stars": 27626,
+          "starsGained": 19712,
+          "url": "https://github.com/siddharthvaddem/openscreen"
+        },
+        {
+          "rank": 7,
+          "name": "affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 150125,
+          "starsGained": 80939,
+          "url": "https://github.com/affaan-m/everything-claude-code"
+        },
+        {
+          "rank": 8,
+          "name": "jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+          "language": "JavaScript",
+          "stars": 18220,
+          "starsGained": 13975,
+          "url": "https://github.com/jarrodwatts/claude-hud"
+        },
+        {
+          "rank": 9,
+          "name": "lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "language": "Zig",
+          "stars": 28278,
+          "starsGained": 16279,
+          "url": "https://github.com/lightpanda-io/browser"
+        },
+        {
+          "rank": 10,
+          "name": "mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars": 20429,
+          "starsGained": 16503,
+          "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "rank": 11,
+          "name": "shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 51360,
+          "starsGained": 26930,
+          "url": "https://github.com/shareAI-lab/learn-claude-code"
+        },
+        {
+          "rank": 12,
+          "name": "TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 49297,
+          "starsGained": 17751,
+          "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+          "rank": 13,
+          "name": "obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 145777,
+          "starsGained": 70214,
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "rank": 14,
+          "name": "msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars": 77824,
+          "starsGained": 56117,
+          "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+          "rank": 15,
+          "name": "google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "language": "Kotlin",
+          "stars": 20223,
+          "starsGained": 4846,
+          "url": "https://github.com/google-ai-edge/gallery"
+        },
+        {
+          "rank": 16,
+          "name": "langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 9422,
+          "starsGained": 4187,
+          "url": "https://github.com/langchain-ai/open-swe"
+        },
+        {
+          "rank": 17,
+          "name": "onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 26427,
+          "starsGained": 8661,
+          "url": "https://github.com/onyx-dot-app/onyx"
+        }
+      ]
+    }
+  },
+  "items": []
+}

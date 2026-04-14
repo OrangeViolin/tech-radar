@@ -1,0 +1,857 @@
+{
+  "source": "follow-builders",
+  "timestamp": "2026-04-09T01:28:42.485Z",
+  "count": 18,
+  "metadata": {
+    "generatedAt": "2026-04-08T07:15:24.357Z",
+    "tweets": {
+      "count": 17,
+      "totalTweets": 35,
+      "items": [
+        {
+          "name": "Swyx",
+          "handle": "@swyx",
+          "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+          "topTweets": [
+            {
+              "text": "@latentspacepod @_lopopolo @OpenAI we didnt get a chance to pod with Alex yet but i am making damn sure to assign due credit!!!\n\nhttps://t.co/GC59IzgvQf https://t.co/AOEUeZD7Ms",
+              "likes": 6,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/swyx/status/2041568051041063118",
+              "createdAt": "2026-04-07T17:25:28.000Z"
+            },
+            {
+              "text": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the difference in self evident naming between “prompt injection” and “lethal trifecta”\n\nhttps://t.co/wSSVgEZeWM https://t.co/ovDqwQRvq5",
+              "likes": 4,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/swyx/status/2041739250421436591",
+              "createdAt": "2026-04-08T04:45:45.000Z"
+            },
+            {
+              "text": "ok amazon i see you \n\n- https://t.co/j57n1RekB4\n- https://t.co/PKU3KC9cW0\n\n(wew i'm actually going to try this)",
+              "likes": 4,
+              "retweets": 0,
+              "replies": 2,
+              "url": "https://x.com/swyx/status/2041675995665612954",
+              "createdAt": "2026-04-08T00:34:24.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Kevin Weil",
+          "handle": "@kevinweil",
+          "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+          "topTweets": [
+            {
+              "text": "Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come.\n\nAnd if you love the idea of building AI-native products to accelerate science, we're hiring a lead designer for Prism: apply here! https://t.co/Tt9MgzHxnO https://t.co/DgY3q5T",
+              "likes": 85,
+              "retweets": 7,
+              "replies": 4,
+              "url": "https://x.com/kevinweil/status/2041592093718749659",
+              "createdAt": "2026-04-07T19:01:00.000Z"
+            },
+            {
+              "text": "Paper Review is built to act more like a careful technical reviewer than a grammar checker. It looks for issues in math, derivations, notation, units, structure, and whether a paper’s claims are actually supported by the results. It also catches inconsistencies across sections, f",
+              "likes": 71,
+              "retweets": 5,
+              "replies": 2,
+              "url": "https://x.com/kevinweil/status/2041573802212303053",
+              "createdAt": "2026-04-07T17:48:19.000Z"
+            },
+            {
+              "text": "Try it out at https://t.co/4MBs45PNiU today and let me know what you think!",
+              "likes": 45,
+              "retweets": 4,
+              "replies": 0,
+              "url": "https://x.com/kevinweil/status/2041573804145799346",
+              "createdAt": "2026-04-07T17:48:20.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "So nice that I had to run around the entire lake https://t.co/tTEbGSe9uG",
+              "likes": 247,
+              "retweets": 3,
+              "replies": 20,
+              "url": "https://x.com/petergyang/status/2041653240828448820",
+              "createdAt": "2026-04-07T23:03:59.000Z"
+            },
+            {
+              "text": "Good initiative - I’m curious if Anthropic has been using mythos internally to ship at their recent insane velocity. https://t.co/378d3TuWbd",
+              "likes": 51,
+              "retweets": 0,
+              "replies": 13,
+              "url": "https://x.com/petergyang/status/2041678988318543908",
+              "createdAt": "2026-04-08T00:46:18.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nan Yu",
+          "handle": "@thenanyu",
+          "bio": "head of product @linear",
+          "topTweets": [
+            {
+              "text": "Many designers and eng. do well when you ask them to think through product questions in abstract. \n\nBut you have to take away the IDE/figma or they tend to dive right into coding/designing exactly what was asked for. \n\nMore designers should become PMs. They’d be good at it. https",
+              "likes": 191,
+              "retweets": 6,
+              "replies": 12,
+              "url": "https://x.com/thenanyu/status/2041495924682244275",
+              "createdAt": "2026-04-07T12:38:52.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Cat Wu",
+          "handle": "@_catwu",
+          "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+          "topTweets": [
+            {
+              "text": "Run /powerup to learn our team's favorite Claude Code CLI features! https://t.co/zPOta7pTP4",
+              "likes": 323,
+              "retweets": 17,
+              "replies": 6,
+              "url": "https://x.com/_catwu/status/2041655441864978552",
+              "createdAt": "2026-04-07T23:12:44.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Thariq",
+          "handle": "@trq212",
+          "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "topTweets": [
+            {
+              "text": "done about 10 of these calls so far + looked at more transcripts\n\nmany learnings but one of the biggest is that it's very easy to spend a lot of tokens on open ended verification that doesn't make your output better\n\nI'll try and write more on how to do it efficiently https://t.c",
+              "likes": 588,
+              "retweets": 16,
+              "replies": 56,
+              "url": "https://x.com/trq212/status/2041722125510377705",
+              "createdAt": "2026-04-08T03:37:42.000Z"
+            },
+            {
+              "text": "Doing a workshop on my technical writing process in SF in 2 weeks, hosted by friends @MilksandMatcha and @swyx. \n\nWould love to see you there! Link below. https://t.co/APf3KcFNBy",
+              "likes": 290,
+              "retweets": 17,
+              "replies": 22,
+              "url": "https://x.com/trq212/status/2041677067117588871",
+              "createdAt": "2026-04-08T00:38:39.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Guillermo Rauch",
+          "handle": "@rauchg",
+          "bio": "@vercel CEO",
+          "topTweets": [
+            {
+              "text": "Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best opportunity to build in generations. https://t.co/YWjCu3Ldo6",
+              "likes": 305,
+              "retweets": 13,
+              "replies": 22,
+              "url": "https://x.com/rauchg/status/2041720266154504351",
+              "createdAt": "2026-04-08T03:30:19.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Alex Albert",
+          "handle": "@alexalbert__",
+          "bio": "Research @AnthropicAI. Opinions are my own!",
+          "topTweets": [
+            {
+              "text": "We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview. https://t.co/Dz6um6HAWZ",
+              "likes": 16363,
+              "retweets": 1149,
+              "replies": 793,
+              "url": "https://x.com/alexalbert__/status/2041579938537775160",
+              "createdAt": "2026-04-07T18:12:42.000Z"
+            },
+            {
+              "text": "Glasswing is possibly the most consequential event in the AI industry I've seen up close since joining Anthropic almost 3 years ago. It feels like we're at a turning point in history. https://t.co/prjQaH7kQ8",
+              "likes": 2718,
+              "retweets": 120,
+              "replies": 106,
+              "url": "https://x.com/alexalbert__/status/2041578743769280811",
+              "createdAt": "2026-04-07T18:07:57.000Z"
+            },
+            {
+              "text": "Mythos Preview is currently available to our launch partners in Project Glasswing. Learn more about the model and the project here: https://t.co/eagt68oUPj",
+              "likes": 1450,
+              "retweets": 68,
+              "replies": 56,
+              "url": "https://x.com/alexalbert__/status/2041579950332113155",
+              "createdAt": "2026-04-07T18:12:45.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.\n\nAnd as coding and tool us",
+              "likes": 125,
+              "retweets": 16,
+              "replies": 12,
+              "url": "https://x.com/levie/status/2041732610179703100",
+              "createdAt": "2026-04-08T04:19:22.000Z"
+            },
+            {
+              "text": "The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work. \n\nThis is the jump when you go from having a chatbot to being able to actually have an agent go off and do work for minutes or even hours and come back with a compl",
+              "likes": 119,
+              "retweets": 11,
+              "replies": 30,
+              "url": "https://x.com/levie/status/2041512156693201176",
+              "createdAt": "2026-04-07T13:43:22.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Ryo Lu",
+          "handle": "@ryolu_",
+          "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+          "topTweets": [
+            {
+              "text": "no extra buttons \njust click, draw, chat\nfully in flow https://t.co/oUEZLgDpHO",
+              "likes": 373,
+              "retweets": 11,
+              "replies": 27,
+              "url": "https://x.com/ryolu_/status/2041564082034372956",
+              "createdAt": "2026-04-07T17:09:42.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+          "topTweets": [
+            {
+              "text": "Oh man Yahoo Tech... you got so close. You almost had it.\n\nBetter luck next time! https://t.co/yYmLHeQIOP",
+              "likes": 114,
+              "retweets": 0,
+              "replies": 19,
+              "url": "https://x.com/garrytan/status/2041750093414731888",
+              "createdAt": "2026-04-08T05:28:50.000Z"
+            },
+            {
+              "text": "I like how Claude Code allows bash so the agent can’t use Write File tool outside its workspace but it can seemingly “cat &gt;&gt;” to any file in the file system https://t.co/DKrCZ8Kh1Z",
+              "likes": 49,
+              "retweets": 1,
+              "replies": 13,
+              "url": "https://x.com/garrytan/status/2041654662764609735",
+              "createdAt": "2026-04-07T23:09:38.000Z"
+            },
+            {
+              "text": "We live in LISPy times for a specific reason: code is data and data is code again\n\nBut the weird thing? It’s Markdown.",
+              "likes": 44,
+              "retweets": 3,
+              "replies": 15,
+              "url": "https://x.com/garrytan/status/2041653129020936328",
+              "createdAt": "2026-04-07T23:03:32.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Zara Zhang",
+          "handle": "@zarazhangrui",
+          "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+          "topTweets": [
+            {
+              "text": "Introducing the Personalized Podcast skill: Turn anything into a podcast with 2 AI hosts, publish it as an RSS feed, and listen to the show in your favorite podcast app on the go\n\nI've been remixing my meeting transcripts into podcasts where the AIs \"eavesdrop\" on my conversation",
+              "likes": 155,
+              "retweets": 9,
+              "replies": 16,
+              "url": "https://x.com/zarazhangrui/status/2041736869998948528",
+              "createdAt": "2026-04-08T04:36:18.000Z"
+            },
+            {
+              "text": "Skill: https://t.co/WP0b4wfNKJ",
+              "likes": 11,
+              "retweets": 0,
+              "replies": 1,
+              "url": "https://x.com/zarazhangrui/status/2041736976630739000",
+              "createdAt": "2026-04-08T04:36:43.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "The Varanasi brothers are Silicon Valley’s greatest secret https://t.co/cibFBMSMCK",
+              "likes": 169,
+              "retweets": 7,
+              "replies": 4,
+              "url": "https://x.com/nikunj/status/2041513787245949110",
+              "createdAt": "2026-04-07T13:49:51.000Z"
+            },
+            {
+              "text": "At some point, early stage founders decided to optimize for views and funding instead of focusing on product and retention..\n\nAnd, it’s starting to show. One of the very first things I do is look at change logs (or feature releases) of supposedly flashy companies. Or read case st",
+              "likes": 43,
+              "retweets": 2,
+              "replies": 4,
+              "url": "https://x.com/nikunj/status/2041757065354293760",
+              "createdAt": "2026-04-08T05:56:33.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "CodexBar 0.20 is out! 🎚️\n\n🆕 New providers: Perplexity + OpenCode Go\n🔄 Switch Codex accounts without re-login\n 🔧 Fixed Claude token/cost inflation from dupes\n 📊 Cost history merges session usage into provider history\n\n16 providers tracked. One menu bar. https://t.co/gPOeR1Rno",
+              "likes": 291,
+              "retweets": 22,
+              "replies": 24,
+              "url": "https://x.com/steipete/status/2041731875241066517",
+              "createdAt": "2026-04-08T04:16:27.000Z"
+            },
+            {
+              "text": "Trending on Hacker News rn. https://t.co/MVfZFD2IHI",
+              "likes": 140,
+              "retweets": 5,
+              "replies": 19,
+              "url": "https://x.com/steipete/status/2041719008953606148",
+              "createdAt": "2026-04-08T03:25:19.000Z"
+            },
+            {
+              "text": "Thanks to @RatulSarna for the gardening, also @BeelixGit, @enzonaute, @ngutman, @ratulsarna and more contributors 🙏",
+              "likes": 14,
+              "retweets": 0,
+              "replies": 3,
+              "url": "https://x.com/steipete/status/2041731877787025448",
+              "createdAt": "2026-04-08T04:16:27.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Dan Shipper",
+          "handle": "@danshipper",
+          "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+          "topTweets": [
+            {
+              "text": "almost there!! \n\nwhat a wild ride https://t.co/aIOYxU8LMi",
+              "likes": 75,
+              "retweets": 0,
+              "replies": 13,
+              "url": "https://x.com/danshipper/status/2041533632410513439",
+              "createdAt": "2026-04-07T15:08:42.000Z"
+            },
+            {
+              "text": "be a model manager https://t.co/I6mVnlPEbM",
+              "likes": 47,
+              "retweets": 3,
+              "replies": 6,
+              "url": "https://x.com/danshipper/status/2041624900046106907",
+              "createdAt": "2026-04-07T21:11:22.000Z"
+            },
+            {
+              "text": "What do OpenClaw dreams look like?\n\nHere's a visualization: https://t.co/vvOSGGLAac",
+              "likes": 11,
+              "retweets": 1,
+              "replies": 0,
+              "url": "https://x.com/danshipper/status/2041514123683418545",
+              "createdAt": "2026-04-07T13:51:11.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aditya Agarwal",
+          "handle": "@adityaag",
+          "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+          "topTweets": [
+            {
+              "text": "A  lot of the conversation circa 2009 was about making the web 2.0 read/write and malleable.\n\nWe are living through that today but for all software. \n\nWhat if all software could be forked, changed, re-mixed and customized?",
+              "likes": 12,
+              "retweets": 0,
+              "replies": 4,
+              "url": "https://x.com/adityaag/status/2041658196813869414",
+              "createdAt": "2026-04-07T23:23:40.000Z"
+            },
+            {
+              "text": "This new Mythos model is absurd.\n\nWhat a time to be alive.\n\nWhether you invest or you build -- please take a moment to appreciate what an incredible time we live in.",
+              "likes": 9,
+              "retweets": 1,
+              "replies": 1,
+              "url": "https://x.com/adityaag/status/2041771160359375001",
+              "createdAt": "2026-04-08T06:52:33.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Sam Altman",
+          "handle": "@sama",
+          "bio": "AI is cool i guess",
+          "topTweets": [
+            {
+              "text": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
+              "likes": 18281,
+              "retweets": 895,
+              "replies": 1228,
+              "url": "https://x.com/sama/status/2041658719839383945",
+              "createdAt": "2026-04-07T23:25:45.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 1,
+      "items": [
+        {
+          "name": "Latent Space",
+          "title": "Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony",
+          "url": "https://www.youtube.com/@LatentSpacePod",
+          "publishedAt": "2026-04-07T17:14:26.000Z",
+          "transcriptLength": 89927,
+          "transcriptPreview": "Speaker 1 | 00:00 - 00:36\nI do think that there is an interesting space to explore here with codecs, the harness as part of building AI products. Right? There's a ton of momentum around getting the models to be good at coding. We've seen big leaps in, like, the task complexity with each incremental model release where if you can figure out how to collapse a product that you're trying to build, a user journey that you're trying to solve into code, it's pretty natural to use the Codex harness to s"
+        }
+      ]
+    },
+    "blogs": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "items": [
+    {
+      "name": "Swyx",
+      "handle": "@swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "topTweets": [
+        {
+          "text": "@latentspacepod @_lopopolo @OpenAI we didnt get a chance to pod with Alex yet but i am making damn sure to assign due credit!!!\n\nhttps://t.co/GC59IzgvQf https://t.co/AOEUeZD7Ms",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/swyx/status/2041568051041063118",
+          "createdAt": "2026-04-07T17:25:28.000Z"
+        },
+        {
+          "text": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the difference in self evident naming between “prompt injection” and “lethal trifecta”\n\nhttps://t.co/wSSVgEZeWM https://t.co/ovDqwQRvq5",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/swyx/status/2041739250421436591",
+          "createdAt": "2026-04-08T04:45:45.000Z"
+        },
+        {
+          "text": "ok amazon i see you \n\n- https://t.co/j57n1RekB4\n- https://t.co/PKU3KC9cW0\n\n(wew i'm actually going to try this)",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 2,
+          "url": "https://x.com/swyx/status/2041675995665612954",
+          "createdAt": "2026-04-08T00:34:24.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Kevin Weil",
+      "handle": "@kevinweil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "topTweets": [
+        {
+          "text": "Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come.\n\nAnd if you love the idea of building AI-native products to accelerate science, we're hiring a lead designer for Prism: apply here! https://t.co/Tt9MgzHxnO https://t.co/DgY3q5T",
+          "likes": 85,
+          "retweets": 7,
+          "replies": 4,
+          "url": "https://x.com/kevinweil/status/2041592093718749659",
+          "createdAt": "2026-04-07T19:01:00.000Z"
+        },
+        {
+          "text": "Paper Review is built to act more like a careful technical reviewer than a grammar checker. It looks for issues in math, derivations, notation, units, structure, and whether a paper’s claims are actually supported by the results. It also catches inconsistencies across sections, f",
+          "likes": 71,
+          "retweets": 5,
+          "replies": 2,
+          "url": "https://x.com/kevinweil/status/2041573802212303053",
+          "createdAt": "2026-04-07T17:48:19.000Z"
+        },
+        {
+          "text": "Try it out at https://t.co/4MBs45PNiU today and let me know what you think!",
+          "likes": 45,
+          "retweets": 4,
+          "replies": 0,
+          "url": "https://x.com/kevinweil/status/2041573804145799346",
+          "createdAt": "2026-04-07T17:48:20.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "@petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "topTweets": [
+        {
+          "text": "So nice that I had to run around the entire lake https://t.co/tTEbGSe9uG",
+          "likes": 247,
+          "retweets": 3,
+          "replies": 20,
+          "url": "https://x.com/petergyang/status/2041653240828448820",
+          "createdAt": "2026-04-07T23:03:59.000Z"
+        },
+        {
+          "text": "Good initiative - I’m curious if Anthropic has been using mythos internally to ship at their recent insane velocity. https://t.co/378d3TuWbd",
+          "likes": 51,
+          "retweets": 0,
+          "replies": 13,
+          "url": "https://x.com/petergyang/status/2041678988318543908",
+          "createdAt": "2026-04-08T00:46:18.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nan Yu",
+      "handle": "@thenanyu",
+      "bio": "head of product @linear",
+      "topTweets": [
+        {
+          "text": "Many designers and eng. do well when you ask them to think through product questions in abstract. \n\nBut you have to take away the IDE/figma or they tend to dive right into coding/designing exactly what was asked for. \n\nMore designers should become PMs. They’d be good at it. https",
+          "likes": 191,
+          "retweets": 6,
+          "replies": 12,
+          "url": "https://x.com/thenanyu/status/2041495924682244275",
+          "createdAt": "2026-04-07T12:38:52.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Cat Wu",
+      "handle": "@_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "topTweets": [
+        {
+          "text": "Run /powerup to learn our team's favorite Claude Code CLI features! https://t.co/zPOta7pTP4",
+          "likes": 323,
+          "retweets": 17,
+          "replies": 6,
+          "url": "https://x.com/_catwu/status/2041655441864978552",
+          "createdAt": "2026-04-07T23:12:44.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Thariq",
+      "handle": "@trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "topTweets": [
+        {
+          "text": "done about 10 of these calls so far + looked at more transcripts\n\nmany learnings but one of the biggest is that it's very easy to spend a lot of tokens on open ended verification that doesn't make your output better\n\nI'll try and write more on how to do it efficiently https://t.c",
+          "likes": 588,
+          "retweets": 16,
+          "replies": 56,
+          "url": "https://x.com/trq212/status/2041722125510377705",
+          "createdAt": "2026-04-08T03:37:42.000Z"
+        },
+        {
+          "text": "Doing a workshop on my technical writing process in SF in 2 weeks, hosted by friends @MilksandMatcha and @swyx. \n\nWould love to see you there! Link below. https://t.co/APf3KcFNBy",
+          "likes": 290,
+          "retweets": 17,
+          "replies": 22,
+          "url": "https://x.com/trq212/status/2041677067117588871",
+          "createdAt": "2026-04-08T00:38:39.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "bio": "@vercel CEO",
+      "topTweets": [
+        {
+          "text": "Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best opportunity to build in generations. https://t.co/YWjCu3Ldo6",
+          "likes": 305,
+          "retweets": 13,
+          "replies": 22,
+          "url": "https://x.com/rauchg/status/2041720266154504351",
+          "createdAt": "2026-04-08T03:30:19.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Alex Albert",
+      "handle": "@alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "topTweets": [
+        {
+          "text": "We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview. https://t.co/Dz6um6HAWZ",
+          "likes": 16363,
+          "retweets": 1149,
+          "replies": 793,
+          "url": "https://x.com/alexalbert__/status/2041579938537775160",
+          "createdAt": "2026-04-07T18:12:42.000Z"
+        },
+        {
+          "text": "Glasswing is possibly the most consequential event in the AI industry I've seen up close since joining Anthropic almost 3 years ago. It feels like we're at a turning point in history. https://t.co/prjQaH7kQ8",
+          "likes": 2718,
+          "retweets": 120,
+          "replies": 106,
+          "url": "https://x.com/alexalbert__/status/2041578743769280811",
+          "createdAt": "2026-04-07T18:07:57.000Z"
+        },
+        {
+          "text": "Mythos Preview is currently available to our launch partners in Project Glasswing. Learn more about the model and the project here: https://t.co/eagt68oUPj",
+          "likes": 1450,
+          "retweets": 68,
+          "replies": 56,
+          "url": "https://x.com/alexalbert__/status/2041579950332113155",
+          "createdAt": "2026-04-07T18:12:45.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aaron Levie",
+      "handle": "@levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "topTweets": [
+        {
+          "text": "Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.\n\nAnd as coding and tool us",
+          "likes": 125,
+          "retweets": 16,
+          "replies": 12,
+          "url": "https://x.com/levie/status/2041732610179703100",
+          "createdAt": "2026-04-08T04:19:22.000Z"
+        },
+        {
+          "text": "The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work. \n\nThis is the jump when you go from having a chatbot to being able to actually have an agent go off and do work for minutes or even hours and come back with a compl",
+          "likes": 119,
+          "retweets": 11,
+          "replies": 30,
+          "url": "https://x.com/levie/status/2041512156693201176",
+          "createdAt": "2026-04-07T13:43:22.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Ryo Lu",
+      "handle": "@ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "topTweets": [
+        {
+          "text": "no extra buttons \njust click, draw, chat\nfully in flow https://t.co/oUEZLgDpHO",
+          "likes": 373,
+          "retweets": 11,
+          "replies": 27,
+          "url": "https://x.com/ryolu_/status/2041564082034372956",
+          "createdAt": "2026-04-07T17:09:42.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "@garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+      "topTweets": [
+        {
+          "text": "Oh man Yahoo Tech... you got so close. You almost had it.\n\nBetter luck next time! https://t.co/yYmLHeQIOP",
+          "likes": 114,
+          "retweets": 0,
+          "replies": 19,
+          "url": "https://x.com/garrytan/status/2041750093414731888",
+          "createdAt": "2026-04-08T05:28:50.000Z"
+        },
+        {
+          "text": "I like how Claude Code allows bash so the agent can’t use Write File tool outside its workspace but it can seemingly “cat &gt;&gt;” to any file in the file system https://t.co/DKrCZ8Kh1Z",
+          "likes": 49,
+          "retweets": 1,
+          "replies": 13,
+          "url": "https://x.com/garrytan/status/2041654662764609735",
+          "createdAt": "2026-04-07T23:09:38.000Z"
+        },
+        {
+          "text": "We live in LISPy times for a specific reason: code is data and data is code again\n\nBut the weird thing? It’s Markdown.",
+          "likes": 44,
+          "retweets": 3,
+          "replies": 15,
+          "url": "https://x.com/garrytan/status/2041653129020936328",
+          "createdAt": "2026-04-07T23:03:32.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Zara Zhang",
+      "handle": "@zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "topTweets": [
+        {
+          "text": "Introducing the Personalized Podcast skill: Turn anything into a podcast with 2 AI hosts, publish it as an RSS feed, and listen to the show in your favorite podcast app on the go\n\nI've been remixing my meeting transcripts into podcasts where the AIs \"eavesdrop\" on my conversation",
+          "likes": 155,
+          "retweets": 9,
+          "replies": 16,
+          "url": "https://x.com/zarazhangrui/status/2041736869998948528",
+          "createdAt": "2026-04-08T04:36:18.000Z"
+        },
+        {
+          "text": "Skill: https://t.co/WP0b4wfNKJ",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 1,
+          "url": "https://x.com/zarazhangrui/status/2041736976630739000",
+          "createdAt": "2026-04-08T04:36:43.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nikunj Kothari",
+      "handle": "@nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "topTweets": [
+        {
+          "text": "The Varanasi brothers are Silicon Valley’s greatest secret https://t.co/cibFBMSMCK",
+          "likes": 169,
+          "retweets": 7,
+          "replies": 4,
+          "url": "https://x.com/nikunj/status/2041513787245949110",
+          "createdAt": "2026-04-07T13:49:51.000Z"
+        },
+        {
+          "text": "At some point, early stage founders decided to optimize for views and funding instead of focusing on product and retention..\n\nAnd, it’s starting to show. One of the very first things I do is look at change logs (or feature releases) of supposedly flashy companies. Or read case st",
+          "likes": 43,
+          "retweets": 2,
+          "replies": 4,
+          "url": "https://x.com/nikunj/status/2041757065354293760",
+          "createdAt": "2026-04-08T05:56:33.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "topTweets": [
+        {
+          "text": "CodexBar 0.20 is out! 🎚️\n\n🆕 New providers: Perplexity + OpenCode Go\n🔄 Switch Codex accounts without re-login\n 🔧 Fixed Claude token/cost inflation from dupes\n 📊 Cost history merges session usage into provider history\n\n16 providers tracked. One menu bar. https://t.co/gPOeR1Rno",
+          "likes": 291,
+          "retweets": 22,
+          "replies": 24,
+          "url": "https://x.com/steipete/status/2041731875241066517",
+          "createdAt": "2026-04-08T04:16:27.000Z"
+        },
+        {
+          "text": "Trending on Hacker News rn. https://t.co/MVfZFD2IHI",
+          "likes": 140,
+          "retweets": 5,
+          "replies": 19,
+          "url": "https://x.com/steipete/status/2041719008953606148",
+          "createdAt": "2026-04-08T03:25:19.000Z"
+        },
+        {
+          "text": "Thanks to @RatulSarna for the gardening, also @BeelixGit, @enzonaute, @ngutman, @ratulsarna and more contributors 🙏",
+          "likes": 14,
+          "retweets": 0,
+          "replies": 3,
+          "url": "https://x.com/steipete/status/2041731877787025448",
+          "createdAt": "2026-04-08T04:16:27.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Dan Shipper",
+      "handle": "@danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "topTweets": [
+        {
+          "text": "almost there!! \n\nwhat a wild ride https://t.co/aIOYxU8LMi",
+          "likes": 75,
+          "retweets": 0,
+          "replies": 13,
+          "url": "https://x.com/danshipper/status/2041533632410513439",
+          "createdAt": "2026-04-07T15:08:42.000Z"
+        },
+        {
+          "text": "be a model manager https://t.co/I6mVnlPEbM",
+          "likes": 47,
+          "retweets": 3,
+          "replies": 6,
+          "url": "https://x.com/danshipper/status/2041624900046106907",
+          "createdAt": "2026-04-07T21:11:22.000Z"
+        },
+        {
+          "text": "What do OpenClaw dreams look like?\n\nHere's a visualization: https://t.co/vvOSGGLAac",
+          "likes": 11,
+          "retweets": 1,
+          "replies": 0,
+          "url": "https://x.com/danshipper/status/2041514123683418545",
+          "createdAt": "2026-04-07T13:51:11.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aditya Agarwal",
+      "handle": "@adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "topTweets": [
+        {
+          "text": "A  lot of the conversation circa 2009 was about making the web 2.0 read/write and malleable.\n\nWe are living through that today but for all software. \n\nWhat if all software could be forked, changed, re-mixed and customized?",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 4,
+          "url": "https://x.com/adityaag/status/2041658196813869414",
+          "createdAt": "2026-04-07T23:23:40.000Z"
+        },
+        {
+          "text": "This new Mythos model is absurd.\n\nWhat a time to be alive.\n\nWhether you invest or you build -- please take a moment to appreciate what an incredible time we live in.",
+          "likes": 9,
+          "retweets": 1,
+          "replies": 1,
+          "url": "https://x.com/adityaag/status/2041771160359375001",
+          "createdAt": "2026-04-08T06:52:33.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Sam Altman",
+      "handle": "@sama",
+      "bio": "AI is cool i guess",
+      "topTweets": [
+        {
+          "text": "To celebrate 3 million weekly codex users, we are resetting usage limits.\n\nWe will do this every million users up to 10 million.\n\nHappy building!",
+          "likes": 18281,
+          "retweets": 895,
+          "replies": 1228,
+          "url": "https://x.com/sama/status/2041658719839383945",
+          "createdAt": "2026-04-07T23:25:45.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Latent Space",
+      "title": "Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-04-07T17:14:26.000Z",
+      "transcriptLength": 89927,
+      "transcriptPreview": "Speaker 1 | 00:00 - 00:36\nI do think that there is an interesting space to explore here with codecs, the harness as part of building AI products. Right? There's a ton of momentum around getting the models to be good at coding. We've seen big leaps in, like, the task complexity with each incremental model release where if you can figure out how to collapse a product that you're trying to build, a user journey that you're trying to solve into code, it's pretty natural to use the Codex harness to s",
+      "category": "播客"
+    }
+  ]
+}

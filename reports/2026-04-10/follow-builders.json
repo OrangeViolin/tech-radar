@@ -1,0 +1,759 @@
+{
+  "source": "follow-builders",
+  "timestamp": "2026-04-10T01:28:49.185Z",
+  "count": 17,
+  "metadata": {
+    "generatedAt": "2026-04-09T07:18:49.679Z",
+    "tweets": {
+      "count": 14,
+      "totalTweets": 30,
+      "items": [
+        {
+          "name": "Josh Woodward",
+          "handle": "@joshwoodward",
+          "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+          "topTweets": [
+            {
+              "text": "Most Al chatbots give you basic \"projects.\" Gemini just built you a second brain. 🧠\n\nIntroducing Notebooks: some of the magic from @NotebookLM, integrated directly into @GeminiApp.\n\nHere's what changes for you today:\n\n📚 Upload 100 sources for free\n\n📂 Organize your chats - the ",
+              "likes": 968,
+              "retweets": 107,
+              "replies": 83,
+              "url": "https://x.com/joshwoodward/status/2041982173402821018",
+              "createdAt": "2026-04-08T20:51:02.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Kevin Weil",
+          "handle": "@kevinweil",
+          "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+          "topTweets": [
+            {
+              "text": "Five Erdos problems at once! The proofs are getting more elegant as the models improve 👀 https://t.co/imzDQJyQbC",
+              "likes": 127,
+              "retweets": 8,
+              "replies": 2,
+              "url": "https://x.com/kevinweil/status/2042073869880848481",
+              "createdAt": "2026-04-09T02:55:25.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Yang",
+          "handle": "@petergyang",
+          "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "topTweets": [
+            {
+              "text": "As much as I love using Claude Max and ChatGPT Pro, I don't think these all-you-can-use AI subscriptions will last forever.\n\nHere's my new deep dive that covers:\n\n→ Why Anthropic cut off OpenClaw access\n→ How to run local models on your Mac\n→ What I'm seeing on the ground in Chin",
+              "likes": 211,
+              "retweets": 15,
+              "replies": 19,
+              "url": "https://x.com/petergyang/status/2041989206495653915",
+              "createdAt": "2026-04-08T21:18:59.000Z"
+            },
+            {
+              "text": "Titles don’t matter https://t.co/K8RtB3B4Wr",
+              "likes": 16,
+              "retweets": 2,
+              "replies": 1,
+              "url": "https://x.com/petergyang/status/2042118898603192489",
+              "createdAt": "2026-04-09T05:54:20.000Z"
+            },
+            {
+              "text": "Support my friend Aadit's new company - great name btw :) https://t.co/rc1WgqG5p1",
+              "likes": 9,
+              "retweets": 2,
+              "replies": 2,
+              "url": "https://x.com/petergyang/status/2041996329703092582",
+              "createdAt": "2026-04-08T21:47:18.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Thariq",
+          "handle": "@trq212",
+          "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "topTweets": [
+            {
+              "text": "I want to do some streams where I work with non-technical people using Claude Code to figure out how they might be able to improve their process. \n\nMy feeling is that just a few tips could make a big difference in efficiency. Any mutuals interested?",
+              "likes": 2632,
+              "retweets": 63,
+              "replies": 549,
+              "url": "https://x.com/trq212/status/2042005043289977232",
+              "createdAt": "2026-04-08T22:21:55.000Z"
+            },
+            {
+              "text": "would like to start with people I know already so we can get over initial awkwardness!",
+              "likes": 162,
+              "retweets": 0,
+              "replies": 34,
+              "url": "https://x.com/trq212/status/2042005754262208708",
+              "createdAt": "2026-04-08T22:24:45.000Z"
+            },
+            {
+              "text": "The docs are a gold mine, read more here: https://t.co/YajFD7anFX",
+              "likes": 84,
+              "retweets": 5,
+              "replies": 10,
+              "url": "https://x.com/trq212/status/2041935805590204754",
+              "createdAt": "2026-04-08T17:46:48.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Amjad Masad",
+          "handle": "@amasad",
+          "bio": "ceo @replit. civilizationist",
+          "topTweets": [
+            {
+              "text": "🔥 https://t.co/B8DRDb8yeY",
+              "likes": 66,
+              "retweets": 4,
+              "replies": 4,
+              "url": "https://x.com/amasad/status/2041789010335690806",
+              "createdAt": "2026-04-08T08:03:29.000Z"
+            },
+            {
+              "text": "There’s a reason bootstrapped solo businesses are accelerating on Replit… we gave builders entire teams. https://t.co/2c65YDgcpp",
+              "likes": 33,
+              "retweets": 3,
+              "replies": 7,
+              "url": "https://x.com/amasad/status/2042133509939298511",
+              "createdAt": "2026-04-09T06:52:24.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Guillermo Rauch",
+          "handle": "@rauchg",
+          "bio": "@vercel CEO",
+          "topTweets": [
+            {
+              "text": "The web's brightest days are ahead.\n\n1️⃣ The web is AI's natural medium. LLMs are proficient in web tech. The browser is now everyone's IDE. No 'App Store' bs.\n\n2️⃣ As we approach coding superintelligence, powerful low-level web APIs are maturing: WebGPU, HTML in Canvas, WebAssem",
+              "likes": 924,
+              "retweets": 77,
+              "replies": 73,
+              "url": "https://x.com/rauchg/status/2041883605711122488",
+              "createdAt": "2026-04-08T14:19:22.000Z"
+            },
+            {
+              "text": "The best outcome for humanity is many strong AIs competing for the top spot.\n\nVercel is proudly powering https://t.co/ZsS5nRfjIF and the infrastructure that made today's model release possible. https://t.co/a0liuZfANa",
+              "likes": 422,
+              "retweets": 28,
+              "replies": 27,
+              "url": "https://x.com/rauchg/status/2041922907832807443",
+              "createdAt": "2026-04-08T16:55:32.000Z"
+            },
+            {
+              "text": "AI Gateway is quite literally a “peace of mind” product:\n✅ No downtime\n✅ No lock-in\n✅ No keys \n🆕 No training https://t.co/qdUrf4ds5s",
+              "likes": 236,
+              "retweets": 11,
+              "replies": 25,
+              "url": "https://x.com/rauchg/status/2041957973531226372",
+              "createdAt": "2026-04-08T19:14:53.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Alex Albert",
+          "handle": "@alexalbert__",
+          "bio": "Research @AnthropicAI. Opinions are my own!",
+          "topTweets": [
+            {
+              "text": "I've found Managed Agents to somehow be both the fastest way to hack together a weekend agent project and the most robust way to ship one to millions of users.\n\nIt eliminates all the complexity of self-hosting an agent but still allows a great degree of flexibility with setting u",
+              "likes": 846,
+              "retweets": 33,
+              "replies": 62,
+              "url": "https://x.com/alexalbert__/status/2041941720611614786",
+              "createdAt": "2026-04-08T18:10:18.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aaron Levie",
+          "handle": "@levie",
+          "bio": "ceo @box - your business lives in content. unleash it with AI",
+          "topTweets": [
+            {
+              "text": "Background agents for knowledge work are here. You can use the Box API or MCP to automate any content workflow with Box + Claude Managed Agents. In 2 minutes you can be automating document review processes, data extraction, or connecting content to other IT systems. Crazy times. ",
+              "likes": 235,
+              "retweets": 21,
+              "replies": 26,
+              "url": "https://x.com/levie/status/2041975669928702370",
+              "createdAt": "2026-04-08T20:25:12.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Garry Tan",
+          "handle": "@garrytan",
+          "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+          "topTweets": [
+            {
+              "text": "Legit baller @AnjneyMidha https://t.co/FU4417n34D",
+              "likes": 92,
+              "retweets": 0,
+              "replies": 11,
+              "url": "https://x.com/garrytan/status/2042081320877408265",
+              "createdAt": "2026-04-09T03:25:01.000Z"
+            },
+            {
+              "text": "If you’re taking advice from 1x speed engineers I don’t know what to tell you\n\nDon’t believe the haters. Speed up with us. https://t.co/50fBezfq0p",
+              "likes": 44,
+              "retweets": 1,
+              "replies": 15,
+              "url": "https://x.com/garrytan/status/2042109985346490483",
+              "createdAt": "2026-04-09T05:18:55.000Z"
+            },
+            {
+              "text": "The cool thing about markdown is that the agent itself can decide when a GStack skill will help you\n\nJust make stuff as you might and it’ll trigger as needed https://t.co/7ogoZIhq8H",
+              "likes": 35,
+              "retweets": 2,
+              "replies": 13,
+              "url": "https://x.com/garrytan/status/2042061979997831556",
+              "createdAt": "2026-04-09T02:08:10.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Nikunj Kothari",
+          "handle": "@nikunj",
+          "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+          "topTweets": [
+            {
+              "text": "Inspired by @karpathy & @FarzaTV, introducing LLMwiki.. fully open source to help build yours. \n\nInputs were tweets, bookmarks, iMessage/WhatsApp, and all my writing. \n\nSpent a bunch of time refining the frontend design to make it look great. \n\nEven though every single article he",
+              "likes": 209,
+              "retweets": 6,
+              "replies": 13,
+              "url": "https://x.com/nikunj/status/2042020992969744702",
+              "createdAt": "2026-04-08T23:25:18.000Z"
+            },
+            {
+              "text": "Repo here - fully vibe coded using Opus 4.5: https://t.co/h6T9Neo3NL\n\nAlso props to @andrewfarah for helping sync X bookmarks, @TimFarrelly8 for Substack2Markdown and @kepano for writing File over App three years ago!",
+              "likes": 19,
+              "retweets": 2,
+              "replies": 4,
+              "url": "https://x.com/nikunj/status/2042021738083766568",
+              "createdAt": "2026-04-08T23:28:15.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Peter Steinberger",
+          "handle": "@steipete",
+          "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "topTweets": [
+            {
+              "text": "I'm working on character evals and noticed that Claude would constantly pick itself as #1, so I removed the model names from the judge and changed things. https://t.co/Y9SqqJSYRc",
+              "likes": 560,
+              "retweets": 10,
+              "replies": 64,
+              "url": "https://x.com/steipete/status/2042017534816231486",
+              "createdAt": "2026-04-08T23:11:33.000Z"
+            },
+            {
+              "text": "Both can be true: I want really powerful local models, I'm also BOMBARDED with emails/messages of people complaining how even the top tier models are not good enough, make mistakes or don't follow instructions well enough.",
+              "likes": 225,
+              "retweets": 5,
+              "replies": 20,
+              "url": "https://x.com/steipete/status/2041936147450863952",
+              "createdAt": "2026-04-08T17:48:09.000Z"
+            },
+            {
+              "text": "redemption arc completed 🦞💻 https://t.co/to4t5OHIw4",
+              "likes": 179,
+              "retweets": 3,
+              "replies": 9,
+              "url": "https://x.com/steipete/status/2042019503907717344",
+              "createdAt": "2026-04-08T23:19:23.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Dan Shipper",
+          "handle": "@danshipper",
+          "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+          "topTweets": [
+            {
+              "text": "We use OpenClaws to do all of our work at @every. \n\nWe have 25 full-time employees, so we’re one of the few companies in the world that has seen how work changes when everyone has their own personal agent in the company Slack.\n\nI chatted with @every COO Brandon (@bran_don_gell) a",
+              "likes": 255,
+              "retweets": 18,
+              "replies": 15,
+              "url": "https://x.com/danshipper/status/2041903948873777629",
+              "createdAt": "2026-04-08T15:40:12.000Z"
+            },
+            {
+              "text": "Relevant bit of advice: https://t.co/HR0EZ82tsd",
+              "likes": 10,
+              "retweets": 1,
+              "replies": 1,
+              "url": "https://x.com/danshipper/status/2041878261316120944",
+              "createdAt": "2026-04-08T13:58:08.000Z"
+            },
+            {
+              "text": "@every @brandon @bran_don_gell YouTube: https://t.co/ktbxuuodu5\n\nSpotify: https://t.co/DDMNA60uhJ",
+              "likes": 0,
+              "retweets": 0,
+              "replies": 0,
+              "url": "https://x.com/danshipper/status/2041895030130909429",
+              "createdAt": "2026-04-08T15:04:46.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Aditya Agarwal",
+          "handle": "@adityaag",
+          "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+          "topTweets": [
+            {
+              "text": "\"First you shape the tools, then the tools shape you\".\n\nAt SPC, our entire team is now writing code on a weekly basis. Two months ago, there were only 1-2 people writing code. \n\nThis has been incredible on many levels but the most interesting one is how the tools are now shaping ",
+              "likes": 49,
+              "retweets": 6,
+              "replies": 10,
+              "url": "https://x.com/adityaag/status/2041985720706122070",
+              "createdAt": "2026-04-08T21:05:08.000Z"
+            }
+          ]
+        },
+        {
+          "name": "Claude",
+          "handle": "@claudeai",
+          "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "topTweets": [
+            {
+              "text": "Build and deploy your agents through the Claude Console, Claude Code, or our new CLI: https://t.co/E9xQ7xd4rG\n\nRead more on the blog: https://t.co/omWjJ4fK88",
+              "likes": 902,
+              "retweets": 59,
+              "replies": 42,
+              "url": "https://x.com/claudeai/status/2041927700063883281",
+              "createdAt": "2026-04-08T17:14:35.000Z"
+            },
+            {
+              "text": "On @vibecodeapp_, developers can now spin up agent infrastructure at least 10x faster with Managed Agents, going from a prompt to a deployed app without weeks of setup: https://t.co/YyvozwEc5O",
+              "likes": 825,
+              "retweets": 51,
+              "replies": 27,
+              "url": "https://x.com/claudeai/status/2041927698210058629",
+              "createdAt": "2026-04-08T17:14:35.000Z"
+            },
+            {
+              "text": "@sentry now takes you from Seer's root-cause analysis to a Claude-powered agent that writes the fix and opens a PR. They built the integration on Managed Agents in weeks: https://t.co/kPd2qFH2IM",
+              "likes": 486,
+              "retweets": 25,
+              "replies": 9,
+              "url": "https://x.com/claudeai/status/2041927696351994006",
+              "createdAt": "2026-04-08T17:14:34.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    "podcasts": {
+      "count": 1,
+      "items": [
+        {
+          "name": "AI & I by Every",
+          "title": "We Gave Every Employee an AI Agent. Here's What Happened.",
+          "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+          "publishedAt": "2026-04-08T15:00:00.000Z",
+          "transcriptLength": 49855,
+          "transcriptPreview": "Speaker 1 | 00:00 - 00:28\nClawed is not mine. Clawed is everybody's. A claw or a plus one is mine because you develop a personal relationship with your claw, and your claw can modify itself in response to talking to you. It becomes this reflection of you and who you are and your personality. If you're known for slaying inside of your org and you're using your claw publicly inside of Slack or Discord, your claw then becomes known for that same kind of thing and people trust it for that.\n\nSpeaker "
+        }
+      ]
+    },
+    "blogs": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+          "url": "https://www.anthropic.com/engineering/managed-agents",
+          "publishedAt": "",
+          "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, t"
+        },
+        {
+          "title": "Claude Managed Agents: get to production 10x faster",
+          "url": "https://claude.com/blog/claude-managed-agents",
+          "publishedAt": "Apr 08, 2026",
+          "summary": "Today, we&#x27;re launching Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale. Until now, building agents meant spending development cycles on secure infrastructure, state management, permissioning, and reworking your agent loops for every mode"
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "name": "Josh Woodward",
+      "handle": "@joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "topTweets": [
+        {
+          "text": "Most Al chatbots give you basic \"projects.\" Gemini just built you a second brain. 🧠\n\nIntroducing Notebooks: some of the magic from @NotebookLM, integrated directly into @GeminiApp.\n\nHere's what changes for you today:\n\n📚 Upload 100 sources for free\n\n📂 Organize your chats - the ",
+          "likes": 968,
+          "retweets": 107,
+          "replies": 83,
+          "url": "https://x.com/joshwoodward/status/2041982173402821018",
+          "createdAt": "2026-04-08T20:51:02.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Kevin Weil",
+      "handle": "@kevinweil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "topTweets": [
+        {
+          "text": "Five Erdos problems at once! The proofs are getting more elegant as the models improve 👀 https://t.co/imzDQJyQbC",
+          "likes": 127,
+          "retweets": 8,
+          "replies": 2,
+          "url": "https://x.com/kevinweil/status/2042073869880848481",
+          "createdAt": "2026-04-09T02:55:25.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Yang",
+      "handle": "@petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "topTweets": [
+        {
+          "text": "As much as I love using Claude Max and ChatGPT Pro, I don't think these all-you-can-use AI subscriptions will last forever.\n\nHere's my new deep dive that covers:\n\n→ Why Anthropic cut off OpenClaw access\n→ How to run local models on your Mac\n→ What I'm seeing on the ground in Chin",
+          "likes": 211,
+          "retweets": 15,
+          "replies": 19,
+          "url": "https://x.com/petergyang/status/2041989206495653915",
+          "createdAt": "2026-04-08T21:18:59.000Z"
+        },
+        {
+          "text": "Titles don’t matter https://t.co/K8RtB3B4Wr",
+          "likes": 16,
+          "retweets": 2,
+          "replies": 1,
+          "url": "https://x.com/petergyang/status/2042118898603192489",
+          "createdAt": "2026-04-09T05:54:20.000Z"
+        },
+        {
+          "text": "Support my friend Aadit's new company - great name btw :) https://t.co/rc1WgqG5p1",
+          "likes": 9,
+          "retweets": 2,
+          "replies": 2,
+          "url": "https://x.com/petergyang/status/2041996329703092582",
+          "createdAt": "2026-04-08T21:47:18.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Thariq",
+      "handle": "@trq212",
+      "bio": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+      "topTweets": [
+        {
+          "text": "I want to do some streams where I work with non-technical people using Claude Code to figure out how they might be able to improve their process. \n\nMy feeling is that just a few tips could make a big difference in efficiency. Any mutuals interested?",
+          "likes": 2632,
+          "retweets": 63,
+          "replies": 549,
+          "url": "https://x.com/trq212/status/2042005043289977232",
+          "createdAt": "2026-04-08T22:21:55.000Z"
+        },
+        {
+          "text": "would like to start with people I know already so we can get over initial awkwardness!",
+          "likes": 162,
+          "retweets": 0,
+          "replies": 34,
+          "url": "https://x.com/trq212/status/2042005754262208708",
+          "createdAt": "2026-04-08T22:24:45.000Z"
+        },
+        {
+          "text": "The docs are a gold mine, read more here: https://t.co/YajFD7anFX",
+          "likes": 84,
+          "retweets": 5,
+          "replies": 10,
+          "url": "https://x.com/trq212/status/2041935805590204754",
+          "createdAt": "2026-04-08T17:46:48.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Amjad Masad",
+      "handle": "@amasad",
+      "bio": "ceo @replit. civilizationist",
+      "topTweets": [
+        {
+          "text": "🔥 https://t.co/B8DRDb8yeY",
+          "likes": 66,
+          "retweets": 4,
+          "replies": 4,
+          "url": "https://x.com/amasad/status/2041789010335690806",
+          "createdAt": "2026-04-08T08:03:29.000Z"
+        },
+        {
+          "text": "There’s a reason bootstrapped solo businesses are accelerating on Replit… we gave builders entire teams. https://t.co/2c65YDgcpp",
+          "likes": 33,
+          "retweets": 3,
+          "replies": 7,
+          "url": "https://x.com/amasad/status/2042133509939298511",
+          "createdAt": "2026-04-09T06:52:24.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Guillermo Rauch",
+      "handle": "@rauchg",
+      "bio": "@vercel CEO",
+      "topTweets": [
+        {
+          "text": "The web's brightest days are ahead.\n\n1️⃣ The web is AI's natural medium. LLMs are proficient in web tech. The browser is now everyone's IDE. No 'App Store' bs.\n\n2️⃣ As we approach coding superintelligence, powerful low-level web APIs are maturing: WebGPU, HTML in Canvas, WebAssem",
+          "likes": 924,
+          "retweets": 77,
+          "replies": 73,
+          "url": "https://x.com/rauchg/status/2041883605711122488",
+          "createdAt": "2026-04-08T14:19:22.000Z"
+        },
+        {
+          "text": "The best outcome for humanity is many strong AIs competing for the top spot.\n\nVercel is proudly powering https://t.co/ZsS5nRfjIF and the infrastructure that made today's model release possible. https://t.co/a0liuZfANa",
+          "likes": 422,
+          "retweets": 28,
+          "replies": 27,
+          "url": "https://x.com/rauchg/status/2041922907832807443",
+          "createdAt": "2026-04-08T16:55:32.000Z"
+        },
+        {
+          "text": "AI Gateway is quite literally a “peace of mind” product:\n✅ No downtime\n✅ No lock-in\n✅ No keys \n🆕 No training https://t.co/qdUrf4ds5s",
+          "likes": 236,
+          "retweets": 11,
+          "replies": 25,
+          "url": "https://x.com/rauchg/status/2041957973531226372",
+          "createdAt": "2026-04-08T19:14:53.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Alex Albert",
+      "handle": "@alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "topTweets": [
+        {
+          "text": "I've found Managed Agents to somehow be both the fastest way to hack together a weekend agent project and the most robust way to ship one to millions of users.\n\nIt eliminates all the complexity of self-hosting an agent but still allows a great degree of flexibility with setting u",
+          "likes": 846,
+          "retweets": 33,
+          "replies": 62,
+          "url": "https://x.com/alexalbert__/status/2041941720611614786",
+          "createdAt": "2026-04-08T18:10:18.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aaron Levie",
+      "handle": "@levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "topTweets": [
+        {
+          "text": "Background agents for knowledge work are here. You can use the Box API or MCP to automate any content workflow with Box + Claude Managed Agents. In 2 minutes you can be automating document review processes, data extraction, or connecting content to other IT systems. Crazy times. ",
+          "likes": 235,
+          "retweets": 21,
+          "replies": 26,
+          "url": "https://x.com/levie/status/2041975669928702370",
+          "createdAt": "2026-04-08T20:25:12.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Garry Tan",
+      "handle": "@garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack—designer/engineer who helps founders—SF Dem accelerating the boom loop—Loves using emdashes",
+      "topTweets": [
+        {
+          "text": "Legit baller @AnjneyMidha https://t.co/FU4417n34D",
+          "likes": 92,
+          "retweets": 0,
+          "replies": 11,
+          "url": "https://x.com/garrytan/status/2042081320877408265",
+          "createdAt": "2026-04-09T03:25:01.000Z"
+        },
+        {
+          "text": "If you’re taking advice from 1x speed engineers I don’t know what to tell you\n\nDon’t believe the haters. Speed up with us. https://t.co/50fBezfq0p",
+          "likes": 44,
+          "retweets": 1,
+          "replies": 15,
+          "url": "https://x.com/garrytan/status/2042109985346490483",
+          "createdAt": "2026-04-09T05:18:55.000Z"
+        },
+        {
+          "text": "The cool thing about markdown is that the agent itself can decide when a GStack skill will help you\n\nJust make stuff as you might and it’ll trigger as needed https://t.co/7ogoZIhq8H",
+          "likes": 35,
+          "retweets": 2,
+          "replies": 13,
+          "url": "https://x.com/garrytan/status/2042061979997831556",
+          "createdAt": "2026-04-09T02:08:10.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Nikunj Kothari",
+      "handle": "@nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "topTweets": [
+        {
+          "text": "Inspired by @karpathy & @FarzaTV, introducing LLMwiki.. fully open source to help build yours. \n\nInputs were tweets, bookmarks, iMessage/WhatsApp, and all my writing. \n\nSpent a bunch of time refining the frontend design to make it look great. \n\nEven though every single article he",
+          "likes": 209,
+          "retweets": 6,
+          "replies": 13,
+          "url": "https://x.com/nikunj/status/2042020992969744702",
+          "createdAt": "2026-04-08T23:25:18.000Z"
+        },
+        {
+          "text": "Repo here - fully vibe coded using Opus 4.5: https://t.co/h6T9Neo3NL\n\nAlso props to @andrewfarah for helping sync X bookmarks, @TimFarrelly8 for Substack2Markdown and @kepano for writing File over App three years ago!",
+          "likes": 19,
+          "retweets": 2,
+          "replies": 4,
+          "url": "https://x.com/nikunj/status/2042021738083766568",
+          "createdAt": "2026-04-08T23:28:15.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Peter Steinberger",
+      "handle": "@steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "topTweets": [
+        {
+          "text": "I'm working on character evals and noticed that Claude would constantly pick itself as #1, so I removed the model names from the judge and changed things. https://t.co/Y9SqqJSYRc",
+          "likes": 560,
+          "retweets": 10,
+          "replies": 64,
+          "url": "https://x.com/steipete/status/2042017534816231486",
+          "createdAt": "2026-04-08T23:11:33.000Z"
+        },
+        {
+          "text": "Both can be true: I want really powerful local models, I'm also BOMBARDED with emails/messages of people complaining how even the top tier models are not good enough, make mistakes or don't follow instructions well enough.",
+          "likes": 225,
+          "retweets": 5,
+          "replies": 20,
+          "url": "https://x.com/steipete/status/2041936147450863952",
+          "createdAt": "2026-04-08T17:48:09.000Z"
+        },
+        {
+          "text": "redemption arc completed 🦞💻 https://t.co/to4t5OHIw4",
+          "likes": 179,
+          "retweets": 3,
+          "replies": 9,
+          "url": "https://x.com/steipete/status/2042019503907717344",
+          "createdAt": "2026-04-08T23:19:23.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Dan Shipper",
+      "handle": "@danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "topTweets": [
+        {
+          "text": "We use OpenClaws to do all of our work at @every. \n\nWe have 25 full-time employees, so we’re one of the few companies in the world that has seen how work changes when everyone has their own personal agent in the company Slack.\n\nI chatted with @every COO Brandon (@bran_don_gell) a",
+          "likes": 255,
+          "retweets": 18,
+          "replies": 15,
+          "url": "https://x.com/danshipper/status/2041903948873777629",
+          "createdAt": "2026-04-08T15:40:12.000Z"
+        },
+        {
+          "text": "Relevant bit of advice: https://t.co/HR0EZ82tsd",
+          "likes": 10,
+          "retweets": 1,
+          "replies": 1,
+          "url": "https://x.com/danshipper/status/2041878261316120944",
+          "createdAt": "2026-04-08T13:58:08.000Z"
+        },
+        {
+          "text": "@every @brandon @bran_don_gell YouTube: https://t.co/ktbxuuodu5\n\nSpotify: https://t.co/DDMNA60uhJ",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "url": "https://x.com/danshipper/status/2041895030130909429",
+          "createdAt": "2026-04-08T15:04:46.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Aditya Agarwal",
+      "handle": "@adityaag",
+      "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "topTweets": [
+        {
+          "text": "\"First you shape the tools, then the tools shape you\".\n\nAt SPC, our entire team is now writing code on a weekly basis. Two months ago, there were only 1-2 people writing code. \n\nThis has been incredible on many levels but the most interesting one is how the tools are now shaping ",
+          "likes": 49,
+          "retweets": 6,
+          "replies": 10,
+          "url": "https://x.com/adityaag/status/2041985720706122070",
+          "createdAt": "2026-04-08T21:05:08.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "Claude",
+      "handle": "@claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "topTweets": [
+        {
+          "text": "Build and deploy your agents through the Claude Console, Claude Code, or our new CLI: https://t.co/E9xQ7xd4rG\n\nRead more on the blog: https://t.co/omWjJ4fK88",
+          "likes": 902,
+          "retweets": 59,
+          "replies": 42,
+          "url": "https://x.com/claudeai/status/2041927700063883281",
+          "createdAt": "2026-04-08T17:14:35.000Z"
+        },
+        {
+          "text": "On @vibecodeapp_, developers can now spin up agent infrastructure at least 10x faster with Managed Agents, going from a prompt to a deployed app without weeks of setup: https://t.co/YyvozwEc5O",
+          "likes": 825,
+          "retweets": 51,
+          "replies": 27,
+          "url": "https://x.com/claudeai/status/2041927698210058629",
+          "createdAt": "2026-04-08T17:14:35.000Z"
+        },
+        {
+          "text": "@sentry now takes you from Seer's root-cause analysis to a Claude-powered agent that writes the fix and opens a PR. They built the integration on Managed Agents in weeks: https://t.co/kPd2qFH2IM",
+          "likes": 486,
+          "retweets": 25,
+          "replies": 9,
+          "url": "https://x.com/claudeai/status/2041927696351994006",
+          "createdAt": "2026-04-08T17:14:34.000Z"
+        }
+      ],
+      "category": "推文"
+    },
+    {
+      "name": "AI & I by Every",
+      "title": "We Gave Every Employee an AI Agent. Here's What Happened.",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-04-08T15:00:00.000Z",
+      "transcriptLength": 49855,
+      "transcriptPreview": "Speaker 1 | 00:00 - 00:28\nClawed is not mine. Clawed is everybody's. A claw or a plus one is mine because you develop a personal relationship with your claw, and your claw can modify itself in response to talking to you. It becomes this reflection of you and who you are and your personality. If you're known for slaying inside of your org and you're using your claw publicly inside of Slack or Discord, your claw then becomes known for that same kind of thing and people trust it for that.\n\nSpeaker ",
+      "category": "播客"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": "",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is that harnesses encode assumptions about what Claude can’t do on its own. However, t",
+      "category": "博客"
+    },
+    {
+      "title": "Claude Managed Agents: get to production 10x faster",
+      "url": "https://claude.com/blog/claude-managed-agents",
+      "publishedAt": "Apr 08, 2026",
+      "summary": "Today, we&#x27;re launching Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale. Until now, building agents meant spending development cycles on secure infrastructure, state management, permissioning, and reworking your agent loops for every mode",
+      "category": "博客"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "source": "github-trending",
+  "timestamp": "2026-04-14T01:28:29.069Z",
+  "count": 0,
+  "metadata": {
+    "daily": {
+      "count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "N/A",
+          "stars": 25368,
+          "starsGained": 5733,
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 77343,
+          "starsGained": 11289,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 3,
+          "name": "shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 17034,
+          "starsGained": 1554,
+          "url": "https://github.com/shiyu-coder/Kronos"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+          "language": "TypeScript",
+          "stars": 53353,
+          "starsGained": 3175,
+          "url": "https://github.com/thedotmack/claude-mem"
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 106994,
+          "starsGained": 2808,
+          "url": "https://github.com/microsoft/markitdown"
+        }
+      ]
+    },
+    "monthly": {
+      "count": 17,
+      "items": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 77343,
+          "starsGained": 69018,
+          "url": "https://github.com/NousResearch/hermes-agent"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "description": "My personal directory of skills, straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 14745,
+          "starsGained": 13661,
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "rank": 3,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+          "language": "TypeScript",
+          "stars": 23477,
+          "starsGained": 23203,
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+        },
+        {
+          "rank": 4,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 29431,
+          "starsGained": 14609,
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+        },
+        {
+          "rank": 5,
+          "name": "bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+          "language": "Python",
+          "stars": 61163,
+          "starsGained": 31379,
+          "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+          "rank": 6,
+          "name": "siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+          "language": "TypeScript",
+          "stars": 29370,
+          "starsGained": 21485,
+          "url": "https://github.com/siddharthvaddem/openscreen"
+        },
+        {
+          "rank": 7,
+          "name": "jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+          "language": "JavaScript",
+          "stars": 18886,
+          "starsGained": 14495,
+          "url": "https://github.com/jarrodwatts/claude-hud"
+        },
+        {
+          "rank": 8,
+          "name": "mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars": 21576,
+          "starsGained": 17477,
+          "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "rank": 9,
+          "name": "affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 154483,
+          "starsGained": 80744,
+          "url": "https://github.com/affaan-m/everything-claude-code"
+        },
+        {
+          "rank": 10,
+          "name": "TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 50148,
+          "starsGained": 18422,
+          "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+          "rank": 11,
+          "name": "google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+          "language": "Kotlin",
+          "stars": 20908,
+          "starsGained": 5586,
+          "url": "https://github.com/google-ai-edge/gallery"
+        },
+        {
+          "rank": 12,
+          "name": "obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 150457,
+          "starsGained": 69612,
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "rank": 13,
+          "name": "666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 54710,
+          "starsGained": 34012,
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "rank": 14,
+          "name": "shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 52803,
+          "starsGained": 27226,
+          "url": "https://github.com/shareAI-lab/learn-claude-code"
+        },
+        {
+          "rank": 15,
+          "name": "microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 39303,
+          "starsGained": 15781,
+          "url": "https://github.com/microsoft/VibeVoice"
+        },
+        {
+          "rank": 16,
+          "name": "onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 26954,
+          "starsGained": 9163,
+          "url": "https://github.com/onyx-dot-app/onyx"
+        },
+        {
+          "rank": 17,
+          "name": "google-ai-edge/LiteRT-LM",
+          "description": "",
+          "language": "C++",
+          "stars": 3670,
+          "starsGained": 2720,
+          "url": "https://github.com/google-ai-edge/LiteRT-LM"
+        }
+      ]
+    }
+  },
+  "items": []
+}
